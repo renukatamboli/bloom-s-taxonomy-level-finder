@@ -1,0 +1,75 @@
+from rest_framework.views import APIView
+from rest_framework.parsers import MultiPartParser, FormParser
+from rest_framework.response import Response
+from rest_framework import status
+from rest_framework.renderers import TemplateHTMLRenderer
+from .models import File
+#from .views import FileView
+from django.http import HttpResponse
+from .serializers import FileSerializer
+from string import digits
+#pdf
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+from cStringIO import StringIO
+#from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+#from pdfminer.converter import TextConverter
+#from pdfminer.layout import LAParams
+#from pdfminer.pdfpage import PDFPage
+#from cStringIO import StringIO
+#image
+#from PIL import Image
+import pytesseract
+import cv2
+import re
+import docx
+import os
+#ML
+from nltk.tokenize import word_tokenize,sent_tokenize
+from nltk import ngrams
+from nltk.corpus import stopwords
+import nltk
+import random
+#from textblob.classifiers import NaiveBayesClassifier
+#from textblob import TextBlob
+from wand.image import Image
+from PIL import Image as PI
+import pyocr
+import pyocr.builders
+import io
+import codecs
+class FileView(APIView):
+
+  parser_classes = (MultiPartParser, FormParser)
+
+  renderer_classes = [TemplateHTMLRenderer]
+  template_name = 'file.html'
+  def post(self, request, *args, **kwargs):
+
+    file_serializer = FileSerializer(data=request.data)
+    if file_serializer.is_valid():
+      file_serializer.save()
+      file_path = "/home/bloomtaxo/fileupload"+file_serializer.data["file"]
+      q = open('/home/bloomtaxo/fileupload/qextract/question.txt').read().lower()
+      i = open('/home/bloomtaxo/fileupload/qextract/notquestion.txt').read().lower()
+      bt11 = open('/home/bloomtaxo/fileupload/bt/bt1.txt').read().lower()
+      bt22 = open('/home/bloomtaxo/fileupload/bt/bt2.txt').read().lower()
+      bt33 = open('/home/bloomtaxo/fileupload/bt/bt3.txt').read().lower()
+      bt44 = open('/home/bloomtaxo/fileupload/bt/bt4.txt').read().lower()
+      bt55 = open('/home/bloomtaxo/fileupload/bt/bt5.txt').read().lower()
+      bt66 = open('/home/bloomtaxo/fileupload/bt/bt6.txt').read().lower()
+      bt1=['define','describe','draw','find','identify','label','list','locate','match','memorise','name','recall','recite','recognize','relate','reproduce','select','state','tell','write']
+      bt2=['compare','convert','demonstarte','describe','discuss','distinguish','explain','find out more information about','generalize','interpret','outline','paraphrase','predict','put into your own words','relate','restate','summarize','translate','visualize']
+      bt3=['apply','calculate','change','choose','complete','construct','examine','illustrate','interpret','make','manipulate','modify','produce','put into practice','put together','solve','show','translate','use']
+      bt4 = ['advertise','analyse','categoriase','compare','contrast','deduce','differenciate','distinguish','examine','explain','identify','investigate','seperate','subdivide','take apart']
+      bt5 = ['argue','assess','choose','compose','construct','create','criticise','critique','debate','decide','defend','design','determine','device','discuss','estimate','evaluate','formulate','imagine','invent','judge','justify','plan','predict','prioritise','propose','rate','recommend','select','value']
+      bt6 = ['add to','argue','assess','choose','combine','compose','construct','create','debate','decide','design','determine','devise','discuss','forcast','formulate','hypothesise','imagine','invent','judge','justify','originate','plan','predict','priortise','propose','rate','recommend','select','verify']
+      bt = {'bt1': bt1, 'bt2': bt2,'bt3':bt3,'bt4':bt4,'bt5':bt5,'bt6':bt6}
+      btperq = []
+      stop_words = set(stopwords.words('english'))
+      def get_features(sentence):
+          word_tokens = word_tokenize(sentence)
+          filtered_sentence = [w for w in word_tokens if not w in stop_words]
+          return {"first_wor

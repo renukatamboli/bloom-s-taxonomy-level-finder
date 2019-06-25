@@ -1,0 +1,164 @@
+Write about Fixed satellite service (FSS)?
+Write short notes on satellites solar power system? 
+Formulate general link equation. Find out an expression for C/N and G/T .
+Develop various techniques for improving throughputs of ALOHA system.
+Design the average packet delay for 50-kbps ALOHA satellite channel operating at a throughput of 8kbps with 1000-bit packets. 
+Derive fundamental radar range equation governed by minimum receivable echo power smin. 
+Estimate the radar cross-section of a spherical target if the wavelength .
+Establish a relation between Doppler frequency shift and radial velocity of a moving target. 
+Draw the block diagram of an amplitude comparison mono  pulse tracking radar in azimuth and elevation directions. 
+Derive the impulse response of a matched filter that is commonly used  in a radar receiver.
+Derive the expression for the noise figure of two networks that are in cascade.
+Compute the time required for Radar transmitted electromagnetic energy to travel 150 m and return to the source?
+Find the unambiguous range for a radar working with a pulse repetition frequency fP  of 1000 K Hz.
+Describe the construction details of transformer.
+Explain the ON load condition of a transformer .
+Find the following: (a) Secondary volt ampere (b) Primary current (c) Primary volt ampere. 
+Describe different types of capital. 
+Identify different types of Activity Ratios.
+can you design to?
+can you see a possible solution to?
+if you had access to all resourses,how would you deal with?
+why dont you devise your own way to?
+what would happen if?
+how many ways can you?
+can you create new and unusual uses for?
+can you develop proposal which would?
+how would you test?
+propose an alternative.
+how else would you?
+state a rule.
+Invent a machine to do a specific task.
+Design a building to house your study. 
+Create a new product. Give it a name and plan a marketing campaign.
+Write about your feelings in relation to. 
+Write a TV show play, puppet show, role play, song or pantomime about.
+Design a record, book or magazine cover for.
+Sell an idea.
+Devise a way to.
+Make up a new language and use it in an example.
+Can you design a to ?
+Why not compose a song about?
+Can you see a possible solution to?
+If you had access to all resources how would you deal with?
+Why don't you devise your own way to deal with?
+What would happen if?
+How many ways can you?
+Can you create new and unusual uses for?
+Can you write a new recipe for a tasty dish? 
+Can you develop a proposal which would?
+Which most accurately?
+Which is correct?
+Which statement about is true?
+What are the chances?
+Which would best?
+Which would the same?
+Which statement is sufficient to proven?
+Can you design a to ? 
+Why not compose a song about? 
+Can you see a possible solution to? 
+If you had access to all resources how would you deal with? 
+Why don't you devise your own way to deal with? 
+What would happen if? 
+How many ways can you? 
+Can you create new and unusual uses for? 
+Can you develop a proposal which would.
+Invent a machine to do a specific task. 
+Create a new product. 
+Give it a name and plan a marketing campaign. 
+Write a TV show, play, puppet show, role play, song or pantomime about.
+Design a record, book, or magazine cover for.
+Make up a new language code and write material using it. 
+Sell an idea. 
+Compose a rhythm or put new words to a known melody.
+Write about parallel computing .
+Write about virtual machines.
+Write about resources sharing in clustures .
+Write about middleware support for virtualisation.
+Write about virtual support at os level.
+What is autonomic computing? 
+What is boomi software?
+What is load balancing?
+Write about Google app engine.
+Write about VM life cycle.
+Write about Microsoft windows azure.
+Write about federation. 
+Write about elasticity. 
+Write about grid and cloud.
+Write about cloud service life cycle.
+Write about acceptance testing. 
+What is digital entity? 
+Write about service design. 
+What is data security ?
+Write about distributed system models and enabling technologies. 
+Write about technologies for network based system with suitable diagrams. 
+Write about Virtual Clusters and Resource Management.
+What are the three computing paradigms for cloud computing?
+Write about infrastructure enabling technology.
+Write about RVWS design in detail.
+Write about automated policy based management. 
+Write about amazon web services cloud.
+Write about elasticity.
+Write about a need for cloud mashups.
+Write about cloud contracting models.
+Write about quality of service and value composition.
+Design a data warehouse for a regional weather bureau.
+Design an efficient algorithm to mine multilevel sequential patterns from a transaction database. 
+Write a brief note on nuclear accidents and the Chernobyl disaster. 
+Find the coordinates of the vertices if the triangle is first rotated 100 counter clockwise direction about the origin and then scaled to twice its size.
+How do you obtain the orthographic projections of 3Dgeometric data base?
+Describe the various database models which are generallyused.
+Investigate the statement each segment of a B-Spline curveis influenced by only K control points or each control pointaffects only K curve segments.
+Write the APT geometry and motion statements of this job.
+Briefly discuss the following NC motion control systems.
+Write a CNC Turning Programing for the figure 1.
+Discuss the difficulties encountered in using conventional.
+Write CNC Turning Programing for the Figure 3.
+Write CNC Turning Programing for the Figure 4.
+Write CNC milling Programing for the Figure 5
+Write CNC milling Programing for the Figure 6.
+Write CNC drilling Programing for the Figure 7.
+Write CNC drilling Programing for the Figure 8.
+Write CNC milling Programing for the Figure 5.
+what are the advantages of Interchangeability?
+Give complete classification gauges with the help of neat diagram.
+determine the dimension of the shaft and the bush a maximum clearance of 0.075 mm with hole basis system.
+Difference between work shop gauges and Inspection gauges.
+Determine the tolerance on hole and shaft for a precision running fit.
+Design the general type GO and NO-GO gauge for components having 20H7/f8 fit.
+Explain about the optical flat working along with neat ketch.
+How straight edge can be used to measure the straightness?
+Explain the procedure for flatness measurement on a surface plate.
+By using optical flat and monochromatic light explain the procedure to determine whether the given surface is flat or curved.
+How will you test the flatness and parallelism of micrometer anvil surfaces with optical flat?
+what are orders of Geometrical irregularities of the surface texture?
+How will you represent it?
+What are the inspection methods used for measurement of surface finish?
+determine CLA and RMS values of surface roughness.
+State the principle of a working of Mechanical ,electrical,electronic and pneumatic comparator.
+Name the various types of pitch errors found in screw and state their causes.
+Describe any two of them in details.
+What are the Types of gears which are commonly used for power transmission?
+Describe a gear tooth vernier calliper and explain its use for checking the tooth thickness and depth of tooth.
+Write down expressions for the element stiffness matrices and element body force vectors.
+Determine the reaction force at the support. 
+Evaluate natural frequencies for the stepped bar shown fig.
+Evaluate natural frequencies for the stepped bar shown in fig.
+Write about parallel computing.
+Write about resources sharing in clustures.
+What is autonomic computing?
+Write about federation.
+Write about acceptance testing.
+What is digital entity?
+Write about service design.
+What is data security?
+Write about distributed system models and enabling technologies.
+Write about technologies for network based system with suitable diagrams.
+Write about automated policy based management.
+How many times during each of past five years have levels of testeted.
+The International Air Transport Association(IATA) is an international industry trade group of airlines write about its functions and regulations .
+Write about the risk assessment in the airport support your answer with its compulsory for every airport .
+ Write the security regulation types in the airports and aviation field for traveling of passenger in different countries .
+Write the functions of ICAO and its certifications.
+Write a short notes on:  
+ a) Passenger Load factor   b) Unique economic characteristics of air transportation systems.

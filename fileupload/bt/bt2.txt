@@ -1,0 +1,2713 @@
+Explain the importance of material handling. 
+Explain the relationship of material handling to plant layout.
+State the disadvantages of concentration of industries in a few areas.
+How will u classify material handling devices give one example of each type. 
+Write short notes on fork lift truck. 
+Explain material handling in process layout. 
+Explain material handling in product layout. 
+Compare the product layout and process layout in material handling. 
+Describe the static layout and its advantages. 
+Write the history of material handling.
+Write about the selection of material handlings with the help of neat diagram.  
+Describe the different factors which are responsible to replace the equipment. 
+What is meant by palletisation & containerization with one example. 
+What parameters are to be consider while selecting the material handling equipment? 
+Discuss the various steps involved in safe practice of lifting and moving materials. 
+Explain the various elements of handling moment with neat sketch. 
+Describe the brief description of types of cranes.
+Write about maintenance of hoists cranes.
+Explain how operators can be trained for safety.
+Discuss various cost considerations involved in materials handling. 
+Discuss the scope and activities of material handling department. 
+Describe the maintenance and typical scheduled plan of a conveyor system. 
+Explain the maintenance of industrial trucks. 
+Discuss the role of safety material handling systems.
+Enlist the different acts and rules of safety and health regulations in India.
+What are the different accidents encountered by fork lift truck and explain their causes?
+Explain the various various safety measure for over head operations for material handling.
+Explain the importance of cranes.
+Explain in brief design of cranes. 
+Define the term ergonomics.  
+Write the objectives of ergonomics. 
+What are the principles that are involved in ergonomics for designing in work stations?
+List out the miscellaneous equipments used in material handling system and explain any one of them. 
+Write a detail note on dumpers. 
+Classify different types of excavators and explain hydraulic excavators. 
+Explain about cambered boom ship loader with applications .
+Describe hopper with neat sketch.
+Define Routing and its significance. 
+State the objectives of routing. 
+Describe route sheets with a suitable example.  
+What is scheduling? What are its objectives?  
+Define Loading and how is it different from scheduling.  
+Write short notes on Bill of Materials.  
+How the route sheet is different from operation sheet.  
+What is route sheet? 
+What is the information it contains? 
+Explain it by drawing a route sheet. 
+Explain the routing procedure.  
+State the important factors that affecting routing procedure. 
+What are the reasons for scheduling? 
+Explain how scheduling improves the process of production control significantly.
+Explain the role of bills of material with the help of block diagram. 
+Discuss about the importance of scheduling policies.
+Explain standard scheduling policies with one example. 
+Explain the standard scheduling methods for job shop.  
+Explain any one scheduling method with an example. 
+Explain the flow shop scheduling.
+Write about standard scheduling policies in detail? 
+How does scheduling in Job shops differ from High volume continuous systems? 
+Explain in detail.
+Explain the scheduling rules with their relative advantages and disadvantages.
+Define  Aggregate planning. 
+Explain the factors affecting the aggregate planning.  
+What is line balancing? What are its objectives?
+Define  the following terms Work Station, Cycle time, Total work content and precedence diagram.  
+Describe briefly the steps involved in balancing of an assembly line by Ranked Positional Weight method. 
+What is expediting and explain about the duties of expediter?
+Explain various types of expediting procedures. 
+Define the aggregate planning and list out various strategies and explain one in detail.
+What is the meaning of Aggregate plan? What are the objectives of aggregate plans? 
+What are the inputs and the nature of the outputs?   
+Describe any one quantitative technique used for Assembly line balancing. 
+Explain the chase planning, expediting and control aspects.
+Explain the activities of dispatcher. 
+Explain the reasons for existence of dispatching functions. 
+Define dispatching and its importance.
+Define follow up  and its procedure. 
+Explain ideal voltage and current source?
+Discuss the applications of both series and parallel combination? 
+Discuss resistor, capacitor, and inductor with relevant expression?
+Explain difference between series and parallel resistive circuit?
+Explain the equations for resistors in equivalent star. 
+Explain in detail the volt-ampere relationship of R, L and C elements with neat diagrams? 
+Explain about series and parallel networks of resistor?
+Explain about series and parallel networks of inductor?
+Explain classification of network elements? 
+Write differences between ideal and practical voltage sources? 
+Write differences between ideal and practical current sources?
+Write a notes on dependent sources?
+Write down KVL and KCL and explain? 
+Write the characteristics of series and parallel circuits?
+State advantages of alternating quantities?
+Explain significance of J factor? 
+Explain polar form and rectangular form? Differentiate ac and dc quantities?
+Write about series RC circuit? 
+Explain the purpose of laminating the core in a transformer?
+Explain does transformer draw any current when secondary is open? Why?
+Explain mutual induction principle?
+Explain why the transformer measured in KVA? 
+Discuss what are the parts are in parts in transformer?
+Explain the equivalent circuit diagram of transformer?
+Define voltage regulation of a transformer? 
+Explain difference between core and shell type transformers?
+Explain core type transformers? 
+Explain shell type transformers?
+Explain iron losses of the transformers?
+Explain core losses of the transformers?
+Describe the construction details of transformer? Explain the principle of operation of transformer?
+Explain the OC test of a single phase transformer?
+Explain the losses in a Transformer?
+Explain the SC test of a single phase transformer? 
+Explain the determination of deducing equivalent circuit parameters?
+Explain the ON load condition of a transformer? 
+Explain the NO load condition of a transformer? 
+Explain What are the differences between an Ideal transformer and Practical Transformer?
+Explain self induction and mutual induction in detail. 
+Also derive the expression for dynamically induced emf.
+Explain in detail the difference between a core type and a shell type transformer.
+Write down the emf equation of a dc generator?
+Write down the torque equation of a D.C motor? 
+What is principle operation of 3-phase induction motor?
+Explain the slip-torque characteristics of 3-phase induction motor?
+State two types of induction motors?
+State Flemings right Hand Rule? 
+What is principle operation of dc generator?     
+State the function of commutator? 
+State the function of slots? 
+ State the function of slip rings?
+ Explain the classification of DC generator? 
+ Explain the principle and construction of a 3 phase induction motor?
+Explain why does an induction motor never runs at Synchronous speed?
+Obtain the condition for maximum running torque of an induction motor?
+Explain the classification of DC Motor and explain? 
+Explain the significance of back emf in a DC motor? 
+Explain the load characteristics of shunt, series and compound generators?
+Explain  the reasons for the following.
+Explain How may the direction of rotation of dc shunt motor be reversed? 
+What is the effect of reversing the line terminals?  
+Explain: Slip speed  ,Slip  ,Synchronous Speed  ,Torque.
+Explain Why an induction motor is called a rotating transformer?
+What are the types of measuring instruments? 
+Write short notes on moving iron instruments?
+Write short notes on moving iron instruments with attraction type?
+ Write short notes on moving iron instruments with repulsion type?
+ Write short notes on spring control mechanism? Write short notes on gravity control?
+ What is mean by instrument? 
+  Write different types of torques?
+  Write short notes on controlling torque?
+  What are Different types of instrument?
+  Write short notes on moving coil instruments? 
+  What are the differences between moving iron and coil instruments?
+  Explain working principle of permanent magnet moving coil instrument? 
+  Explain working principle of moving iron repulsion type instrument? 
+  Explain working principle of moving iron attraction type instrument?
+  Explain working of different types of torques produced in indicating instruments?
+  Explain  i) Deflecting torque   ii)   Controlling torque   iii)   Damping torque? 
+Mention advantages and disadvantages of MIinstruments? 
+Explain the essential requirements of instruments?
+ Classify of electrical instruments?
+ Discuss advantages and disadvantages of MI instruments?
+ Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments?
+ Explain With neat sketch, explain the process of eddy current damping.
+ Explain Why is the scale of a MI instrument non uniform? Explain.
+ Discuss the classification of electrical instruments.
+ Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments.
+ Explain with neat sketch the construction and working of a MI ammeter and MC Ammeter.   
+ Distinguish direct and retrograde orbits?
+ Explain how a satellite is located with respect to earth?
+ Discuss the advantages and disadvantages of satellite communications? 
+ Explain What is meant by apogee and perigee heights?
+ Explain the frequency allocation for satellite with respect to International Telecommunication Union (ITU)? 
+ Classify two segments of basic satellite communication? 
+Explain a brief account of. 
+Discuss the elements of satellite communication systems?
+ Explain each with a suitable block diagram?
+Explain the basic differences between an active and passive satellite. 
+Whether a passive satellite can be used for communication? 
+Explain the historical background on satellite communication? 
+Describe different frequency bands which are allocated for satellite communication and explain the uses of these frequencies? 
+Illustrate the effect of eclipse on orbital motion of satellite in brief.
+Describe in brief about Azimuth and Elevation angles in satellite communication? 
+Explain the coverage angle and slant range of satellite communication? 
+Discuss the orbital aspects, which are of importance in synchronous satellite communications. Explain these aspects in brief? 
+Summarize the maximum and minimum range in kilometer.
+ Explain how Keplers and Newtons laws are useful to describe the orbit. 
+Explain the interpretation of keplers laws.
+Explain different method for stabilizing a satellite? 
+Explain the meaning of term frequency reuse and payload of the satellite?
+Describe the spin stabilized satellites? 
+Discuss in detail the factors that affect the link design of a satellite.
+Discuss the affect of C/N and G/T ratios?
+Explain what is meant by noise factor for what source temperature is noise factor defined? 
+Explain the different types of noise to be considered in the design of satellite communication system.
+Explain the calculation of combined uplink and downlink C/N ratio?
+Discuss with a neat diagram the Anik-E C band transponder. 
+Explain the attitude control of a satellite with necessary diagrams.
+State how does the system noise ?
+Discuss the attitude and orbit control subsystems? 
+Explain how they perform their functions?
+Discuss reliability and redundancy?  
+Explain satellite stabilization? 
+Discuss about near geostationary orbits.
+Explain the following: input back off, output back off, earth station HPA and combined uplink and downlink.
+Explain Boltzmanns concept for performance of earth space links?
+Discuss the effects of propagation in atmosphere?
+Explain what is guard time? Mention its role in TDMA efficiency?
+Distinguish the drawback of SDMA/FDMA technique? Explain the function of various controls in DAMA system?
+Classify the difference between the pre-assignment and demand assignment multiple access systems.
+Explain pre assigned and demand assigned TDMA systems.
+Explain the principle behind spectrum spreading.
+Explain the concept of Ionosphere Scintillation.
+Explain transionospheric propagation predictions and corrections.
+Describe attenuation?
+Discuss in detail about direct sequence spread spectrum.
+Explain What is intermodulation noise? 
+Explain What are the components of GIS?
+Explain the applications of satellite navigation system?
+Summarize the advantages and disadvantages of forward error correction.
+Differentiate How MATV differs from CATV system?
+Explain with a block diagram the working of receiver part of earth station?
+Explain the objectives, principles and applications of . 
+ Discuss in detail about global positioning satellite system
+ antenna can be optimized?
+ Explain with the neat diagram the indoor and outdoor units of DBS home receiver and Discuss the satellite mobile services?
+ Explain the power test methods. 
+Explain the concept of GPS receiver and GPS C/A code Accuracy?
+Explain all the types of INTELSAT satellite with respect to basic space .
+Discuss in detail about MPEG compression standards? 
+Discuss briefly on DAB system.
+Explain FDMA and TDMA concepts?
+Explain the algorithm used in satellite packet switching? 
+Explain packet reservation?
+Describe the probability of M/M/I queue.
+Explain the delay analysis of TDMA?
+Explain frequency division multiple access in FDMA?
+ Differentiate pure ALOHA satellite packet switching with slotted ALOHA packet switching? 
+Discuss in brief the message transmission by FDMA by using MI G/I Queue? 
+Describe in detail about the message transmission by using TDMA ?
+Discuss in brief about packet reservation multiple access with the help of traffic load? 
+Discuss the Stability analysis for communication of voice terminals with packet reservation multiple access protocol?
+Discuss the preliminaries in packet communications?
+Estimate How many terrestrial channels can the satellite transponder accommodate? 
+Describe what is meant by Slant Range?
+Explain the importance of Radar Pulse in determining the minimum range of a radar set? Explain the relation between Pulse Repetition period .
+Describe the important function of the high voltage pulse from the modulator. 
+Explain the usage of a Duplexer in the Radar system. 
+Write simple Radar Equation.
+Describe the meaning of Antenna effective area. 
+Describe the relation between peak power of radar and the duty cycle of the pulses.
+Explain the difference between the simple radar equation and modified radar equation. 
+Explain what is meant by false alarm.
+Explain the difference between peak power and average power.
+Describe the Doppler effect? 
+Explain how the Doppler effect is used to determine velocity of targets in Radar systems? 
+What is Doppler frequency shift?
+Establish a relation between Doppler frequency shift and radial velocity of a moving target. 
+Why is amplitude comparison mono pulse more likely to be preferred over the phase comparison mono pulse and conical scan tracker over  sequential lobbing, or lobe switching, tracker? 
+How to select the difference between two transmitted signals of CW radar? 
+What are the effects which limit the amount of transmitter leakage power which can be tolerated at the receiver.
+What is a delay line canceller? 
+Compare and contrast the situations with a power amplifier and a power oscillator in the transmitter of an MTI system.
+Write the description of Range gate Doppler filters. 
+Describe the single lobe scanning?
+List out and describe the basic methods of scanning? 
+Define scan and its importance in a Radar system. 
+Explain Split-range-gate tracking Limitation of automatic detection and tracking.
+Explain the Echo pulse with respect to Tracking in.
+Explain the Early-late range gates with respect to Tracking in range.
+ Explain the ground clutter in radar systems.
+  Explain the function of time domain filter with an example.
+ Explain how a threshold level is selected in threshold detection?
+Describe the function of an Envelop detector  in Radar receivers .
+List out and explain the three fundamental quantities involved in radar displays?
+Explain a Radar Display system.
+What are the specific bands assigned by the ITU for the radar? What the corresponding frequencies? 
+What are the different range frequencies that radar can operate and  give their applications? 
+What are the basic functions of radar? In indicating the position of a target, what is the difference between azimuth and elevation?
+With the help of a suitable block diagram explain the operation of a pulse radar. 
+Explain how the Radar is used to measure the range of a target?
+Describe how threshold level for detection is decided in the presence of receiver noise for a specified probability of occurrence of false alarms.
+ Describe the e effect of pulse repetition frequency on the estimated unambiguous range of radar.
+  Describe the effect of (in terms of wavelength of operation) size of a .
+  What are multiple-time-around echoes?
+  Justify the requirement of integration of radar pulses to improve target detection process.
+  List all the possible losses in a radar system and discuss the possible causes of each of them.
+  With the help of a suitable block diagram, explain the operation of CW Doppler radar in a sideband super heterodyne receiver.
+  Explain how isolation between transmitter and receiver of a radar system can be achieved if single antenna is used for transmission and reception. 
+ Discuss the effect of receiver bandwidth on the efficiency of detection and performance of a CW Doppler radar. 
+  With the help of a suitable block diagram, explain the operation of       a CW  tracking illuminator application of a CW radar. 
+  explain the operation of a CW radar with non- zero IF in the receiver. 
+  explain the operation of a FM- CW altimeter. 
+  Describe Range and Doppler measurement of a target using a FM-CW radar. 
+  What are the various unwanted signals which cause errors in FM altimeter? 
+Explain Mono pulse tracking in two angle coordinates.
+ Illustrate the concept of blind speeds based on the frequency response of a single delay line canceller.
+ Describe automatic tracking of a target through range gating technique for unambiguous detection of a moving target. 
+ Describe the method of staggering pulse repetition frequency to reduce the effect of blind speeds in an MTI system.
+ Explain the following limitations of MTI radar.
+ Explain the operation of MTI radar with 2 pulse repetition frequencies.
+ Explain the function of time domain filter with an example.
+ Describe the phase comparison mono pulse tracking technique in a radar system with the help of necessary block diagram. 
+ Describe the process of acquiring a moving target prior to tracking it along with the patterns used for acquisition. 
+Describe automatic tracking of a target through range gating technique.
+Describe sequential lobbing type of error signal generation to track a target automatically.     
+With diagrams explain Split-range-gate tracking.
+Explain the principle behind the operation of duplexers and receiver protectors .
+Explain how a circulator can be utilized for a radar receiver protection.
+Describe the principle behind the operation of a phased array antenna in a radar system.
+Describe any of two types duplexers used in radar receivers.
+Explain the function of time domain filter with an example.
+What is the difference between matched filter and non-matched filter.
+Define noise figure and noise temperature of a receiver system.
+Explain about any two mixers.
+ What is low noise front end? What are its applications?
+Describe briefly various visual displays to view radar echo signals in radar systems.
+Describe the principle behind the operation of a phased array antenna in a radar system. 
+Explain its radiation pattern. 
+Briefly explain the concept of beam steering phased array antennas.
+Explain how beam width of a phased array antenna will vary with steering angle.
+Explain initial conditions of basic passive elements?
+What is the significance of initial conditions in a step response of r-l and r-?
+What is meant by step response of circuit? 
+What is meant by driven circuit and un-driven circuit?
+Define time constant?
+Define 1) Rise time 2) Peak time. 
+What is composite filter? 
+What is m-derived half section? 
+Does transformer draw any current when secondary is open? Why? 
+Derive condition of symmetry for transmission parameters.
+Derive condition of reciprocity for z parameters.
+Explain the principle of operation of DC generator.
+Explain the losses in a Transformer .
+Obtain the condition for maximum efficiency of a transformer .
+Explain the OC test of a single phase transformer.
+Obtain the equivalent circuit of a single phase transformer.
+ Determine i. The turns ratio.
+ Define  management .
+ Discuss the importance of management? 
+ Write the advantages of departmentation?
+ Explain about types of organization? 
+ Discuss about the importance of approaches of management? 
+ Explain about the concept of theory X?
+ Explain about the lower  level of management? 
+ Explain Hertzberg two factor theory of motivation- leadership styles social responsibilities of management?
+ Distinguish between centralization and decentralization? 
+ Discuss briefly about the systems approach to management? 
+Explain types and evaluation of mechanistic and organic structures of organization and suitability design? 
+ Describe briefly about the different approaches carried in an organization with suitable examples? 
+ Describe the components used as the core of an embedded system?
+ Give the difference between microprocessor and microcontroller?
+ define is digital signal processing (DSP)?  
+ Define is processor architecture?
+ Define programmable logic device? 
+ Define SRAM cell? 
+ Define DRAM cell?
+  Define Relay? 
+  What are the different types of relays are available?
+ Define is PPI device?  
+ Write the merits and limitations of the IEEE1394 interface over USB?
+ Which are the components used as the core of an embedded systems? 
+ Explain the merits and drawbacks? 
+ What is the difference between microprocessor and microcontroller? 
+ explain the role of micro processors and micro controllers in .
+ What is programmable logic device? 
+ What are different types of PLDs? 
+ Explain the role of PLDs in embedded system design? 
+ What are the advantages of FLASH over other program storage memory in Embedded system design? 
+ What are differences between general purpose processor and application specific instruction set processors with an example? 
+ What is absolute object file? 
+  Write the difference between compiler and cross compiler?
+  Write short notes on Linker and Locater? 
+  Discuss about the object to hex file converter?
+  What is embedded firmware? 
+  What are the different approaches available for embedded firmware development?  
+  Write the advantages and drawbacks of assembly language based development? 
+  Write the advantages and limitations of high language based development.
+  Define is an operating system? 
+  Define kernel? 
+  Discuss about kernel space and user space? 
+  Define monolithic and micro kernel?
+  Define task control block? 
+  Define virtual memory?
+  Define process life cycle?
+  Define process control block?
+  Analyze how threads and process are related?
+  Give the difference between threads and process in detail?
+  Define task scheduling? 
+  What is kernel?
+   What are the different functions handled by a general purpose kernel? 
+   Explain the difference between memory management of general purpose kernel and real time kernel? 
+   What is process control block (PCB)? 
+   Explain the structure of the PCB? 
+   What is task control block (TCB)? 
+   Explain the structure of the TCB? 
+What all activities are involved in context switching? 
+Explain the different types of non-preemptive scheduling algorithms? State the merits and demerits of each? 
+Explain the different types of preemptive scheduling algorithms? State the merits and demerits of each? 
+Define deadlock?
+ Discuss about Coffman conditions?
+ Define task synchronization?
+ Define device driver.
+ What is priority inversion? What are the different techniques adopted for handling priority inversion? 
+ What is mutual exclusion in the process synchronization context? Explain the different mechanisms for mutual exclusion? 
+ What is semaphore? 
+ Explain the different types of semaphores. Where it is used?
+ Explain the semaphore based process synchronization under windows OS.
+ Explain the event and event object based synchronization mechanism for IPC Windows OS.
+ Explain Investment Decision.
+ Write short note on perfectly Price Inelastic Demand.
+ Discuss about the Giffens Paradox.
+ Describe a short note on Relatively Price elastic Demand.
+ Write short notes on Unit Price Elasticity of Demand Understand 2 14 Write short note on perfectly price elastic Demand.
+ Write short note on cross elasticity of demand.
+ State Negative Income Elasticity.
+ State Unit Income Elasticity. 
+  State Income Elasticity is greater than unity.  
+  Discuss about Elastic Demand .
+  Discuss about Inelastic Demand   
+Briefly explain the exceptions of Law of Demand.  Describe the determinants of Law of Demand.
+Consider different methods of Cross Elasticity of Demand.
+Discuss the factors governing Demand Forecasting.
+State different types of Income Elasticity.
+State different types of Price Elasticity.
+State different types of Cross Elasticity.
+Discuss about Iso- Cost.
+Write short notes on Contribution. 
+Write short note on Profit and Volume Ratio.
+ Write short note on Angle of  Incidence .
+ Write short notes on Contribution. 
+ Write the formula for Contribution. 
+  Write the formula for Margin of Safety .
+  Write the formula for P/V Ratio. Write the formula for Break-Even Point ( in value) .
+  Write the formula for Break-Even Point ( in units) 
+  Write the formula for Margin of Safety Ratio .
+ Write the formula for estimated sales at a desired profit. 
+ Describe different types of Internal Economies. 
+ Discuss the significance of Break-Even Analysis. 
+ Briefly Explain about the Cobb-Douglas Production Function. 
+ Briefly Explain the classification of costs .
+ Describe different types of External Economies.
+ You are required to   i) Compute the P/V Ratio, Break-Even Point.
+ Explain about product differentiation.
+ Describe the Block Pricing.
+ What is promotional pricing?
+ Discuss the Promotional Pricing .
+ Discuss Marginal cost pricing.
+ Explain the Group Equilibrium. 
+ What is globalization.
+ Define Monopoly. 
+ Discuss the features of Monopoly?
+Discuss price-output determination in case of Monopoly. 
+Define Sole Trading. Describe the features, merits and demerits of Sole Trading? 
+Explain different types of Partners.
+Discuss price-output determination in case of Monopoly.
+Discuss the components of working capital.
+Explain Debt Factoring.
+Discuss the factors which are influenced on working capital requirement. 
+Describe the advantages and Disadvantages of Pay-back Period. 
+Prepare a statement of profitability showing the pay-back period from the following information.
+Using 10% as the cost of capital determine  (i) Pay-back Period ? 
+Compute (i) Fake Pay-back period and( ii)  IRR with the help of 25% and 26% D.f.
+Compute i) Pay- back period.
+Discuss the meaning of Journal Proper. 
+Explain the meaning of Double Entry System.
+Describe the Meaning of Errors of Omission .
+Explain the meaning of Contra Entry. 
+Explain the meaning of Capital Expenditure.
+Explain a short note on current ratio.
+Discuss the  Return on Capital Employed.
+Indicate the formula for debt collection period? 
+Describe two types of capital structure ratios. 
+Explain the meaning and computing procedure of Return on Capital Employed.
+What is the formula for Interest Coverage Ratio?
+ist out different types of Accounting Concepts.
+List out different types of Accounting Conventions.
+Explain the importance of Trading Account.
+Discuss the importance of Balance Sheet.
+Discuss different types of Liquidity Ratios.
+Explain different types of Capital Structure Ratios. 
+Differentiate between food chain and food web.
+Explain few important characteristics of a forest ecosystem.
+ Define ecological pyramids.
+What are biogeochemical cycles? Explain nitrogen cycle with help of a diagram.
+ Describe five ecosystems goods and services that human benefits from.
+ Explain phosphate and sulphate cycles.
+ Explain briefly about indicators of the quality of ecosystem.
+  What is meant by biomagnifications? Explain.
+  Explain how different development activities, including construction of dams, affect  the  various  ecosystems  and  what  action  need  to  be  taken to conserve them. 
+Explain  the  impacts  of  pesticide  and  other  agro  chemicals  on  any ecosystem you have visited.
+what does this mean?
+which are the facts?
+state in your own words.
+is this the same as?
+give an example.
+select the best definition.
+condense this paragraph.
+what would happen if?
+explain why?
+what expectations are there?
+read the graph.
+what are they saying?
+what seems to be?
+is it valid that?
+what seems likely?
+which statement supports?
+show in graph,table?
+what restrictions would you add?
+what could have happened next?
+can you clarify?
+can you illustrate?
+does everyone think in the way that does?
+Cut out, or draw pictures to show a particular event. 
+Illustrate what you think the main idea may have been.
+Make a cartoon strip showing the sequence of events.
+Write and perform a play based on the story.
+Retell the story in your own words. 
+Write a summary report of the event. 
+Prepare a flow chart to illustrate the sequence of events.
+Make a coloring book.
+Illustrate what you think the main idea was.
+Write a summary report of the event 
+Write and perform a play based on the story. 
+Can you write in your own words?
+ Can you write a brief outline? 
+ What do you think could have happened next?
+ Who do you think?
+ What was the main idea?
+Can you distinguish between?
+What differences exist between?
+Can you provide an example of what you mean?
+Can you provide a definition for? 
+Which shows in order from?
+What is the order?
+Which is the difference between a and a?
+Which is the same as?
+Express as a?
+Can you write in your own words? 
+Can you write a brief outline? 
+What do you think could have happened next? 
+Who do you think? 
+What was the main idea? 
+Can you distinguish between? 
+What differences exist between? 
+Can you provide an example of what you mean? 
+Cut out or draw pictures to show a particular event.
+Illustrate what you think the main idea was. 
+Make a cartoon strip showing the sequence of events. 
+Retell the story in your words. 
+Paint a picture of some aspect you like. 
+Write a summary report of an event. 
+Prepare a flow chart to illustrate the sequence of events. 
+Explain briefly about HTC.
+Explain briefly about HPC.
+Explain in brief about public cloud and infrastructure services.
+Explain in brief about private cloud and infrastructure services.
+Explain in brief about the virtual execution environment manager. 
+Explain in brief about the virtual execution environment host. 
+Distinguish direct versus indirect distribution.
+List out the weakness of information cards.
+Explain in detail about system models and distributed cloud computing. 
+Explain about Design Principles of Computer Clusters. 
+Explain about Computer Clusters and MPP Architectures. 
+Explain the virtualisation structure/Tools and mechanisms. 
+What is cloud computing? 
+Enlist and explain three service models, and four deployment models of cloud computing.
+Explain the system models for distributed and cloud computing? 
+Explain the architecture of P2P system? 
+Explain architectural design of compute and storage clouds?   
+Explain the infrastructure of Grid computing in detail? 
+Explain any six benefits of Software as Service in Cloud computing?
+Why is cloud called as eco system? justify
+Difference between process virtual machines, host VMMs, native VMMs.
+Explain the importance of virtualization.
+SOA as step forward  cloud computing,Explain?
+Explain in detail about RVWS design?
+What is ANEKA cloud platform?
+Explain the technologies for data security in cloud computing?
+Explain about ANEKA resource provisioning service? 
+Explain in detail about hybrid cloud implementation.
+Write about SAP  systems in detail .
+Explain about SLA management in cloud. 
+Write about HPC systems and HPC on clouds.
+Explain in detail about decouple your components.
+Explain about a framework to comprehend the competitive environment. 
+Explain about digital identity and data security.
+Write about quality of service and value  composition.
+Explain about common change management models(CMMM).
+Explain about management maturity model.
+Write about acceptance testing.
+Explain in detail about evaluation of SOA.
+Explain about parallel and distributed programming models.
+Discuss GPU clusters for massive parallelism.
+Explain cloud computing architecture and cloud components?
+Explain the NIST reference architecture of cloud computing in detail?  
+Explain risk from multi tenancy environment. How IDS can be used in environment ?
+Discuss SAAS,PAAS,IAAS and compare them.
+Explain Information and Data Model for Virtual machine.
+How does cloud architecture overcome the difficulties faced by traditional architecture? 
+What are the three differences that separate out cloud architecture from the tradition one? 
+Explain multithreading model in detail?
+Explain in detail about VM provisioning  process.
+Explain VM life cycle and VM monitoring.
+Explain in detail about automatic and selection process. 
+Explain about scheduling techniques for advance reservation of capacity.
+Explain about security considerations.
+Explain about traditional approaches to SLO management.
+Explain about common change management models(CMMM). 
+Explain about common change management models.
+Explain about a framework to comprehend the competitive environment.
+Define Complier briefly?
+Explain the cousins of compiler.
+Define the two main parts of compilation? 
+What they perform?
+How many phases does analysis consists? 
+State the general phases of a compiler?
+Explain the issues of lexical analyzer?
+State some compiler construction tools?
+Define the term Symbol table?
+Define the term Tokens in lexical analysis phase?
+Explain about error Handler?
+Define a translator and types of translator?
+Explain about parser and its types?
+Define bootstrap and cross compiler?
+Define pass and phase?
+List the different strategies that a parser can employ to recover from a syntactic error? 
+Explain the goals of error handler in a parser.
+Give the definition for leftmost and canonical derivations?
+Define a parse tree? 
+Define the term handle used in operator precedence?
+LR(k) parsing stands for what? 
+Why LR parsing is attractive one and explain? 
+Define goto function in LR parser with an example.
+Why SLR and LALR are more economical to construct Cananonical LR? 
+ Explain about handle pruning?
+ Explain types of LR parsers?
+ List the three kinds of intermediate representation?
+ How can you generate three-address code?
+ Define abstract or syntax tree?
+ Define basic blocks?
+ Discuss back-end and front-end?
+ Define the primary structure preserving transformations on basic blocks?
+ List common methods for associating actual and formal parameters?
+ Define back patching?
+ Explain the steps to search an entry in the hash table?
+ List the different types of type checking? 
+ Explain general activation record?
+ State the difference between heap storage and hash table?
+Explain the principle sources of optimization? 
+Explain the patterns used for code optimization? 
+Define the 3 areas of code optimization? 
+Define local optimization? 
+Define constant folding? 
+List the advantages of the organization of code optimizer?
+Define Common Sub expressions?
+Explain Dead Code?
+Explain the techniques used for loop optimization and Reduction in strength?
+Mention the issues to be considered while applying the techniques for code Optimization?
+List the different data flow properties?
+Explain inner loops?
+Define flow graph?
+Define a DAG? 
+Mention its Apply?
+Define peephole optimization?
+Explain machine instruction for operations and copy statement?
+Analyze global data flow?
+Explain about live variable analysis?
+Define the term copy propagation?
+Explain data flow equation?
+Explain the role of code generator in a compiler?
+Explain the instructions and address modes of the target machine?
+Identify the register descriptor target code for the source language statement (a-b) + (a-c) + (a-c); The 3AC for this can be written as t := a  b .
+How do you calculate the cost of an instruction?
+How will you map names to values?
+Generate the code for x: =x+1 for target machine?
+Define compiler? State various phases of a compiler and explain them in detail. 
+Explain the cousins of a Compiler? Explain them in detail. 
+Explain single pass and multi pass compiler? with example? 
+Define bootstrapping concept in brief?
+Explain the general format of a LEX program with example?
+Explain the algorithm for finding the FIRST and FOLLOW positions for a given non-terminal.  
+Construct a predictive parsing table for the grammar given above. 
+Verify whether the input string id + id * id is accepted by the grammar or not.
+Explain operator grammar? 
+Draw the precedence function graph for the following table. 
+State shift-reduce parsing? 
+Explain in detail the conflicts that may occur during shift-reduce parsing. 
+For the grammar given below, calculate the operator precedence relation and the precedence functions. 
+Generate the three-address code for the following C program .
+ Generate the code for the following C statements using its equivalent three address code.
+ Describe the method of generating syntax directed definition for control Statements?
+ Explain procedure calls with suitable example?
+ Explain different schemes of storing name attribute in symbol table.
+ Distinguish between static and dynamic storage allocation? 
+ Differentiate between stack and heap storage?
+ Explain the principle sources of code optimization in detail?
+ Explain peephole optimization? 
+ Discuss about the following .
+ Explain in the DAG representation of the basic block with example.
+ Explain Local optimization and loop optimization in detail.
+ Write about Data Flow Analysis of structural programs.
+ Explain various Global optimization techniques in detail? 
+ Discuss algebraic simplification and reduction in strength?
+ Explain in detail the issues in design of a code generator?
+ Explain the various source language issues?
+ List the different storage allocation strategies?
+  Write the procedure to detect induction variable with example?  
+  With example explain dead code elimination?
+  Explain how loop invariant computation can be eliminated.
+   Explain how Redundant sub-expression eliminates can be done in a given program?
+   Explain Machine dependent code optimization in detail with an example? 
+   Discuss various object code forms?
+   Write a short note on code generating algorithms? 
+ Write about target code forms and explain how the instruction forms effect the computation time?
+ Write type-checking rules that assign to each sub expression the sub range its value must lie in.
+ Define type expression? 
+ Write type expression for the following types.
+ Discuss and analyze about all allocation strategies in run-time storage environment? 
+ Explain the use of Symbol table in compilation process? 
+ List out various attributes stored in the symbol table. 
+ List the advantages and disadvantages of Static storage allocation strategies?  
+ Explain the data structure used for implementing Symbol Table? 
+ Consider the following part of code. 
+ State loop invariant computations? 
+ Explain how they affect the efficiency of a program?
+ Explain how Redundant sub-expression Eliminates can be done at global level in a given program? 
+ Explain role of DAG in optimization with example?
+ Efficient code generation requires the Remember of internal architecture of the target machine. 
+ Justify your answer with an Example?
+ Explain different types of networks?
+ Describe Why are protocols needed?
+ Describe Access point?
+ Describe the importance of networking?
+ Classify different types of Layers?
+ Explain the role of ARPANET in computer networks?
+ Discuss two points to improve the performance of network?
+ Describe Why are standards needed?
+ Explain briefly about MAN?
+ Explain about Sliding Window Protocol?
+ Explain briefly about WAN?
+ Describe an internet?
+Explain briefly about LAN?
+ Describe the advantages of a multipoint connection over a pointto-point connection?
+ Discuss the responsibilities of the data link layer in the Internet model?
+ Discuss How do the layers of the Internet model correlate to the layers of the OSI model?
+ Differentiate four basic topologies?
+ Explain how FDDI offers higher reliability than token ring protocol? 
+ Explain the two techniques for implementing Ethernet switches.
+ Explain in what situations contention based MAC protocols are suitable.
+ Explain how performance is improved in CSMA/CD protocol compared to CSMA protocol?
+ Explain Vulnerable Time?
+ Explain how throughput is improved in slotted ALOHA over pure ALOHA?
+ Distinguish between FDMA and TDMA?
+ Explain Design Issues Of Network layer?
+ Explain Optimality principle?
+Explain Congestion Control?
+ Explain how broadcast and multicast address is represented in IP addressing scheme?
+Differentiate between Datagram and datagram networks?
+Differentiate between virtual circuit and virtual circuit networks?
+Explain what is meant by routing algorithm?
+Define session routing?
+Explain Choke packet?
+Differentiate between network layer delivery and the transport layer delivery?
+Explain Subnet Mask?
+Explain how an application process running in one host is addressed by another process through TCP? 
+Describe Datagram Format of UDP?
+Distinguish between Contention and Congestion?
+ Explain how check sum is calculated in TCP? 
+ Explain CODE BITS in TCP header?
+ Define RARP? 
+ Explain WWW?
+ Explain DHCP?
+ Explain about Transport Layer Services.
+ Discuss Types of Payload?
+ Explain how connection Establishment is acquiring?
+ Explain how to release a connection from the network?
+ Explain crash Recovery.
+ Explain Internet Transport Protocols?
+ Differentiate between FTP & HTTP?
+ Explain TCP segment Header?
+ Explain Sliding Window Protocol?
+ Explain DNS Name Space.
+ Explain the concept of Telnet?
+ Explain MIME?
+ Explain how are OSI and ISO related to each other?
+ What happens to the frame? How can the sender be informed about the situation? Explain?
+Distinguish between baseband transmission and broadband transmission? 
+Explain the categories of networks?
+ Explain ISO/OSI Reference model with neat diagram? 
+ Explain error detection and error correction techniques? 
+  Explain the flow control mechanism?
+  Explain about HDLC?
+  Explain the timers and time registers in FDDI?
+  Explain error control mechanism? 
+  Explain about SONET and Bridges?
+  How performance is improved in CSMA/CD protocol compared to CSMA protocol?
+  How CSMA/CA differs from CSMA/CD? 
+  Explain in brief?
+  Explain in details about the access method and frame format used in Ethernet and token ring?
+  Explain the working of carrier sense multiple access protocol? 
+  Discuss the MAC layer functions of IEEE 802.11?
+Explain in details the types of bridges?
+How a Token Ring LAN does operate? 
+Discuss that can be used to set up wireless LANs?
+Explain the frame format, operation and ring maintenance feature of IEEE 802.5 MAC protocol? 
+Explain why collision is an issue in a random access protocol but not in controlled access or channelizing protocols ?
+Compare and contrast a controlled access protocol with a channelizing protocol?  
+Do we need a multiple access protocol when we use the local loop of the telephone company to access the internet? 
+Explain Packet switching technique in detail?
+Explain Internet Protocol with the neat block diagram of IP header format? 
+Discuss about Address Resolution Protocol?
+Explain about Internet Control Message Protocol?
+ Explain the various congestion control mechanism in detail?
+ Explain the Link State routing algorithm with an example?
+ Describe the Routing Information protocol  and Distance vector routing protocol? 
+  Explain the Datagram delivery and Forwarding in Internet Protocol.
+  Explain the two approaches of packet switching techniques.
+  Explain IP addressing method?
+  Describe two groups of multicast routing protocols?
+  Explain the real transport protocol of UDP and how will you calculate checksum in UDP?
+  Describe the Adaptive retransmission policy in detail?
+  Explain the TCP Connection establishment and termination using Timeline diagram.
+  Describe the three way handshake protocol to establish the transport level connection?
+  Explain TCP state Transition diagram?
+  Explain the connection establishment?
+  Discuss about the TCP sliding window algorithm for flow control?
+  Explain congestion control algorithms in detail?
+  Explain leaky bucket and token bucket algorithm?
+  Explain UDP &TCP?
+  Explain congestion avoidance techniques in detail?
+   Describe the role of the local name server and the authoritative name server in DNS?
+   Explain in detail about the working principles of Simple Network Management Protocol (SNMP) ?
+   Discuss how the Simple Mail Transfer Protocol (SMTP) is useful in electronic mail?
+   Describe in detail about the World Wide Web (WWW) ?
+   Explain the working principle of FTP in detail with neat diagram?
+   Explain the WWW in detail?
+   Differentiate between ARP and RARP?
+   Explain  the specific purposes of the DNS, HTTP, SMB, and SMTP/POP application layer protocols?
+   Compare and contrast client/server with peer-to-peer data transfer over networks?
+   Explain three domains of the Domain Name Space?
+   Differentiate  between primary server and secondary server?
+    What would be the utilization of this channel when 100 nodes are connected in an Ethernet configuration? 
+   If the channel is converted to a ring, running token ring, what would be the utilization of the channel? 
+   Describe in detail about the concept of data transmission and its terminology with necessary example? 
+For P = 110011 and M = 1100011, find CRC?
+For each of the following four networks, Discuss the consequences if a connection fails? 
+Calculate the hamming distance for each of the following code words? 
+Derive the Laplace transform of the message delay in FDMA in which every message contains a random number of packets. 
+Compare the expected message delay with that of TDMA?
+How many total bytes are exchanged if there is no limitation on the number of frames a station can send in response to a poll?
+Derive the steady-state distribution and the first two moments of the number of messages in a TDMA system where L (z) is the generating function of the number of packets in a message?
+One hundred station on a pure ALOHA network share a 1-Mbps channel.
+if frames are 1000 bits long, find the throughput if each station is sending 10 frames/sec? 
+What will be the throughput delay characteristic of an FDMA channel?
+What will be the throughput delay characteristic of a TDMA channel?
+What would be the contents of the table if the router received the following RIP message from router C?
+ What are the contents of the entry related to this address in the unicast routing table? 
+ Is the FECN bit set? Is the BECN bit set? 
+ Show a routing table for a host that is connected to a LAN without being connected to a internet? 
+ Design  the autonomous system with the following specifications.
+ Write the following MASKS in slash notation (y/n) ?
+ Find the class of the following IP addresses?  
+ Show the entries in the ARP request packet sent by the router.  
+ Is this a first fragment middle fragment or last fragment Explain? 
+How many bytes of the data were originally sent by the source before the data in this fragment. 
+Calculate the efficiency of this transmission at the UDP level (ratio of useful bytes to total bytes)?
+ Design a diagram to show the situation of the  window  before  and  after?
+ Determine which of the following is an FQDN and which is a PQDN? 
+ Interpret the following sequences of characters (In Hexa decimals) received by a TELNET client or server?
+ Show the sequence of bits sent from a client TELNET for the binary transmission of. 
+ Explain the role of program counter in addressing modes?
+ Discuss the different types of addressing modes?
+ Explain the four basic types of operations that need to be supported by an instruction set?
+ Describe the Auxiliary carry flag usage?
+ Explain load and store architecture in microprocessor?
+ Discuss data structures that can be best supported using (a) indirect addressing mode (b) indexed addressing mode? 
+ Explain the functional units of a general computer?
+ Explain different types of addressing modes in branch instructions?
+ Explain briefly the operation of load in Pentium microprocessor?
+ Discuss about micro instruction sequence in fetch instruction cycle?
+ Explain Little endian and big endian scheme of instructions.
+ Explain a procedure to handle an interrupt?
+ Differentiate synchronous and asynchronous communication?
+ Discuss how DMA have priority over the CPU while memory transfer in CPU?
+ Discuss memory mapped I/O in computer organization?
+ Explain different hazards in pipeline concept while an instruction is transferd.
+ Discuss the need of interrupt controller while instructions are executed?
+ Explain DMA operation? State its advantages?
+ Explain the program-controlled I/O with an example?
+ Discuss interrupt masks provided in any processor?
+ Discuss the necessity of an interface in memory organization?
+ Explain a privileged instruction set in memory?
+ Discuss the usage of an I/O controller. 
+ Explain strobe control in asynchronous data transfer along with hand shaking problem?
+ Explain cache memory to reduce the execution time?
+ Explain the necessary for memory hierarchy?
+ Differentiate SRAM and DRAM?
+ Explain the mapping procedures adopted in the organization of a Cache Memory? 
+ Discuss the function of a TLB(Translation Look-aside Buffer)?
+ Discuss the multilevel hierarchy of storage devices?
+ Explain memory management unit (MMU).
+ Discuss the enhancements used in the memory management.
+ Explain basic concept of virtual memory technique?
+ Discuss the significance of flags in flag register in 8086? 
+ Explain how physical address is generated in 8086?
+ Explain the advantage of using memory segmentation?
+ Discuss how queue, speed up processing?
+ Explain about index registers? 
+ Describe the functions of BIU?
+ Explain about timing and control unit in 8086?
+ Explain why 8086 internal architecture is divided into BIU and EU? Discuss the A-bus, B-bus and C- bus and their use.
+ Explain the advantages of pipelining.
+ Calculate physical address using base and offset addresses in 8086?
+ Discuss the function of S3 and S4 Status signal of 8080 microprocessor?
+ Explain the roles of pins TEST, LOCK. With examples?
+Describe how do you configure 8086 into minimum and maximum modes?
+Explain which are the pins of 8086 that are to be connected to 8087 and explain their functions? 
+Define microprocessors and evolution of microprocessors?
+Define pipelining concept and explain its working?
+Explain the function of a segment register in 8086?
+Explain the purpose of MN/MX pin?  
+Explain how many 16 bit registers are available in 8086.
+Define relative memory addressing with an example?
+Explain the use of push and pop instruction in 8086 ?
+Discuss the function of stack pointer? 
+Define macro and procedure? Discuss the advantages of macro?
+Explain the function of XLAT and CWD instructions in 8086?
+Explain the two techniques to convert binary data to ASCII ? 
+Explain DAA, DAS instructions with examples?
+Explain the instructions related to arithmetic and logical shift?
+Describe how REP instruction is used along with string instructions?
+Discuss about cross-compiler?
+Define non-Mask able interrupts?
+Explain IN and OUT instructions?
+Explain PTR & GROUP?
+Discuss how do you set and clear direction flag?
+Explain how to set and clear trap flag
+Explain different types of addressing modes with Suitable examples?
+Explain i) Implied mode ii) Immediate Mode iii) Register Mode iv) Register indirect mode v) Direct addressing mode with Examples.
+Explain different program control instructions in CPU?
+Discuss status bit conditions with Diagram?
+Explain conditional branch instructions?
+Compare different instruction formats.
+Explain the DMA transfer technique with the block diagram?
+Explain i) Indirect addressing Mode ii) Relative addressing Mode iii) Auto increment or auto decrement mode. Iv) Indexed addressing mode and Base register addressing mode.
+Describe input-output-processor (IOP) Organization in detail? 
+Compare I/O versus Memory bus?
+Explain DMA Controller with the block diagram.
+Differentiate isolated I/O and memory mapped I/O?
+Discuss Strobe Control method of   Asynchronous data transfer technique?
+Explain Asynchronous communication interface with diagram?
+Discuss various techniques used for Modes of Transfer?
+Explain 8089 Input-Output processor?
+Describe asynchronous serial transfer?
+Discuss Handshaking method of   Asynchronous data transfer technique?
+Explain briefly about memory hierarchy?
+Discuss RAM and ROM chips with diagrams?
+Explain what are the GPR & SPR registers in 8086?
+Explain the functional block diagram of 8086and write about the functions of each block?
+Explain with example how physical address is generated?
+Discuss the addressing modes provided by 8086with examples?
+Discuss the instructions formats of 8086 with examples?
+Describe the following instructions with examples.
+Explain Arithmetic instruction set of 8086 with examples.
+Explain data transfer instructions of 8086 with examples?
+Distinguish macros & procedures?
+Explain short notes on JUMP instructions with examples?
+Explain the following instructions.
+Explain If AL contains A0H, what happens when the instruction CBW is executed.
+Explain the uses of Shift & rotate instructions?
+Explain short notes on string instructions?
+Identify the logical instructions available in 8086?
+Indicate whether the following constitute a control, status, or data transfer commands.
+Discuss the difficulty that may arise.
+ Discuss the main advantages and disadvantages of making the size of the cache blocks larger or smaller? 
+ Explain the loop instructions of 8086? 
+ Explain the use of DF flag in the execution of string instructions?
+ Explain common function signals of 8086?
+ Explain about HOLD response sequence?
+Explain hardware and software, vectored and non-vectored, I/O and processor interrupt in 8086? 
+Explain the architecture of 8086 with BIU and EU units and implementation of pipelining and instruction queue techniques? 
+Explain how odd memory bank is accessed in 8086?
+Explain segmentation of memory in 8086?
+Describe an assembly language program to find sum of squares?
+Explain a program sequence thatcompares thefirst 10 bytes beginning atCHAR_1with the first10bytes beginning at CHAR_2 and branches toMATCH.
+Identify the errors in the following instructions or groups of instructions.
+Describe best case, average case and worst case efficiency of an algorithm?
+Explain the term  amortized efficiency.
+How do you measure the algorithm running time?
+Explain algorithm design technique?
+What is meant by divide and conquer?  
+Give the recurrence relation for divide and conquer. 
+Discuss various the asymptotic notations used for best case average case and worst case analysis of algorithms.
+Differentiate between priori analysis and posteriori analysis. 
+Write binary search algorithm and analyze its time complexity.
+Discuss Iterative binary search algorithm.
+Describe strassens matrix multiplication.
+Explain amortized analysis .
+Explain probabilistic analysis.
+Explain game tree.
+Write an algorithm for breadth first search. 
+Give example.
+Explain depth first search algorithm with example.
+Discuss various tree traversal techniques with examples.
+Explain in detail about AND/OR graphs.
+Discuss about weighting rule for finding UNION of sets and  collapsing rule.
+Differentiate divide and conquer and greedy method. 
+Discuss game trees.
+List  the  articulation points from the following graph.
+Write inorder,  preoreder, post order traversal of the following tree.
+Write inorder,  preorder, post order traversal of the following tree .
+List the features of dynamic programming.
+Explain prims algorithm with  an example.
+Discuss  kruskals algorithm with  an example.
+Explain 0/1 knapsack problem with example  .
+Discuss  all pairs shortest path problem with  an example.
+Describe the travelling salesman problem and discuss how to solve it using dynamic programming?
+Explain  8  Queens problem.
+Define  Sum of Subsets problem.
+Describe graph coloring problem and write an algorithm for m-coloring problem. 
+Describe control abstraction for LC Search .
+Sketch  the state space tree degenerated by 4 queens problem .
+Identify Hamiltonian cycle from the following graph.
+Draw the portion of state space tree generated by LCBB by the following knapsack problem.
+Draw the portion of state space tree generated by FIFO knapsack for the instance. 
+Identify Hamiltonian cycle from the following graph. 
+Explain optimization problem.
+Define maxclique problem?
+Write non deterministic algorithm for sorting and searching. 
+Explain how P and NP problems are related.
+Distinguish NP- hard and NP-complete problems. 
+Show that satisfiability is at most three literals reduces to chromatic number. 
+List two problems that have  polynomial time algorithms justify your answer.
+Explain 3CNF satisfiability problem.
+Discuss P type problems  with examples.
+List the key features of data warehouse.
+List the metadata repository?
+List the various multidimensional models?
+Explain about the star schema?
+Explain the snowflake schema?
+Name the OLAP operations?
+Express what is slice and dice operation?
+Define Pivot operation?
+Distinguish between the OLAP Systems and Statistical databases?
+State the various views of data warehouse design?
+Explain Multidimensional OLAP(MOLAP) server?
+State what is Hybrid OLAP(HOLAP) server?
+Differentiate operational database systems and data warehousing?
+Discuss briefly about the multidimensional data models?
+Explain  with  an  example  the  different  schemas  for  multidimensional databases?
+Discuss the efficient processing of OLAP queries?
+Explain the data warehouse applications?
+Explain the architecture for on-line analytical mining?
+Explain about  the  concept  description?  
+And  what  are  the  differences between concept description in large databases and OLAP?
+Discuss about Metadata Repository?
+Explain about the data warehouse implementation with an example?
+Discuss about types of OLAP Servers?
+Explain OLAP operations in the Multidimensional Data Model?
+Explain what are the differences between the three main types of data warehouse usage: information processing, analytical processing and data mining? 
+Discuss the motivation behind OLAP mining(OLAM)? 
+Explain a data warehouse can be modeled by either a star schema or a snowflake schema.
+ Briefly describe the similarities and the differences of the two models, and then analyze their advantages and disadvantages with regard to one another?  
+Explain Indexing OLAP Data?
+Enumerate three classes of schemas classes of schemas that are popularly used for modeling data warehouses.
+Draw a schema diagram for the above data warehouse using one of the schema classes listed in (a).
+Explain  the computation of measures in a data  cube.
+Enumerate three categories of measures, based on the kind of aggregate functions used in computing a data   cube. 
+which category does the function variance belong to? 
+Describe how to compute it if the cube is partitioned  into  many chunks.
+  Discuss  how  to efficiently  compute  this measure  in  a  data cube.
+  Design an efficient computation and storage method for each measure given that the cube allows data to be deleted incrementally (i.e., in small portions at a time) from  the cube.
+  Explain the definition of data warehouse?
+  Distinguish between data mining and data warehouse?
+  Interpret major issues in data mining?
+  Discuss relational databases?
+  State object oriented Databases?
+  Explain the spatial databases?
+  Contrast heterogeneous databases and legacy databases?
+  Differentiate classification and Prediction?
+  Express what is a decision tree?
+  Explain the outlier analysis?
+  Name the steps involved in data preprocessing?
+  Interpret the dimensionality reduction?
+  Describe data mining?
+  Is it another hype?
+  Is it a simple transformation of Technology developed from databases, statistics, and machine learning? 
+  Explain how the evolutions of database technology lead to data mining? d)Describe the steps involved in datamining when viewed as a process of knowledge discovery. 
+  Explain the difference between discrimination and classification? Between characterization and clustering? Between classification and prediction? 
+  For each of these pairs of tasks, how are they similar? 
+  Discuss briefly about the data smoothing techniques?
+  Explain Data Integration and Transformation?
+  Describe the various data reduction techniques?
+  Differentiate between descriptive and predictive data mining?
+  Explain data mining as a step in the process of knowledge discovery?
+  Discuss about the concept hierarchy generation for categorical data?
+  List and describe the five primitives for specifying a data mining task?
+  Discuss issues to consider during data integration?
+  Explain Data quality can be assessed in terms of accuracy, completeness, and consistency. Propose two other dimensions of data quality. 
+  Describe the architecture you would choose. What is the purpose of each component of this architecture? 
+  State maximal frequent itemset?
+  List the techniques of efficiency of Apriori algorithm?
+  Explain ECLAT algorithms usage?
+  Name the pruning strategies in mining closed frequent itemsets?
+  Interpret the rule of support for itemsets A and B?
+  Classify the confidence rule for itemsets A and B? 
+  Name the steps in association rule mining.
+  Explain the join step?
+  State how can we mine closed frequent itemsets.
+  Name the pruning strategies of closed frequent itemsets?
+  Explain the two kinds of closure checking.
+  Summarize the constraint-based mining.
+  List the applications of pattern mining.
+  Discuss which algorithm is an influential algorithm for mining frequent itemsets for boolean association rules? Explain with an example?
+  Discuss the FP-growth algorithm? 
+  Explain with an example? 
+  Explain how to mine the frequent itemsets using vertical data format.
+ Discuss  about  mining  multilevel  association  rules  from  transaction databases in detail? 
+ Discuss about constraint-based association mining?
+ Explain the Apriori algorithm with example?
+ Discuss the generating association rules from frequent itemsets.
+ Explain what are additional rule constraints to guide mining?
+ Explain Association rule mining often generates a large number of rules. 
+ Discuss effective methods that can be used to reduce the number of rules generated while still preserving most of the interesting rules.
+ Compare the performance of each algorithm with various kinds of large data set.
+  Write a report to analyze the situations (such as data size, data distribution, minimal support threshold setting, and pattern density) where one algorithm may perform better than the others, and state why.
+ identify the kinds of constraint they represent and briefly discuss how to mine such association  rules efficiently.
+ Explain 3CNF satisfiability problem.
+ Discuss P type problems  with examples.
+ Discuss the efficient processing of OLAP queries? 
+ Discuss Data Independence?
+ Explain database Access for applications Programs.
+ Explain about Database storage structure?
+ Discuss Transaction management?
+ Explain the Query Processor?
+ Discuss about Data Definition language?
+ Discuss about Data Manipulation language?
+ Explain about querying relational data?
+ Explain the History of Data base Systems?
+ Discuss how can you change the data in the table?
+ Discuss How can you alter and destroy tables?
+ Explain data model and  list the types of data model used?
+ Give the levels of data abstraction?
+ Explain about  stored and derived attributes?
+ Discuss the use of rename operation?
+ Discuss the basic form of SQL query?
+ Discuss about trigger?
+ What is domain integrity? 
+ What is the use of group by clause?
+ Discuss normalization?
+ Discuss Domain-Key Normal Form? 
+ Explain about Loss  less-join dependency?
+ Explain about BCNF?
+ Explain about multi-valued dependencies?
+ Explain the concept scheme refinement in database design?
+ Explain about inclusion dependency?
+ Discuss different phases of transaction?
+ Discuss recoverable schedules?
+ Discuss cascade less schedules?
+ Discuss the Procedure to test Serializability?
+ Explain about different types of locks?
+ Discuss about Failure Classification?
+ Discuss the failures that can occur with loss of Non-volatile storage?
+ Discuss View Serializability?
+ Explain about transition states?
+ Explain about acid properties?
+ Explain about locking protocols?
+ Explain about multiple granularity?
+ Explain about storage structure?
+ Explain about remote backup systems?
+ Discuss about data on External storage?
+ Explain Clustered Indexes?
+ Discuss the Primary and Secondary indexes?
+ Explain Hash based Indexing?
+ Discuss the intuition for Tree Indexes?
+ Discuss about Overflow pages and Locking considerations of ISAM?
+ Discuss the Cost model of Heap files?
+ Discuss the Cost model of Sorted files?
+ Discuss the Cost model of Clustered files?
+ Explain about several ordered indexing?
+ Explain about B+ tree index file?
+ Explain about static hashing?
+ Explain about organization of records in files?
+ Explain about RAID.
+ Discuss about different types of Data models?
+ Describe the Structure of DBMS? 
+ Discuss additional features of the ER-Models.
+ Discuss about the Concept Design with the ER Model?
+ Explain different types of database users and write the functions of DBA?
+ Explain about different types of integrity constraints?
+ Discuss about the logical database Design?
+ Differentiate relation schema and relational instance? 
+ Define the terms arity and degree of s relation? 
+ What are domain constraints?
+ Describe logical connectives of SQL?
+ Discuss about active databases?
+ Explain different types of joins?
+ Discuss about Domain Relational calculus in detail?
+ Discuss about Complex integrity constraints in SQL?
+ Discuss different types of aggregate operators with examples in SQL?
+ Discuss correlated nested queries?
+ Write a query to find the names of sailors who have reserved a red boat?
+ Write a query to find the names of sailors who have not reserved a red boat?
+ Explain Relational calculus?
+ Write a TRC query to find the names of sailors who have reserved boat 103?
+ Write a DRC query to find the names of sailors who have reserved boat 103?
+ Describe properties of decompositions?
+ Explain about Schema refinement in Database design? 
+ Discuss about Join dependencies and Fifth normal form? 
+ Explain ACID properties and Illustrate them through examples?
+ Discuss How do you implement Atomicity and Durability? 
+ Discuss Serializability in detail?
+ Discuss two phase locking protocol and strict two phase locking protocols?
+ Describe Timestamp based locking protocols?
+ Describe Validation-based  locking protocols?
+ Discuss in detail Multiple Granularity?
+ Explain in detail Storage structure?
+ Discuss Deferred database modification and Immediate database modification?
+ Discuss how do you recover from Concurrent transactions?
+ Explain Buffer Management?
+ Explain different types of Advanced Recovery Techniques?
+ Compare I/O costs for all File Organizations?
+ Explain in detail about ISAM.
+ Explain B+ trees? 
+ Discuss about this Dynamic Index Structure?
+ Demonstrate searching a given element in B+ trees? 
+ Explain with example.
+ Explain in detail about Extendible Hashing?
+ Explain in detail about Linear Hashing?
+ Give an example for class structure.
+Give the meaning of Intent.
+ Give the meaning of WYSIWYG.
+ Give example of class diagram.
+ Discuss the role of participants.
+ Discuss the MVC architecture in small talk.
+ Explain how to describe design patterns.
+ Explain the process of recursive composition in building a document.
+ Explain in detail about the Glyph abstract class. 
+ Discuss the goals and constraints in choosing an internal representation for a document.
+ Explain partial Glyph class hierarchy with a neat diagram.
+ Explain composition and compositor class relationship with a neat diagram.
+ Discuss the two embellishments that can be added to Lexis user interface. 
+ Signify the role of decorator pattern in embellishment.
+Explain about abstracting object creation in detail.
+Give the sample code for abstract factory design pattern. 
+Explain the implementation of abstract factory.
+Discuss about structure, applicability, participants of abstract factory method.
+Discuss the implementation issues of builder design pattern.
+Explain the structure of builder design pattern with class diagram and describe the collaboration with a sequence diagram. 
+Discuss the importance of implementation in composite structural pattern. 
+Give the intent, applicability and structure of composite design pattern and explain it.
+Explain the structure of composite pattern with a class diagram. 
+Explain composite pattern with an example from drawing editor.
+Explain the structure of decorator pattern with suitable example.
+Explain the motivation for decorator method with relevant patterns. 
+Explain the structure of decorator design pattern with a class diagram.
+Explain the structure of facade design pattern with class diagram and consequences.
+Explain the consequences of flyweight method with its structure.
+Explain structure of flyweight pattern with suitable example.
+Explain the uses of command design pattern and its structure with class diagram. 
+Also explain the implementation issues.
+Explain the implementation and consequences of command pattern.
+Explain the implementation issues of command pattern with sample code.
+Explain the collaborations and consequences of command method.
+Explain the interpreter design pattern and discuss the consequences and implementation issues.
+Discuss the implementation issues of Iterator.
+Explain the structure of mediator design pattern with a class diagram and discuss the collaboration with a sequence diagram. 
+Discuss about intent, motivation, structure, applicability and consequences of a mediator behavioral pattern.
+Explain the participants, collaborations, implementation and sample code of the mediator pattern.
+Explain the known uses of memento method.
+Discuss the consequences and implementation issues of memento design pattern.
+Explain the implementation issues of observer design pattern.
+Explain how design patterns affect the way object-oriented software is designed. 
+Discuss design patterns as a supplement to the existing methods.
+Discuss the history of design patterns.
+Design the software with suitable design pattern and explain with a class diagram. 
+Briefly discuss the consequences and implementation issues.  
+Discuss the following aspects of behavioral patterns briefly: (i) Should communication be encapsulated or distributed.
+Write short notes on binary number systems?
+Discuss 1s and 2s complement methods of subtraction?
+Discuss octal number system?
+Explain how do you convert AOI logic to NAND logic?
+Write a short note on five bit BCD codes?
+Explain the specialty of unit distance code? 
+State where they are used?
+Write a short note on error correcting codes?
+Discuss what a logic design is and what do u mean by positive logic system?
+Convert (4085)9 into base-5?
+Write the first 20 decimal digits in base 3?
+Write the steps involved in unsigned binary subtraction using complements with examples? 
+Explain the addition of two signed binary number along with examples?
+Differentiate between binary code and BCD code?
+Explain how binary values are stored in memory?
+Write the Axiomatic Definitions of Boolean Algebra?
+Write a table stating all the postulates and theorems of Boolean Algebra that are required for logic minimization?
+Convert f(x)= x + y'z into canonical form?
+Write the block diagram of 2-4 and 3-8 decoders?
+Describe what do you mean by look-ahead carry?
+Summarize the Boolean function xyz + xyz + xyz + xyz using K-map?
+Explain how combinatorial circuits differ from sequential circuits? 
+Explain what are the IC components used to design combinatorial circuits with MSI and LSI? 
+Design the two graphic symbols for NAND gate?
+Design the two graphic symbols for NOR gate?
+Summarize the Boolean functionxyz + xyz + xyz + xyz without using K- map?
+Explain the properties of EX-OR gate? 
+Summarize the rules and limitations of K-map simplification?
+Explain the design procedure for combinational circuits?
+Design a 4-bit binary to BCD converter?
+Design and implement a 8421 Gray code converter?
+Design a combinational logic circuit with 3 input variables that will produce logic 1 output when more than one input variables are logic 1?
+Compose and explain the block diagram of 4-bit parallel adder?
+Design a logic circuit to convert BCD and gray code? 
+Design a full adder using two half adders?
+Explain magnitude comparator? 
+Design a 3-bit comparator using logic gates?
+Compose the circuit for 3 to 8 decoder and explain it with logic gate?
+Construct the logic circuit for full subtractor using decoder? 
+Design a 4-bit priority encoder?
+ Design the block diagram of a 4:1 multiplexer using 2:1 multiplexer? 
+ Explain how decoder acts as a demultiplexer?
+ Explain the working of 8:1 multiplexer?
+ Explain basic difference between a shift register and counter?
+ Classify the basic types of counters? 
+ Explain what do you mean by terminal count? 
+ Explain what is a variable modulus counter?
+ Design and explain gated latch logic diagram?
+ Convert a JK Flip Flop to i) SR  ii) T  iii) D.
+ Convert a SR Flip-Flop to i) JK ii) D   iii) T.
+  Explain what is a synchronous latch? 
+  Explain what do you mean a stable state?
+  Explain what is meant by clocked flip-flop?
+  Explain the block diagram of memory unit?
+  Explain in detail about RAM and types of RAM?
+  Explain in detail about ROM and types of ROM?
+  Explain coincident memory decoding?
+  Describe what is meant by memory expansion? 
+  Mention its limits?
+  Explain what is the use of cache memory?
+  Design and explain the following mapping techniques of cache.
+  Explain different replacement algorithms in detail?
+  Explain LRU algorithm in detail?
+  Explain HIT and MISS ratio in cache memory?
+  Explain the use of an associative-mapped TLB?
+  Design and explain how cache read operation is executed?
+  Explain PLA with the help of block diagram?
+  Explain the advantage of PLA over ROMs?
+  Design a circuit to meet this requirement?
+   Convert 10101101.0111 to octal equivalent and hexadecimal equivalent? 
+   Explain what do you mean by error detecting and correcting codes?
+   Explain error occurred in the data transmission can be detected using parity bit? 
+   Explain the truth tables of X-OR, NAND and NOR gates?
+   Summarize the following Boolean expressions using K-map and implement them using NOR gates.
+   Design BCD to Gray code converter and realize using logic gates?
+   Design 2*4 decoder using NAND gates?
+   compile the following expression using Karnaugh map (B A +  AB + AB ).
+   Design a circuit with three inputs(A,B,C) and two outputs(X,Y) where the outputs are the binary count of the number of ON" (HIGH) inputs? 
+   Implement the INVERTER gate, OR gate and AND gate using NAND gate, NOR gate?
+   Design a circuit with four inputs and one output where the output is 1 if the input is divisible by 3 or 7? 
+   Implement Half adder using 4 NAND gates?
+   Implement the Boolean function F = AB + CD + E using NAND gates only?
+   Summarize the Boolean function F(w, x, y, z) = (1, 3, 7, 11, 15) + d(w, x, y, z) = (0. 2, 5) .
+   Design a combinatorial circuit that converts a decimal digit from 2,4,2,1 code to the 8,4,-2,-1 code.
+   Design a combinatorial circuit that accepts a three bit number and generates an output Binary number equal to the square of the input number? 
+   Design a combinational circuit that generates the 9s complement of BCD digit? 
+   Design a combinational circuit to find the 2s complement of given binary number and realize using NAND gates? 
+    Design a logic circuit to convert gray code to binary code? 
+  Design circuit to detect invalid BCD number and implement using NAND gate only? 
+   Explain the design procedure for code converter with the help of example? 
+Design an 8-bit adder using two 74283.
+Explain the working of carry look-ahead generator? 
+Explain carry propagation in parallel adder with neat diagram? 
+Explain the circuit diagram of full subtractor and full adder?
+Design 2-digit BCD adder with the help of binary adders?
+Design Multiply 0112 by 1102 using binary multiplication method? 
+Design 4-bit comparator using logic gates?
+Design and implement a full adder circuit using a 3:8 decoder?
+Design and Implement full adder circuit using Quadruple 2 to 1 multiplexer?
+Explain the design of Sequential circuit with an example. Show the state reduction, state assignment?
+Write short notes on shift register? 
+Mention its application along with the Serial Transfer in 4-bit shift Registers? 
+Explain about Binary Ripple Counter? 
+What is MOD counter?
+Explain the state reduction and state assignment in designing sequential circuit.
+Design a sequential circuit with two D flip-ops A and B. and one input x. when x=0,the state of the circuit remains the same.
+Design a Modulo-12 up Synchronous counter Using T-Flip Flops and draw the Circuit diagram?
+Explain the Ripple counter design.
+Design a 3 bit ring counter? 
+Discuss how ring counters differ from twisted ring counter.
+Design a left shift and right shift for the following data 10110101?
+Design Johnson counter and state its advantages and disadvantages?
+Explain with the help of a block diagram, the basic components of a Sequential Circuit?
+Explain about RS and JK flip-flops?
+ Explain about Different types of Latches in detail?
+ Describe the steps involved in design of asynchronous sequential circuit in detail with an example.
+ Distinguish between SRAM and DRAM and draw static RAM cell?
+ Explain the read and write operation a RAM can perform? 
+ Explain the DRAM organization of 2M*8 memory chip?
+ Explain the following terms: i) Cache updation policies. ii)cache hit and cache miss.
+ Explain how a program gets executed faster using a cache memory?
+ Explain two way set associative mapping and four way set associative mapping techniques with an example for each?
+ Design a BCD to Excess-3 code converter and implement using Suitable PLA?
+ Explain in detail various cache memory organizations?
+ Explain What would be the main advantages and disadvantages of making the size of cache blocks larger or smaller? 
+ Explain the techniques used to perform the write operations in cache memory? 
+ Explain about the cache replacement algorithms?
+ Differentiate PAL with PLA with following examples?
+ Explain the principle? 
+ In a 32 bit computer, what are the maximum and minimum possible binary numbers? 
+ Convert these into maximum and minimum possible positive decimal numbers? 
+ Convert the octal numbers into binary,decimal,BCD and Hexadecimal numbers.
+ Convert the decimal numbers into binary, BCD and Hexadecimal numbers.
+ write the octal representation of the following fractional numbers:(0.5)d,( 1.5)d, (2.333)d,( 3.875)d, (13.125)d, (14.666)d.
+ Find the illegal representation in the following: (120A)d, (1010011)BCD, (0208)octal, (10102011)b, (GC0A)h.
+ Convert the binary number to hexadecimal number.
+ Understand by two examples that twos compliment of a number taken twice returns the original number?
+ Convert  A.B.C+A.D expression into standard SOP format?
+ Convert  (A+B+C).(A+D) expression into standard POS format?
+ Construct XOR from NOR gates?
+ Construct SOP expression and POS expression for a four input NAND gate?
+ Understand Excess-3 codes for 3 and 7?
+ Find the logic function F using AND-OR two level realization?
+ Find transmitted 11 bits for 0110001 when hamming code is used?
+ Design a combinational logic circuit that produces the product of 2 binary number ?
+  Find the minterm expansion for the X,Y,Z . 
+  Find the maxterm expansion for the Y and Z. 
+  Design a combinational logic circuit with 4 inputs A, B, C, D. 
+  Draw the truth table.
+   Minimize the Boolean function using K-map. 
+   Draw the circuit diagram? 
+   Design a logic circuit to convert excess-3 code to BCD code?
+   Design a 24-bit group ripple adder using 74X283 ICs?
+   Design a multiple circuit to multiply the following binary number A=A0A1A2 and B=B0B1B2B3 using required number of binary parallel adders?
+   Design the interfacing diagram of 10 key keypad interfaces to digital system using decimal to BCD encoder?
+   Design and implement 4-bit binary counter(using D flip flops) which counts all possible odd numbers only?
+   Find the state assignments for sequence  1101011?
+   Design 2s complementer with a shift register and flip flop.
+Design a MOD-5 synchronous counter using flip flops and implement it? 
+Also draw the timing diagram?
+Design a divide-by-128 counter using 7493 ICs?
+Design an asynchronous sequential circuit with two inputs X and Y and with one output Z.
+Design an asynchronous D-type latch with two inputs G and D output Q. 
+Design a T flip flop from logic gates? 
+Design 1k*8 RAM using two 1k*4 IC?
+Find how many bits are there in tag index, block and word field of address format? 
+Find the size of cache memory?
+Design and implement 3-bit binary to gray code converter using PLA? 
+ Find the number of bits in TAG,  WORD and BLOCK in main memory address?
+ Design a combinational circuit using PLA. The circuit accepts 3-bit number and generates an output binary number equal to square of input number?
+ Discuss batch systems?
+ Distinguish between user mode and kernel mode operations of the operating system?
+Distinguish between multiprogramming and  multitasking?
+Define an operating system? 
+State and explain the basic functions or services of an operating system?
+Explain the differences between multiprogramming and time-sharing systems?
+Explain how protection is provided for the hardware resources by the operating system?
+Describe the system components of an operating system and explain them briefly?
+Explain briefly system calls with examples?
+Define the essential properties of the following operating systems? 
+Explain the architecture of an operating system?
+Draw and explain the architecture of windows 2000 and traditional UNIX? 
+ Discuss in detail about different architectures of a computer system? 
+Does an operating system generally need to keep about running processes in order to execute them?
+Discuss the view of an operating system as a resource manager?
+Distinguish between multiprogramming, multitasking and multiprocessing?
+Explain how operating system services are provided by system calls?
+Explain using a simple system call as an example (e.g. getpid, or uptime), what is generally involved in providing the result, from the point of calling the function in the C library to the point where that function returns?
+Explain why must the operating system be more careful when accessing input to a system call (or producing the result) when the data is in memory instead of registers? 
+Discuss how a multi-threaded application can be supported by a user- level threads package. It may be helpful to consider (and draw) the components of such a package, and the function they perform?
+Explain the difference between interrupt and exception?
+Explain the use of job queues, ready queues and device queues?
+Distinguish between thread with process?
+Explain benefits of multithreaded programming?
+Explain different ways in which a thread can be cancelled?
+Distinguish between preemptive and non-preemptive scheduling techniques? 
+Explain bounded waiting in critical region? 
+Distinguish between semaphore and binary semaphore?
+Explain the reasons for process termination?
+Discuss the following process, program, process state, process control block, and process scheduling?
+Explain the process state transition diagram with examples.
+Discuss the attributes of the process. 
+Describe the typical elements of process control block?
+Explain the principles of concurrency and the execution of concurrent processes with a simple example? 
+Describe dining-philosophers problem? 
+Device an algorithm to solve the problem using semaphores?
+Explain the infinite buffer producer/consumer problem for concurrent processing which uses binary semaphores? 
+Distinguish between monitor and semaphore. 
+Explain in detail a monitor with notify and broadcast functions using an example?
+List out the various process states and briefly explain the same with a state diagram? 
+Describe process scheduling? 
+Explain the various levels of scheduling. 
+Distinguish pre-emptive and non-pre-emptive scheduling algorithms? 
+Discuss about following? 
+Explain the concept of multi-threading? 
+Discuss the following multi- threading models.
+Explain the issues that may rise in multi-threading programming. 
+Discuss about each in detail?
+Discuss the following CPU scheduling algorithms. 
+Explain the Readers and Writers problem and its solution using the concept of semaphores? 
+Explain the uses of the following.
+Consider the following page reference string 7,0,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0 Assuming three frames, how many page faults would occur in each of the following cases? 
+Given memory partitions of 100K, 500K, 200K, 300K, and 600K (in order), how would each of the First-fit, Best-fit, and Worst-fit algorithms place processes of 212K, 417K, 112K, and 426K (in order)? 
+Explain Which algorithm makes the most efficient use of memory?
+Consider that the page to be replaced is modified 70 percent of the time. What is the maximum acceptable page-fault rate for an effective access time of no more than 200 nanoseconds? 
+Explain any four common file attributes?
+Explain any four file operations?
+Distinguish between shared and exclusive lock?
+Explain the information associated with an open file?
+Explain the operations that can be performed on a directory?
+Discuss the most common schemes for defining the logical structure of a directory?
+Explain the functions of virtual file system (VFS)?
+Explain the allocation methods of a disk space?
+Explain the bit vector method free space management on disk? 
+Discuss the advantages of contiguous memory allocation of disk space?
+Discuss the drawbacks of contiguous allocation of disk space?
+Discuss the criteria for choosing a file organization?
+Describe indexed file and indexed sequential file organization? 
+Describe the file system of UNIX?
+Differentiate among the following disk scheduling algorithms? 
+Explain magnetic disk structure and its management?
+Exemplify swap space management? 
+Explain the following in detail with respect to disk? 
+Explain in detail the interrupts and interrupt handling features? 
+Explain with neat diagram the steps in DMA transfer? 
+Discuss the N-step SCAN policy for disk scheduling? 
+Explain how double buffering improves the performance than a single buffer for I/O? 
+Explain the techniques used for performing I/O?
+Give an example of an application in which data in a file should be accessed in the following order.
+Discuss in detail the performance issues of secondary storage management? 
+Explain how disk caching can improve disk performance?
+Explain low-level formatting or physical formatting?
+Discuss the following.
+Explain the following file concepts.
+Explain the concept of file sharing? 
+What are the criteria to be followed in systems which implement file sharing?
+Explain the concept and techniques of free space management?
+Discuss about.
+Explain how many physical blocks would be needed to store these four files if we were to use a chained allocation strategy assuming that we need 5 bytes of information to determine the next block in the link? 
+Which file results in the maximum internal fragmentation (measured as a percentage of the file size itself)? 
+ Calculate the address of 1050th sector. 
+ Explain the maximum file size supported by a file system with 16 direct blocks, single, double, and triple indirection?
+ Discuss the reasons why the operating system might require accurate information on how blocks are stored on disk. how could  operating system improves file system performance with this knowledge.
+ Discuss how OS could maintain a free-space list for a tape-resident file system.
+ Is there any way to implement truly stable storage? 
+ Explain your answer. 
+ Could a RAID level 1 organization achieve better performance for read requests than RAID level 0 organization(with non redundant striping of data)? 
+ If so, how? 
+ Compare the performance of write operations achieved by a RAID level 5 organization with that achieved by a RAID level 1 organization.
+ Explain the sequence in which a process may utilize the resources in normal mode of operation?
+ Explain safe state and unsafe state?
+ Distinguish between deadlock avoidance and prevention strategies? 
+ Explain briefly resource allocation graph with examples? 
+ Differentiate the deadlock handling methods? 
+ Discuss in detail the technique of deadlock avoidance?
+ Explain Bankers algorithm for deadlock avoidance with an example? 
+ Discuss deadlock detection method in detail?
+ Describe resource-allocation graph? 
+ Explain how resource graph can be used for detecting deadlocks? 
+ Explain why a capability based system such as Hydra provides greater flexibility than the ring- protection scheme in enforcing protection policies? 
+Explain the following.
+Discuss about domain of protection?
+Why do you need to provide protection to the system? 
+Explain how access matrix can be used for the purpose? 
+Discuss the access matrix implementation techniques?
+Compare the various access matrix implementation techniques?
+Discuss the various issues that need to be considered through the process of revocation of access rights? 
+ Explain various schemes to implement revocation for capabilities? 
+  Explain how language-based protection scheme can be used for providing system protection at kernel level? 
+  Explain relative merits of compiler-based enforcement based solely on a kernel, as opposed to enforcement provided largely by a compiler? 
+  Explain How does the principle of least privilege aid in the creation of protection systems? 
+  List the Coffman's conditions that lead to a deadlock.
+   Explain the minimum number of tape units which the system must have such that deadlocks never arise is? 
+   What is the difference between natural disaster and man-made disasters?
+   What is a disaster? 
+   Explain the concept of disaster.
+   Discuss the environmental stress in the atmosphere.
+   What is a disaster? Classify.
+   what are the types of man-Induced hazards discuss?
+ write down the various types of natural hazards 
+ Discuss about the planetary and extra-planetary hazard. 
+ What are the different  types of disaster ? write short note.
+ What are the causes and hazardous effects of Volcanic eruptions?
+ What are cyclones? Describe.
+ Explain natural disasters and its mitigation strategies.
+ Write an account on different approaches to disaster management and relation with human ecology. 
+ Write down the types of environmental hazards and Disaters? 
+ Define human Ecology? What are the field of applications in geographical Researchers.
+ Discuss about Ecosystem Approach and perception approach 
+  Write a brief note on floods as a serious environmental hazard.
+  Draw a flow chart of planetary and extra planetary hazard and explain.
+Write down the methods of controlling floods.
+Write a note on man-made landslides. 
+State what are the mitigation measures at the time of land-slides.
+What causes earthquakes? What are the harmfull effects of earthquakes.
+Write a brief note on floods as a serious environmental hazard.
+Discuss some of the measures to mitigate floods.
+Write a brief note on soil erosion and its conservation.
+What are steps involved in risk communication?
+Explain, how the occurrence of EL NINO events affects global climate?
+Describe natural disaster and list out the natural disaster.
+What are the consequences of the phenomenon of drought? Explain briefly.
+Define cyber terrorism and explain forms and impacts.
+Describe manmade (anthropogenic disaster) disaster and list out the natural disaster.
+Write a brief note on the distribution of volcanoes in the world.
+What are the effects of pesticides on the environment?
+How can search rescue team assist a village in times of a hazards? 
+Define a System. With examples.
+Discuss an embedded system?
+Write the disadvantages of embedded system?
+Give the  applications of an embedded system.
+Explain the various embedded system designs Modelling Refining (or partitioning) .
+Explain real-time requirements of an embedded system?
+Explain the main components of an embedded system?
+Define embedded microcontroller.
+Explain digital signal processing in embedded system continued digitization of signals increasing the role of DSP in ES.
+Define microprocessor.
+Discuss the various embedded system requirements.
+Define ROM image.
+Define device driver.
+Define processor and controller.
+Define bus with examples in 8051 microcontroller.
+Explain timer and counters.
+Sketch the block diagram of microcontroller.
+Define oscillator.
+Define interrupt.
+Explain what are the 16 bit registers in 8051.
+Explain about SCON & PCON.
+Explain timer/counter control logic.
+Explain about serial data inputs/outputs.
+Define In line assembly.
+Discuss the interrupt service routines or device drivers? 
+Explain pass by values.
+Define Multiple Inheritances?
+Define Exception handling.
+Give syntax of assembly language.
+Give the techniques of assembly language.
+Explain how to programming the 8051.
+Name three high level language.
+Discuss the function of an operating system.
+Explain signed and unsigned addition operations.
+Explain signed and unsigned subtraction operations.
+Explain about interrupt priority.
+discuss about interrupt.
+write an ALP program to convert BCD to ASCII.
+write an ALP program to sort a given string in reverse order.
+Sketch the lead per key board.
+categories  different types of displays.
+Sketch the ADC circuit with explanation.
+Write about serial communication?
+Explain about mode0 (shift register mode).
+Write an embedded c program for blinking led.
+Define process.
+Define task and Task state.
+Define (TCB).
+Define RTOS.
+Define task and task rates.
+Define CPU scheduling.
+Define Synchronization.
+Describe  Inter process communication.
+Write about semaphore?
+Discuss priority inheritance?
+Define Message Queue.
+Define Mailbox and Pipe.
+Define Socket.
+Define Remote Procedure Call.
+Define thread cancellation & target thread.
+Write about Dispatcher?
+Define dispatch latency? 
+Define race condition.  
+Explain critical section problem?
+Summarize the requirements that a solution to the critical section problem must satisfy? 
+Define deadlock.
+Give the function for sending a queue.
+Illustrate a function for receiving a message from a queue.
+Explain in detail about VxWorks pipes?
+Define signal servicing function?
+Define Micro C/OSII.
+Discuss 2 source files in Micro C/OS-II?
+Explain the basic functions of MUCOS?
+Discuss about ARM.
+write about SHARC.
+Write about ARM family members.
+Summarize the  ARM7TDMI.
+Design von  Neumann architecture.
+Explain Harvard architecture.
+Explain about  AMBA.
+Write the features I2c.
+Describe networking for ES.
+Discuss CPSR format.
+Explain  load and store architecture .
+Explain  I2C bus characteristics.
+Explain the formalisms for system design.
+Discuss the challenges in embedded computing system design explain.
+Explain the software embedded systems.
+Explain the embedded system design flow with the help of flow chart.
+Explain the basic processors and hardware units in the embedded system.
+Explain how software is embedded into a system.
+Explain the characteristics of embedded computing applications.
+Explain software tools in designing of an embedded system.
+Explain internal ram organization.
+Explain i/o ports and circuits in 8051.
+Explain the different types of timers and counters.
+Explain the function pointers, function queues and ISR queues.
+Explain about assembly language mnemonics.
+ Give some examples of direct and indirect addressing modes.
+ Discuss what are the languages  are used in computers.
+  Explain what are the logical instruction.
+  Explain why use machine language. 
+  Explain immediate and register addressing modes.
+Explain the assembly language programming process.
+ Give the techniques of assembly language.
+ Explain about data transfer instruction.
+ Explain the function pointers, function queues and ISR queues.
+  Explain about assembly language mnemonics.
+  Give examples of direct and indirect addressing mode.
+Explain about addition operation.
+Define  JUMP instruction explain with example.
+Explain decimal arithmetic operations with examples.
+Expalin below interrupts a) Interrupt Enable (IE) b) Interrupt priority (IP).
+Explain  unsigned and signed subtraction.
+Explain & draw the circuit of A/D converter.
+Explain how thread and process are used in embedded system.
+Explain process management and memory management in embedded system.
+Explain file system organization and implementation.
+Explain how interrupt routines handled in embedded system.
+Explain the real time operating systems.
+Explain cyclic scheduling with time slicing.
+Explain how critical section in handled by a pre-emptive scheduler.
+Explain inter process communication and synchronization.
+Explain inter process communications using signals.
+Explain remote procedure call with an example.
+Explain state transition diagram of RTOS.
+Explain detail about Memory allocation related functions.
+Explain Queue related functions. 
+Explain multiple tasks and their functions.
+Explain how IPCs are used in embedded system.
+Explain the various multiple function calls in Embedded C.
+Explain about the same case study but more stress on the functions for semaphores and the code for it. 
+Describe how does an RTOS semaphore protect data? Explain by giving example.
+Discuss with the diagram task synchronization model for a specific application. 
+Explain the RTOS programming tool MicroC/OS-II.
+write about SHARC and compare with different types of architectures.
+Describe ARM.
+Write the applications of ARM.
+Describe embedded cores?
+Explain the bit address of bit 4 of Ram byte 2Ah.
+Explain which register used for accessing external memory with example.
+Explain why are high level languages machine independent.
+Solve convert every letter of this sentence to no parity ASCII.
+Solve convert packed BCD 54h to ASCII.
+write an ALP program for interfacing keyboard with 8051.
+Write an assembly language program for convert analog to digital.
+Write an assembly language program to interface  intelligent LCD display with 8051.
+Write an ALP program to display character on seven segment display.
+Define interrupt latency? 
+How can you reduce it?
+Explain how you will design application to create a Smart Card in detail.
+Explain transition diagram, transition table with example.
+Explain power of an alphabet?
+Differentiate LMD and RMD.
+Explain super charging and turbo charging
+Describe the working of crescent type gear pump and Rotor pumpwith neat sketches?
+Discuss briefly about gear pump and vane pump.
+Explain different super charges.
+How higher power is obtained with turbo charging?
+Explain clearly Splash Lubrication system?
+Explain Different oil filters.
+Differentiate between super charging and turbo charging.
+Explain individual pump fuel injection system?
+Explain fuel injection pump in CI engines.
+Explain S.U Electrical pump with sketch.
+Explain the working of nozzle and different types of nozzle.
+How petrol injection can be done by mechanically.
+Explain the working principle of simple carburettor.
+What are the defects in simple carburettor?
+Explain fuel filters in diesel engine.
+How air is cleaned in petrol engine fuel supply system?
+Explain the working principle of S.U carburettor.
+Explain the working of thermo-symphon cooling system?
+Explain the different types of thermostats used in automobile?
+Explain in detail the type of cooling pump used in water coolingsystem?
+What are the different Anti- freeze solutions and theirrequriments?
+Explain the function of the radiator and types of radiator cores?
+Describe magneto ignition system with sketch?
+Explain vacuum advance method in automatic ignition advancedmethod?
+Explain centrifugal advance method in automatic ignition advancemethod?
+Explain battery ignition system with neat sketch?
+Explain the working of catalytic converter?
+Explain the two types of techniques for treating the exhaust gasesto reduces the pollutants ?
+Explain unheated lambda probe with neat sketch.
+Explain common rail fuel injection system in Diesel engines.
+What are the advantages and disadvantages of Bio-diesel?
+Explain the working of positive crank case ventilation with PCVvalve.
+Explain clearly how the proper design of combustion chamberhelp in reducing exhaust emission.
+Draw and explain standard Bendix drive (or) Folothrou drive.
+Explain current voltage regulator with neat sketch.
+Describe the working of a fuel guage.
+Explain the construction of D.C Generator.
+Draw and explain wind screen wiper.
+Explain the principle of Electrically operated oil pressure guage.
+Explain starting motor wiring circuit using a solenoid shaft withrelay.
+How head lights are operated? Explain with sketch.
+Explain solenoid switch with neat sketch.
+Explain the principle of centrifugal clutch with neat sketch.
+Explain working of a constant mesh gear box with sketch.
+Explain Epicyclic gear box with sketch?
+Differentiate between the torque tube and hotch kiss drive.
+Explain the working of case clutch
+Explain the construction of fluid fly wheel and write theadvantages and disadvantages.
+Describe the function of the fully floating type of a rear axle withthe help of a sketch.
+Describe the different types of tyres.
+Write the advantages of tubeless tyres over the conventional tubetyres.
+Describe the constructional features of diaphragm sprint type withsuitable diagram.
+explain the working principle of torque converter with a neatsketch.
+Explain the construction and working of a telescopic type ofshock absorber.
+When it is required?
+Explain the construction and working of Rear wheel independentsuspension.
+Explain mechanical brakes with neat sketch.
+explain the pneumatic brakes with neat sketch
+Explain vertical guide suspension with sketch?
+Explain the purpose of master cylinder with neat sketch inHydraulic brakes.
+Compare disc brake with drum brake.
+Explain the effect of camber with sketch.
+Describe the working of a power steering unit with a neat sketch.
+Draw and explain worm and nut type steering gear.
+Describe the steering linkage for vehicle with rigid axle front.
+Explain the construction and working of Davis steering gearmechanism.
+Explain Rack and pinion steering gear with neat sketch.
+Describe steering linkage for vehicle with independent frontsuspension.
+Discuss the applications of both series and parallel combination?
+Discuss limitations of ohms law? 
+Explain in detail the volt-ampere relationship of R, L and C elements with neat diagrams?
+Explain about series and parallel networks of resistor? 
+Explain classification of network elements?
+Write differences between ideal and practical current sources? 
+Write a notes on dependent sources? 
+Write the characteristics of series and parallel circuits? 
+State advantages of alternating quantities? 
+Explain significance of J factor?
+Explain polar form and rectangular form?
+Differentiate ac and dc quantities?
+Write about series RL circuit?
+Explain behavior of RLC Series circuit? 
+Explain i) rectangular form ii) polar form ?
+Explain significance of J-Operator?
+Write equations for RMS value, average value, form factor and peak factor?
+Discuss what are the advantages of AC quantities? 
+Explain conversion from rectangular form to polar form? 
+Explain conversion from polar form to rectangular form? 
+Explain the behavior of ac through resistance (R)derive instantaneous value of v and i, average power ,power factor, instantaneous power,and relevant phasors.
+Explain how the voltage and current in purely resistive circuit are in phase.
+Explain the behavior of ac through inductance (L).
+derive instantaneous valueof v and i, average power, power factor, instantaneous power,and relevant phasors.
+Explain the behavior of ac through capacitance(C).
+derive instantaneous value of v and i, average power, power factor, instantaneous power,and relevant phasors.
+Explain admittance method to solve parallel circuit? 
+Explain the purpose of laminating the core in a transformer? 
+Explain does transformer draw any current when secondary is open? Why? 
+Explain why the transformer measured in KVA?
+Discuss what are the parts are in parts in transformer? 
+Explain the equivalent circuit diagram of transformer? 
+Explain difference between core and shell type transformers? 
+Explain shell type transformers? 
+Explain iron losses of the transformers? 
+Describe the construction details of transformer?
+Explain the principle of operation of transformer? 
+Explain the OC test of a single phase transformer? 
+Explain the losses in a Transformer? 
+Write down the emf equation of a dc generator? 
+Write expression for rotor current frequency? 
+What is principle operation of 3-phase induction motor? 
+Explain the slip-torque characteristics of 3-phase induction motor? 
+State two types of induction motors? 
+What is principle operation of dc generator? 
+State the function of slip rings? 
+Explain the classification of DC generator?
+Explain the principle and construction of a 3 phase induction motor? 
+Explain why does an induction motor never runs at Synchronous speed? 
+Obtain the condition for maximum running torque of an induction motor? 
+Explain the classification of DC Motor and explain?
+Explain the significance of back emf in a DC motor?
+Explain the reasons for the following
+Explain How may the direction of rotation of dc shunt motor be reversed?
+What is the effect of reversing the line terminals?
+Explain:
+Explain Why an induction motor is called a rotating transformer? 
+Write short notes on moving iron instruments with attraction type? 
+Write short notes on moving iron instruments with repulsion type?
+Write short notes on spring control mechanism? 
+Write short notes on gravity control? 
+What is mean by instrument? 
+Write different types of torques? 
+Write short notes on controlling torque? 
+What are Different types of instrument? 
+Write short notes on moving coil instruments? 
+What are the differences between moving iron and coil instruments? 
+Explain working principle of permanent magnet moving coil instrument? 
+Explain working principle of moving iron repulsion type instrument? 
+Explain working principle of moving iron attraction type instrument? 
+Explain working of different types of torques produced in indicating instruments?
+Explaini) Deflecting torque ii) Controlling torque iii) Damping torque?
+Mention advantages and disadvantages of MIinstruments?
+Explain the essential requirements of instruments? 
+Classify of electrical instruments? 
+Discuss advantages and disadvantages of MI instruments? 
+Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments?
+Explain With neat sketch, explain the process of eddy current damping. 
+Explain Why is the scale of a MI instrument non uniform?  
+Discuss the classification of electrical instruments 
+Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments.
+Explain with neat sketch the construction and working of a MI ammeter and MC Ammeter.
+Give the general configuration of a CAD computer system.
+CAD helps in integrating CAM- Justify this statement.
+Briefly describe the types of storage devices used incomputers.
+Explain how CAD helps to synthesize a product design anddo engineering analysis for getting optimal design.
+What is the structure of a computing system?
+List the advantages of computer aided design.
+Write briefly on the secondary storage devices used in CADSystem.
+Explain with the help of a neat sketch, how an image isgenerated on a computer terminal.
+Describe the various database models which are generallyused.
+What are the reasons for implementing a computer aideddesign system.
+Explain how an image is generated and maintained in a directbeam refresh terminal.
+Briefly describe the types of storage devices used incomputers
+Explain the concept of obtaining a reflection about anarbitrary line starting from the plain reflection about an axis.
+What are the different graphic display devices? 
+List at different problems associated with raster graphicdisplay device.
+What are normalized device co-ordinators?
+What is transformation? How many types of transformationsare there to change the geometry?
+What is clipping? Explain with the help of a diagram.
+Single transformation for a manipulation is unusual- Explain
+Explain the concept of obtaining a reflection about arbitrary line starting from the plain reflection about an axis. 
+Derive the cubic spline equations.
+What do you understand by the form element method ofgeometric construction? Specify the Applyings of this methodof modeling in comparison to that of the variant type.
+Distinguish between interpolation and approximationapproaches used in design of curves
+Write on the importance of studying geometric modeling inCAD.
+What do you mean by blending function? Explainreparameterization of a surface.
+Write a note on:
+Discuss the modeling guidelines to be followed by the userwhile constructing a surface model as a CAD/CAM system.
+Explain how a Bezier curve is defined.
+What are the types of surfaces that CAD/CAM systems use?
+Discuss about the composite surface and Bezier surface.
+Distinguish between 2D and 3D wireframe models?
+With a suitable figure explain the difficulty in displaying holesand curved ends in wire frame modeling?
+Describe various commonly used primitives for solidmodeling and explain the Boolean operations.
+What is meant by sweep operation in solid modelling.
+Discuss about display control commands used in CAD/CAM.
+Give an example of how the centralized integrated database concept can help with the what-if situations that arise during the design process.
+How to you classify different solid modelling basedApplyings.
+What do you mean by geometric modelling? 
+Enumeratevarious solid-modelling techniques and compare them.
+Give some practical Applying of Solid modelling.
+Explain method of CSG modelling.
+Describe the coded decimal system used in the NC machinesfor the part programming.
+Why is parity check provided in the NC punched tapes?
+Discuss the special features of NC machine tool when compared to the conventional machine tools.
+Explain the APT statements: (i) GOTO and GO/TO (ii) GODLTA and GOBACK and (iii) INTOL and OUTTOL.
+Describe the parts classification and coding system.
+Differentiate between: i) NC, CNC and DNC system ii) ACCand ACO adaptive control system.
+Discuss the merits and demerits of NC system.
+Explain the part design and manufacturing attributes giving examples.
+Discuss in brief the different stages of a group technology plan. 
+What types of work are to be conducted at each stage of plan?
+Discuss the benefits of Group technology.
+What is group technology? 
+Classify a component using anyone type of coding system.
+What do you understand by Computer Aided Process Planning?
+Write about Retrieval CAPP.
+Write about Hybrid CAPP.
+Discuss about the difference between the process type layout and GT layout.
+Discuss about to arrange the same machines in the form of a group technology layout.
+Explain about generative type process planning systems.
+Explain about MICLASS coding system as used in grouptechnology.
+How is group technology useful for the implementation ofCAPP? 
+Explain with an example.
+Discus the advantages and limitations of OPITZ code system.
+Discuss about CAQC.
+Explain in Detail about the Various types of computer aided testing applied on computer-aided quality control systems.
+Explain in Detail about the Laser Beam Scanners used incomputer-aided quality control systems.
+Explain in detail about Ultrasonic Scanner used in computer-aided quality control systems.
+Explain the different types of Contact inspection techniquesused in computer-aided quality control systems.
+What is the importance of computer-aided quality controlsystems in CAD-CAM.
+Discus about the determination of microstructure of the jobusing METAVIS technique?
+Explain the different types of Non-Contact inspection techniques used in computer-aided quality control systems.
+Discuss about Machine Vision.
+Describe hardware configuration of CIM with the help of asketch.
+Explain the types of Shop floor data collection Systems?
+Explain about the KANBAN system.
+Explain in detail about the LEAN manufacturing.
+Describe the role of RS232C, DNC, LAN in integratingvarious components of FMS.
+How does CIM integrate all the activities of Industry?
+Explain JIT production system with respect to the following.
+Distinguish between the Lean manufacturing process andAgile manufacturing.
+List and explain the functions of automated materialmovement vehicle in a FMS.
+Discuss about MRP in detail with an example.
+Discuss about automated guided vehicle systems.
+Discuss about the involvement of Human Labour in variousmanufacturing systems.
+Discuss about the hierarchical structure of Computer controlof Manufacturing Systems.
+Explain with the aid of a block diagram the concept ofCIM.
+List the important physical characteristics of a good bearing material.
+Determine the expected average life of this bearing.
+Discuss about the various types of belt drives with neat sketches?
+On what factors does the power transmitted by a belts depends?
+Derive the relation for the ratio of driving tensions of a V-belt.
+Why the face of a pulley is crowned?
+Derive the condition for transmission of maximum power in belt drives.
+Discuss different types of pulleys used for belt drives.
+When a split pulley is used and how it is tightened on a shaft?
+Derive the relation for the ratio of driving tensions of a Flat belt.
+Explain about fast and loose pulley.
+Discuss the procedure used for designing a cast iron pulley.
+What are simplex, duplex and triplex chains?
+Write the design procedure for a chain drive.
+Discuss about classification of chains.
+Derive Lewis equation for beam strength of gear tooth on spur gears.
+Derive equation for formative number of teeth in bevel gears?
+Describe construction of mechanical screw jack?
+What is the gyroscopic effect on a ship when it turns towardsleft and the propeller rotates counterclockwise when viewedfrom stern.
+What is the effect of gyroscopic couple on the stability of atwo wheeler taking a turn?
+Explain the gyroscopic effect on an aero plane.
+Define precession axis and spin axis by neatsketches.
+Derive the equation for Gyroscopic couple for arotating disc.
+What do you mean by applied and constraint forces?Explain.
+State and explain DAlemberts principle.
+State the principle of super position of forces for aplanar four bar mechanism.
+Explain the analytical method of calculating thetorque on a reciprocating engine.
+Explain the static and dynamic force analysis.
+Explain the terms friction axis, friction couple and frictioncircle.
+Distinguish between static and dynamic friction with suitableexamples.
+Derive expression for the mean torque transmitted for a bodymoving down an inclined plane.
+Distinguish between brakes and dynamometers.
+Derive an expression for total braking torque about fulcrumin a differential band brake when the brake drum rotates incounter clockwise direction.
+What is a clutch? Describe a single plate clutch with a neatdiagram.
+Name different types of dynamometers and explain any oneof them.
+Explain a torsion dynamometer with a neat sketch.
+Explain the function of absorption type dynamometer.
+Describe with a neat sketch the torsion dynamometer.
+Explain in detail the calculations involved in finding thepower transmitted in a transmission type dynamometer.
+Explain the function of transmission type dynamometer.
+Define the terms coefficient of fluctuation of energy andcoefficient of fluctuation of speed.
+What is a fly wheel? What is its function?
+Describe the graphical method of determining the torqueconsidering the inertia of the connecting rod of areciprocating engine.
+Describe the turning moment diagram for a single cylinderdouble acting steam engine.
+What is the function of a governor? How does it differ fromthat of a flywheel?
+Derive an expression for the determination of equilibriumspeed of a Proell governor.
+Explain the terms sensitiveness, hunting and stabilityrelating to governors.
+Derive an expression for the determination of equilibriumspeed of a Porter governor.
+Derive an expression for determination of equilibrium speedof Hartung governor.
+What is the necessity of balancing for rotors of high speedengines?
+What is primary and secondary balancing in reciprocatingengines?
+Explain the balancing of multi cylinder in line engines?
+Explain the method of balancing of different massesrevolving in the same plane.
+How is the effect of hammer blow reduced in coupledlocomotives?
+How are different masses rotating in different planesbalanced?
+Explain the direct and reverse crank method for determiningthe unbalanced forces in radial engines.
+Explain the method of balancing V- Engines.
+Describe Dunkerleys method to find the natural frequencyof a shaft carrying several loads.
+Distinguish between longitudinal, transverse and torsionalvibrations.
+What is meant by Magnification factor in case of forcedvibrations? On what factors does it depend?What is critical or whirling speed of shaft?
+Discuss a three rotor vibratory system and find the ratio oftheir amplitudes.
+Derive the equation for determining the frequency oftorsional vibration in a two rotor system.
+Discuss the effect of inertia of the shaft in free torsionalvibration.
+Define vibration isolation and transmissibility.
+Explain the terms under damping, critical damping and overdamping.
+Establish an expression for the amplitude of forced vibration.
+Explain Zeroth law of Thermodynamics. 
+Discuss Quasi Static process, what are its characteristics?
+Explain the features of constant volume gas thermometer. 
+Discuss First law of thermodynamics, explain Joules experiment.
+Classify the properties of system?
+Classify the types of systems, explain the energy conversion in them.
+Explain in detail the macroscopic and microscopic study of thermodynamics?
+Explain the importance of concept of continuum in thermodynamic approach?
+Explain thermodynamic equilibrium in detail?
+Explain, the role of chemical equilibrium in thermodynamic equilibrium?
+List the scales of temperature and explain in detail?
+Explain how the first law of thermodynamics applied to a process? 
+Explain the Steady flow energy equation?
+Calculate Cp and Cv ?
+Explain the available energy in a system? 
+Explain the principle of entropy increase? 
+Explain the exergy of a system? 
+Explain the Clausius statement? 
+Explain super charging and turbo charging.
+How petrol injection can be done by mechanically?
+Explain the working of case clutch.
+explain the pneumatic brakes with neat sketch.
+Explain the behavior of ac through inductance (L).derive instantaneous valueof v and i, average power, power factor, instantaneous power,and relevant phasors.
+Explain the behavior of ac through capacitance(C).derive instantaneous value of v and i, average power, power factor, instantaneous power,and relevant phasors.
+Explain self induction and mutual induction in detail. Also derive the expression for dynamically induced emf.
+Explain the reasons for the following.
+Explain.
+Explain Why an induction motor is called a rotating transformer? Justify.
+Explain Why is the scale of a MI instrument non uniform? Explain. 
+Discuss the classification of electrical instruments .
+Single transformation for a manipulation is unusual- Explain.
+What do you understand by the form element method ofgeometric construction? 
+Specify the Applyings of this methodof modeling in comparison to that of the variant type.
+Distinguish between interpolation and approximationapproaches used in design of curves.
+Write a note on.
+What is meant by sweep operation in solid modelling?
+What do you mean by geometric modelling? Enumeratevarious solid-modelling techniques and compare them?
+What is group technology? Classify a component using anyone type of coding system
+How is group technology useful for the implementation ofCAPP? Explain with an example.
+How does CIM integrate all the activities of Industry?Explain.
+Classify the processes which constitute the cycle.
+Explain the limitations of First law of thermodynamics in detail?
+Explain the thermal reservoir with a neat sketch?
+Explain the heat engine with a neat sketch?
+Explain the heat pump with a neat sketch?
+List the performance parameters of a system and explain in detail.
+Explain the second law of thermodynamics with suitable sketches?
+Write the Kelvin-Plank statement and explain with an example?
+Write the Clausius statement and explain with an example?
+Write the Kelvin-Planck and Clausius statemes and explain with sketches?
+State the Carnots principle? What is the importance of the principle,explain?
+State the Clausius inequality? Explain.
+State the irreversibility and explain.
+Explain the Availability in a thermodynamic system with example.
+Discuss the importance of Maxwell relations ?
+Discuss the equivalent of Kelvin-Plank and Clausius statements?
+Explain the equation of state?
+Explain the process of free expansion?
+Explain the process of Throttling?
+Explain On what coordinates compressibility charts can be drawn?
+List the molar specific heats, explain?
+Explain the concept of p-v-T surface? Represent on p-T coordinates?
+Explain the critical state of water?
+Explain Mollier chart by representing all the properties on it?
+Explain the equation of State with variations?
+Explain, how the heat and work transfer observed in perfect gas?
+Explain the change in internal energy in perfect gas?
+What is compressibility chart, explain the procedure of usage?
+Explain the phase transformation process with a diagram?
+Why can not a throttling calorimeter measure the quality, if the steam is wet? Explain how is the quality been measured?
+Explain the saturation temperature, the changes in specific volume, enthalpy and entropy during evaporation at 1MPa.
+How many kg of air must be removed from the chamber during the process? Express this mass as a volume measured at 1bar and 250C.
+Explain about volumetric and gravimetric analysis?
+Explain adiabatic saturation temperature?
+Explain psychrometric charts while representing all the properties?
+Explain Psychrometric chart?
+Explain the Mole fraction and Mass fraction in the Mixture of Perfect gas?
+Explain Gravimetric Analysis of mixtures?
+Explain the Volumetric Analysis of mixtures?
+Explain the Daltons law of partial pressure with an example?
+Explain the Avogadros laws of additive volumes?
+Explain Equivalent gas constant of a gas mixture?
+Explain Molecular internal energy of a gas mixture?
+Explain the various properties of psychrometry ?
+Explain the concept of dew point temperature?
+Explain the degree of saturation with an example?
+Explain the adiabatic saturation,.
+Discuss limited pressure cycle; represent the processes of it on P-V and TS diagrams?
+Explain the working principle of Otto cycle with a diagram.
+Explain the Otto cycle working principle with P-V and T-S diagram?
+Explain the diesel cycle working principle with P-V and T-S diagram?
+Explain the dual cycle working principle with P-V and T-S diagram?
+Explain the sterling cycle working principle with P-V and T-S diagram?
+Explain the Atkinson cycle working principle with P-V and T-S diagram?
+Explain the Ericsson cycle working principle with P-V and T-S diagram?
+Explain the Lenoir cycle working principle with P-V and T-S diagram?
+Explain the working principle of Bell-Coleman cycle with diagram?
+Explain the working principle of vapor compression cycle?
+Draw the conventional diagram of limits and fits and explain the terms:
+Define fit.
+give the complete classification fits and explain them with the help.
+Define Allowance.
+Explain difference between Tolerance and Allowance.
+Explain about tolerance system with neat diagram.
+Explain the Indian Standard system of limits and fits (IS- 919 and 2709).
+Describe with sketch, i) Imperial standard yard ,ii) International prototype metre.
+Explain the working mechanism of a dial indicator with neat diagram.
+Explain the principle of spirit level.
+Explain the uses of limit gauges in mass production.
+Distinguish between measuring instrument and a gauge.
+Explain the construction ,working of tool maker microscope with neat sketch.
+Explain the principle of an optical projector.
+Explain the working of an optical projector and applications with neat diagram.
+What is an Optical flat ?
+Describe what are the care to be taken while using optical flat.
+Explain optical flat types and its limitations.
+Explain the principle of interferometer.
+Why monochromatic light is used for Interferometry?
+Explain about straight edge and its classifications.
+What are the material used for surface pate?
+Sketch and describe N.P.L flatness Interferometer.
+Explain the principle of an auto -collimator.
+What are the surface texture properties?
+What are the elements of surface texture with neat diagram?
+Explain about the Primary Texture along with neat diagram.
+Explain about the secondary Texture along with neat diagram.
+State how surface finish is designated on drawings.
+What is the ISI symbol for indication of surface finish?
+Explain the Average surface Roughness methods of CLA and RMS.
+what do you mean by Ra and Rz values?
+Explain the evaluation of surface finish method by peak to valley height method.
+Define the principle of Talysurf instrument.
+Define the principle of Pofilograph instrument.
+What are the comparators? For what purpose they are used.
+Distinguish between mechanical comparator and electrical comparator.
+List out various characteristics of a comparator.
+Describe with a neat sketches two wire method of measuring the effective diameter of screw threads.
+Describe briefly co-coordinating measuring machine.
+Explain finite element method?
+Define degree of freedom.
+Define boundary condition.
+What is local and global stiffness matrix.
+What is the unit of stiffness?
+What is global force vector?
+What do you mean by body force?
+What do you mean by traction force?
+What are the units of body force?
+What are the units of traction force?
+What are the examples of body force?
+What are the examples of traction force?
+What is the governing equation of F.E.M?
+Define potential energy.
+Give the expression for total potential energy.
+Give the expression for shape functions of a linear element.
+Draw the shape functions of a linear element.
+Write the expression for the shape functions of a quadratic element.
+Draw the shape functions of a quadratic element.
+What is specified boundary condition?
+Using variational approach (potential energy), describe FE formulation for 1D bar element.
+Using potential energy approach, describe FE formulation for plane truss Element.
+Explain the concept of FEM briefly and outline the steps involved in FEM along with applications.
+Discuss in detail about the concepts of FEM formulation .How is that FEM emerged as a powerful tool.
+Discuss in detail about applications of finite element method.
+Derive element stiffness matrix and load vector for quadratic element using potential energy approach.
+Explain the concept of FEM briefly .outline the steps involved in FEM along with applications.
+Explain the elimination method and penalty method for imposing specified displacement boundary conditions.
+Derive element stiffness matrix and load vector for linear element using potential energy approach.
+Determine the followingi)shape function ii)variation of the displacement u(x) in the elementiii)axial stain in the element.
+Derive the thermally induced stress in the two noded Bar element.
+Represent the truss in local coordinate system.
+Represent the truss in global coordinate system.
+What are the characteristics of a truss?
+Draw a plane truss structure.
+What is a member and joint?
+Give the transformation matrix of a truss.
+What is the expression for element length of a truss?
+What is the expression for an element stiffness matrix of a truss in local coordinate system?
+What is the expression for strain energy in a truss element?
+What is the expression for an element stiffness matrix of a truss in global coordinate system?
+Define a beam with examples.
+Give the various applications of a beam.
+Give the expression for the potential energy of a beam.
+Draw the hermite shape functions.
+Write the expression for a element stiffness matrix of a beam.
+What is the expression for a load vector of a beam?
+What is the expression for a shear force of a beam?
+What is the expression for a bending moment of a beam?
+shown below solve the problem by using SI units only.
+Distinguish between local, natural and global coordinates.
+determine i) displacement ii) element stress.
+What is a two dimensional element.
+List any four two dimensional elements.
+Enumerate some of the applications of 2-D elements.
+What do you mean by discretizing of 2-D elements.
+Define shape function.
+What is the condition for number of unknown polynomial coefficients of a 2-D element?
+Express the 2-D element in polynomial series.
+What is a CST element?
+What is LST element?
+Represent the node numbering of Constant strain triangle element.
+Define Quadratic triangle.
+Write the expression for displacements developed in the X-direction of CST element.
+Write the expression for displacements developed in the Y-direction of CST element.
+Write the expression for displacements developed in the Y-direction of LST element.
+What is a linear element?
+What is a nonlinear element?
+Differentiate between linear and non linear elements.
+What type of nodes of considered for Linear elements?
+What type of nodes of considered for non-Linear elements?
+Explain Convergence requirements.
+Define fins or extended surfaces.
+What is Convection?
+What is radiation?
+What is Fouriers law?
+What is Newtons law of cooling?
+What is lumped mass matrix?
+What is consistent mass matrix?
+Define Eigen values?
+What is meant Eigen Vectors?
+Write the expression for element mass matrix for a bar element?
+Write the expression for element mass matrix for a truss element? 
+Write the expression for element mass matrix for a CST element?
+Write the mass matrix for truss element with an example.
+Write the expression for modal analysis of bar and beam elements.
+What are the convergence requirements in finite element modeling?
+What are the important steps in ANSYS.
+Give some practical problems associated with finite element modelling.
+Write the importance of element selection in fem.
+Write the importance of boundary conditions in finite element modelling.
+List out factors influencing the accuracy of the results.
+Define free meshing.
+Define mapped meshing.
+What is meant by pre processing?
+Explain the following with examples:a) Lumped parameter model. b) Continuous system model.
+Evaluate natural frequencies for the canti lever beam using one element.
+Distinguish between consistent mass matrix and lumped mass matrices.
+Differentiate between Consistent Mass matrix and Lumped Mass matrix.
+Explain the following with examples.From first principles, derive the general equation for elemental mass matrix?
+State the method used for obtaining natural frequencies and corresponding eigen vectors.
+List the different strategies that a parser can employ to recover from a syntactic error?
+Explain the goals of error handler in a parser?
+Define a parse tree?
+LR(k) parsing stands for what?
+Why LR parsing is attractive one and explain?
+Define goto function in LR parser with an example?
+Why SLR and LALR are more economical to construct Cananonical LR?
+Explain about handle pruning?
+Explain types of LR parsers?
+List the three kinds of intermediate representation?
+How can you generate three-address code?
+Define abstract or syntax tree?
+Define basic blocks?
+Discuss back-end and front-end?
+Define the primary structure preserving transformations on basic blocks?
+List common methods for associating actual and formal parameters?
+Define back patching?
+Explain the steps to search an entry in the hash table?
+List the different types of type checking? Explain?
+Explain general activation record?
+State the difference between heap storage and hash table?
+Explain the principle sources of optimization?
+Explain the patterns used for code optimization?
+Define the 3 areas of code optimization?
+Define local optimization?
+Define constant folding?
+Define a DAG? Mention its Apply?
+Identify the register descriptor target code for the source language.
+Define compiler? 
+State various phases of a compiler and explain them in detail.
+Explain the cousins of a Compiler? Explain them in detail.
+Explain single pass and multi pass compiler? with example?
+Explain the algorithm for finding the FIRST and FOLLOW.
+Explain operator grammar? Draw the precedence function graph for the following table.
+Show the sequence of moves made by the shift-reduce parser on the input id1+id2*id3.
+determine whether the given string is accepted.
+State shift-reduce parsing? Explain in detail the conflicts that may occur during shift-reduce parsing.
+Explain ideal voltage and current source? 
+Discuss resistor, capacitor, and inductor with relevant expression? 
+Discuss limitations of ohms law?
+Write down KVL and KCL and explain?
+Write differences between ideal and practical voltage sources?
+Write about series RL circuit? 
+Explain behavior of RLC Series circuit?
+Explain i) rectangular form ii) polar form ? 
+Explain significance of J-Operator? 
+Write equations for RMS value, average value, form factor and peak factor? 
+Explain conversion from polar form to rectangular form?
+Explain the behavior of ac through resistance (R)derive instantaneous valueof v and i, average power ,power factor, instantaneous power,and relevantphasors.
+Explain the behavior of ac through inductance (L).derive instantaneous value of v and i, average power, power factor, instantaneous power,and relevantphasors.
+Explain admittance method to solve parallel circuit?
+Write about series RC circuit?
+Explain core type transformers?
+Describe the construction details of transformer? 
+Explain the determination of deducing equivalent circuit parameters? 
+Explain the NO load condition of a transformer?
+Write down the torque equation of a D.C motor?
+What is principle operation of dc generator?
+Explain the principle and construction of a 3 phase induction motor?
+What are the types of measuring instruments?
+Write short notes on moving iron instruments? 
+Write short notes on spring control mechanism?
+Write short notes on controlling torque?
+Explain working principle of moving iron attraction type instrument?
+Discuss advantages and disadvantages of MI instruments?
+Discuss the classification of electrical instruments.
+Explain in brief about the virtual execution environment manager.
+Explain in brief about the virtual execution environment host.
+Explain in detail about system models and distributed cloud computing.
+Explain about Design Principles of Computer Clusters.
+List out the design principles of computer clustures.
+Explain about Computer Clusters and MPP Architectures.
+Explain the virtualisation structure/Tools and mechanisms.
+What is cloud computing? Enlist and explain three service models, and four deployment models of cloud computing.
+Explain the system models for distributed and cloud computing?
+Explain the architecture of P2P system?
+Explain architectural design of compute and storage clouds?
+Explain the infrastructure of Grid computing in detail?
+Why is cloud called as eco system? justify.
+SOA as step forward cloud computing,Explain?
+Explain about ANEKA resource provisioning service?
+Write about SAP systems in detail.
+Explain about SLA management in cloud.
+Write about quality of service and value composition.
+Explain the NIST reference architecture of cloud computing in detail?
+Discuss SAAS,PAAS,IAAS and compare them?
+What are the three differences that separate out cloud architecture from the tradition one?
+Explain in detail about VM provisioning process.
+Explain in detail about automatic and selection process.
+
+  Write a brief note on conservation of biodiversity? 
+What  are  environmental  hot  spots  of  your  city?
+ Explain  the  possible factors observed by you for degradation of quality of hot spot.
+ Suggest  suitable engineering measure to restore their quality.
+ Write about environmental pollution and explain their types.
+ Explain primary and secondary sources of air pollution? 
+ Write a note on climate change and impacts on human environment.
+ List out the Sewage treatment plants, effluent treatment plants and .
+ Write about environmental pollution and explain their types.
+ Explain primary and secondary sources of air pollution? 
+ Write a note on climate change and impacts on human environment .
+ What is environmental impact assessment?
+  Define Environmental Imapct Assessment and Environmental  Management.
+  Define sustainable development.
+  What is the role of remote sensing and GIS in EIA study.
+  What is meant by crazy consumerism?
+Discuss basic characteristics of Green buildings.
+Define the performance characteristics of an instrument? 
+ Define precision and accuracy. 
+ Explain the difference between them.
+ List out the characteristics of a precision. Explain the types of errors possible in an instrument? 
+  Discuss about dynamic characteristics of a system?
+  Explain static characteristic? 
+  Explain ohmmeter and its classification?
+  Explain briefly about DC voltmeters and AC voltmeters? 
+  Define wave analyzers? 
+  Describe the t advantages incurred on spectrum analysis? 
+  Define spectrum analyzer?
+  List out the applications of the spectrum analyzers?
+  Define harmonic distortion analyzer? 
+  Define a Function Generator? 
+  Discuss about the CRT and its internal structure? Define CRO?
+  Discuss vertical amplifier with a neat block diagram? 
+  Explain vertical section of CRT? 
+  Explain about horizontal section of CRT.
+Discuss   about dual beam CRO? 
+ Define dual trace oscilloscope? 
+ Write briefly about storage oscilloscope? 
+ List the classification of transducers?
+ Define strain gauge?
+ Discuss  about LVDT? 
+ Write brief notes on thermocouples?
+ Discuss the   principle of operation of strain gauges?
+ Explain the desirable characteristics of strain gauge? 
+ List out the advantages of thermocouples .
+ List  the limitations of thermocouple. 
+ Discuss the principle of Maxwells bridge? 
+ Explain the basic principle of Kelvin bridge? 
+ Write short notes on data acquisition systems (DAS). 
+ Discuss the method of measurement of force? 
+ Explain the method of measurement of pressure.
+  Discuss  about  the method of measurement of velocity.
+ Discuss the method of measurement of humidity.
+ Explain the method of measurement of displacement .
+ Discuss about the Ayton Shunt Circuit and explain how current measurement is done?  
+ Explain about different types of errors that occur in measurements. 
+ Explain the working of True RMS voltmeter. 
+ Describe the basic performance characteristics of a system? Explain. 
+Explain the constructional details and difference between Ohmmeter series type and shunt type. 
+Explain the working principle of   PMMC movement  with the help of equations.  
+8 Define voltmeter sensitivity. What is the loading effect of a DC voltmeter? 
+Discuss about DArsonval Movement.
+Give the block schematic of a general measuring system and explain the same. 
+Explain the terms : i. Significant figures.
+Explain about the Multimeter. 
+ Discuss  about  AC voltmeters.
+ Explain how a Function Generator works?
+ Explain the working principle of wave analyzer with neat block diagram. 
+Explain the principle of operation and generation of pulse and square wave. 
+List out the applications of Spectrum Analyzer? 
+Explain the working of the harmonic distortion analyzer.
+Explain the working of the Power analyzer?
+Explain Arbitrary Waveform Generator .
+Explain the working of heterodyne wave analyzer with neat diagram. 
+Explain about the Video signal generators. 
+Explain about basic spectrum analyzer using swept receiver design.
+Explain briefly the Basic Features of a CRT? Explain briefly about the Vertical amplifier.
+Explain briefly about the Horizontal deflecting system? 
+Explain about storage oscilloscope with block diagram?
+Explain the working of Dual trace CRO with neat block diagram.
+Explain with neat Block Diagram of Digital Storage oscilloscope?
+Explain the method of finding phase relationship of two waveforms using Lissajous figures? 
+Explain the method of finding frequency relationship of two waveforms using Lissajous figures? 
+Explain the working of Dual Beam CRO with neat block diagram. 
+ Explain about Delay lines in CROs.
+ Explain the Applications of Oscilloscopes. 
+ Explain how different Lissajous figures can be used to .
+ Explain working of strain gauge and what are its specific advantages?
+ Explain about Piezo-electric effect? 
+ Explain the desirable characteristics of thermocouples? 
+Explain about Displacement transducers. 
+Describe about resistance thermometers.
+Explain about Variable Capacitance transducers. 
+Explain the Magneto Strictive transducers .
+Explain the Principle, working, Construction, characteristics and applications of thermistors.  
+ Explain the Principle and working of Strain gauges.
+ Explain the principle , working , construction   , Characteristics and applications of LVDTs. 
+Discuss the advantages and disadvantages of LVDT.
+Discus the difference between active and passive transducers? 
+ Explain the principle and working of Hot-wire Anemometer.
+Explain the operation of a Piezo electric transducer. 
+Explain the Kelvin Bridge with neat diagram and derive the expression for unknown resistance. 
+Explain the basic principle of wheat stone bridge and derive the expression for unknown resistance. 
+Explain general Data Acquisition System (DAS) with a neat block diagram? 
+ Explain how pressure is measured. 
+ Discuss about Flow measurement. 
+Describe the measurement of force. 
+ Explain the method of measurement of humidity.
+Discuss about the method of measurement of moisture.
+Describe about the Liquid level measurement. 
+Explain the principle and working of Ionization gauge.
+Explain the principle and working of ultrasonic Level gauge .
+ Explain about Velocity measurement.
+Discuss about Vacuum level measurement.
+Explain about force measurement.
+Explain about impulse response? 
+Describe an LTI system? 
+Discuss the condition for causality and stability? 
+Express and sketch the graphical representations of a unit impulse, step .
+Discuss the advantages of DSP? 
+Explain about energy and power signals? 
+Discuss about memory and memory less system?
+Identify linear system in the following.
+Define Z-transform and region of converges.
+Write properties of Z-transform .
+Define system function.
+Find The Z-transform of the finite-duration signal x(n)={1,2,5,7,0,1}.
+What are the basic building blocks of realization structures?
+Draw the direct-form I realization of 3rd order system .
+Draw the parallel form structure of IIR filter.
+Draw the cascade form structure of IIR filter.
+ Transfer function for IIR Filters.
+ For each impulse response listed below determine  whether the corresponding system is     (i) causal (ii) stable .
+ Obtain the Direct form II .
+ Obtain the i) Direct forms .
+ Distinguish DFT and DTFT .
+ Outline the DFT X(k) of a sequence x(n) is imaginary.
+ Outline the DFT X(k) of a sequence x(n) is real.
+ Explain the zero padding ?What are its uses.
+ Distinguish between linear and circular convolution of two sequences.
+ Discuss about power density spectrum of the periodic signal.
+What is the speed improvement factor in calculation 64-point DFT of sequence using direct computation and FFT algorithm . 
+What is the main  advantages of FFT? 
+How can we calculate IDFT using FFT algorithm.
+Prove the following properties.
+Determine the remaining samples .
+Find the output y(n) of a filter whose impulse response is h(n) = {1 1 1} and input signal x(n) = {3 -1 0 1 3 2 0 1 2 1}. 
+Find the DFT of a sequence x(n)={1 2 3 4 4 3 2 1} using DIF algorithm.
+Compute the DFT of a sequence x(n)={1 -1 1 -1}  using  DIT algorithm.
+Compute the DFT of the sequence x(n) =cos  where N=4 using DIF FFT .
+Find the IDFT of a sequence x(n)={0 1 2 3 4 5 6 7} using DIT-FFT algorithm.
+Give the magnitude function of butter worth filter.
+What is the effect of varying order of N on magnitude and phase response?  
+Distinguish between butterworth and chebyshev filter.
+Give the equation for the order N, major, minor axis of an ellipse in case of chebyshev filter? 
+What are the advantages of Chebyshev filters over Butterworth filters.
+What do you understand by backward difference .
+ Design Butter worth filler using Bi-linear  transformation. 
+Determine the order of the filter.
+Design an analog Butterworth filter that as a -2dB pass band attenuation at a frequency of 20rad/sec and at least -10dB stop band attenuation at 30rad/sec .
+Design an analog butter worth filter that has p=0.5dB, s=22dB, fp=10KHz, fs=25KHz Find the pole location of a 6th order butter worth filter with c=1 rad/sec .
+For the analog transfer function H(s)=  Determine H(z) using impulse invariance method .
+Design a third order butter worth digital filter using impulse invariant technique .
+ Determine H(z) using bilinear method.
+ What was the value of T? is this value unique? If not, find another value of T consistent with the information given.
+ What is mean by FIR filter? and What are advantages of FIR filter.
+ List the well known design technique for linear phase FIR filter design?
+ What is Gibbs phenomenon?
+ What are the desirable characteristics of the windows.
+ For What type of filters frequency sampling method is suitable.
+ What is a Kaiser window? 
+  In What way is it superior to other window functions? 
+  Draw the frequency response of N point Bartlett window.
+  Draw the frequency response of N point Blackman window .
+  Determine the frequency response of FIR filter defined by y(n)=0.25x(n)+x(n1)+.25x(n-2) Calculate the phase delay and group delay. 
+  Find the values of h(n) for N=11.Find H(z).plot magnitude response.
+ Design an ideal differentiate H(ejw)=j  -  Using a)rectangular window b)Hamming window with N=8.plot frequency response in both cases. 
+ Design a filter with Hd(ej) = e- 3 j, /4    /4
+0 for /4     using a Hamming window with N=7. 
+ Prove that an FIR filter has linear phase if the unit sample response satisfies the condition h(n)=  h(M-1-n), n =0,1,.. M.
+ discuss symmetric and anti symmetric cases of FIR filter.  
+ Describe the window sequence generally used and compare the properties. 
+ What is decimation by factor D.
+ Find the spectrum of exponential signal .
+ Explain the term up sampling and down sampling.
+  What are the Applys of multi rate DSP.
+  Why decimate? 
+  What happens if I violate the Nyquist criteria in down sampling or decimating?  
+Can I decimate in multiple stages? 
+List the errors which arise due to quantization process. 
+Discuss the truncation error in quantization process?
+Why? 
+Scaling is important in Finite word length effect.
+What are the advantages of floating point arithmetic? 
+How the multiplication & addition are carried out in floating point arithmetic? 
+What is meant byExplain in detail about Solid Rocket propulsion. 
+ A/D conversion noise?
+Derive the expression for decimation by factor D.
+Explain how lift generated.
+What is gravity turn trajectories.
+Explain 2D equations for rockets and missiles.
+Write a short note on solid propulsion .
+Explain the conditions of Impact point calculation and injection.
+Explain briefly about Launch environment.
+ Explain Basic configuration of Liquid propellant rocket system using neat sketches.
+Explain Injection process and types of injectors used in Liquid propellant rocket system.
+Explain different types of re entry vehicles.
+Explain the concept of Aero- braking.
+Write a short note on Aero-Capture and Aero Assis.
+Explain different types of Atmosphere Re-entry vehicles with neat sketches .
+Write a short on Aero-braking.
+ Write a short on  Aero-capture .
+ Derive an equation for Velocity burnout in Lifting body Re-entry .
+ Write Different types of orbits used in ground tracks with neat sketches. 
+Explain gravity assist maneuvers with respect to time of flight condition.
+Explain how to use a plane change combined maneuver, with an example?
+Describe Spacecraft ground tracking system and explain the process for rotating and non- rotating earth types. 
+Describe plane changing process involve in bi-elliptical transfer? 
+Defining Classical orbital Elements (COEs).Describe plane changing process involve in Hohmann transfer? 
+Write a short note on momentum-control devices.
+Explain the concept of spacecraft attitude .
+Explain the concept of types of stabilizations used.
+Write a short note on stabilization of a spacecraft .
+What is stabilization and explain the types used in it. 
+Write about attitude control for spin stabilization of a spacecraft.
+Write a note on momentum-control devices used in spacecraft attitude control? 
+Write a note on spacecraft attitude sensors.
+ Write about attitude control for gravity-gradient stabilization of a spacecraft.
+ What are the Responsibilities for Core team. 
+ What are Standard operations in MOC.
+ Write a note on Missions operations center (MOC).
+ Write a note on Tracking network.
+  Write a note on Operational engineering support.
+  Explain various types of ground supporting systems in space operations? 
+  Write a note on Operational engineering support.
+  Define the following terms a)static Pressure b)Total
+  What are the main purposes of performance measurement?
+ What is meant by FAA, ODM and WAT.
+What parameters affect the operational performance? 
+Explain the different forces acting on an aircraft.
+ Explain the components of drag in detail .
+ Explain range and endurance with thrust producing engines.
+ Define Breguet Range Expression. 
+  Discuss the three Cruise techniques.
+ Define three fuel flow laws .
+ Explain the effect of WAT on Cruise Performance  Define SAR and SAE .
+ Analyze the performance of the aircraft during takeoff .
+  Explain the current performance classifications of a Civil Transport aircraft.
+  Analyze the performance of the aircraft during landing.
+  Explain how the takeoff distance are classified into. Derive the ground run distance for take off performance .
+  Discuss the two cases to abandon landing.
+  Discuss the four phases of the flight planning .
+  Explain the purpose of performance measurement.
+  Explain the terms a) Block fuel b) Block time.
+  Demonstrate the enroute climb performance with aneat sketch .
+  Explain the effect of the three principle performance variables.
+  Derive the parametric form of the thrust forces.  
+  Derive the parametric form of the climb segment.
+  Discuss the 3 methods in the data handling .
+   Define the following terms .
+Name two aspects of airplane performance that are most significantly affected by the critical Mach number of the wing and describe how .
+Describe with the help of a diagram the mission profiles of different aircrafts.  
+ What are the purposes for which the performance of an aircraft needs to be measured in flight?
+ Explain minimum drag speed and minimum power speed and describe their Importance in aircraft performance studies.  
+  Explain the total airplane drag and types, drag reduction methods.
+ What is EOM?Explain & Derive the EOM. 
+ Discuss with the help of a diagram the maneuver boundaries for turning performance.
+  Why climb performance is one of the critical areas in both the design and operation of an aircraft?
+   Derive expressions for climb gradient and climb rate for aircraft with thrust producing engines.  
+Discuss the effect of Mach number on lift and drag coefficient with relevant graphs.
+Explain on the aspect of en-route drift down performance with relevant graphs.
+Explain take-off net flight path.
+  Draw the climb performance WAT chart, for the case of second segment one engine operating and explain.
+ Derive the pressure-height relation in the stratosphere region.
+ Derive the relation for the measurement of equivalent airspeed.
+  Discuss the practical considerations of air data measurement.
+  Define the following terms i)Static pressure  ii)Total pressure  iii)Impact pressure  .
+Explain briefly Scheduled performance and operational performance of aircraft. 
+Sketch the military combat aircraft and interceptor aircraft MISSION profile and Explain.
+Derive the expression for load factor as a function of Lift, Thrust, a and Weight .
+What are some of the advantages of fleet commonality? Why has there been a trend toward leasing?
+Explain  Block performance of an aircraft. Disposable load .
+Explain the current performance classifications.
+Discuss the importance of the fleet-planning process to both short-term and long-term Management decision making in an airline.  
+ Write a short note on determination of the maximum takeoff weight. 
+Describe the flight testing principle variables weight and altitude with suitable examples.
+Describe the parametric forms of aerodynamic and thrust forces .
+Explain the history evolution for the aircraft systems.  
+Explain the economic characteristics.  
+ Explain the Significance of airline passenger load factors.  
+Explain the Significance economic impact  
+Explain the development, growth, challenges.  
+Explain the Airlines as oligopolistic. 
+Explain the Airline Industry structure in the 1960-1980s.
+Explain the economic growth in the air transportation.
+Explain the economic impact- types and causes in the airlines.
+Explain the Aerospace Industry As common term ?
+Explain the formation of international air law.
+Explain the formation and responsibilities of regulatory bodies like ICAO,IATA,DGCA and FAA .
+Explain the importance of air safety regulations. 
+   how can you support your answer as its very important to fly with these certificates in every national policies explain with FAA administration chart.
+   explain with flow chart support your answer its compulsory required license to fly different nations .
+  Give a brief about ICAO future air navigation systems (FANS) and its advantages and disadvantages when compared to existing systems . Explain the deferent type of the frequencies used in the navigation felid with ranges in hedges .
+  Explain the process of Secondary surveillance radar (SSR) in the aviation signaling process explain with proper diagram  .
+Explain Distance measuring equipment (DME)process for the aviation system with neat figure and support your answer its compulsory in the pilot cabine  Aircraft Communications Addressing and Reporting System (ACARS) is the navigation system used from satellites for navigation explain the process of ACARS in detail with figure  .
+Aircraft Communications Addressing and Reporting System (ACARS) is the navigation system used from satellites for navigation explain the process of ACARS in detail with figure.
+Traffic collision avoidance system(TCAS) is important in safe journey explain process with figures.
+ Instrument landing system (ILS) is for the safety landing system explain the process with neat sketch  .
+VHF omni-directional radio range (VOR) is the signals explain with diagrams and write applications of any four.
+Navigation has the process of locating points and positions in the earth this is done by satiates explain the process of navigation.
+ Explain the process of radar in the aviation field SSR and primary radar process.
+ Explain the need for the Maneuvering area airfield lighting, in the airport.
+  Explain the indirect cost in the aviation budgets for the airline growth and its development.
+Explain the direct cost in the aviation budgets for the airline growth and its development.
+Explain the ticketing process growth in the last few years with neat figures.  
+The Future Air Navigation System is the modern approach for the navigation explains in detail for this type of approaches in future and what are they?
+ Describe the characteristics of a modern airport.  b) Are they economically viable?  
+ Explain  a) State-of-art ATC  b) Separation in air  c) Role of radar at the airport.  
+ Is there a scope for starting a new airline company in India now? Extend  your arguments  .
+  Explain in brief  a) Runway characteristics  b) Runway capacity. 
+  Broadly explain various communication systems used in air transport system.
+  Distinguish efficiency and effectiveness of an aircraft balanced by an airline? 

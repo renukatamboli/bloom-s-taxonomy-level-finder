@@ -1,0 +1,493 @@
+Explain how the uplink design is different from downlink design?
+Explain telemetry, tracking and command (TT&C) subsystem of a satellite With the help of block diagram? 
+Explain the concept of rain induced cross polarization interference.
+Explain the DA-TDMA brust structure.
+explain how if differs from a simple TDMA frame?
+Explain what is meant by asymmetric channels.
+Explain the concept of RMA? 
+Write a short notes on different subsystems of earth station? 
+Write down the requirements for the design of an earth station? 
+Create 6 4 Write a short notes on GPS system? 
+Explain what do you mean by the direct broadcast satellite.
+Explain with the help of a block diagram.
+Write note on. 
+Design the channel backlog in packets for a slotted ALOHA satellite channel with an infinite population and at equilibrium. 
+Explain the relation between Radar range resolution and the signal bandwidth with relevant equation. 
+Distinguish between average power and Peak power and express the relation between the two. 
+Discuss the importance of the position of a target in a lobe for maximum probable detection of the target? 
+Explain how the unambiguous range can be manipulated with proper design of pulse repetition frequency. 
+What type of change the received frequency will undergo?
+explain the change in the frequency? 
+Explain how the multipath signals produce error in FM altimeter.
+Write the applications of CW Radar.
+What factor determines the difference between the transmitted frequency and the received frequency in an FM transmitter.
+describe range and Doppler measurement if the transmitted signal of a CW radar is frequency modulated.
+Explain Equipment instabilities. 
+Explain Scanning modulation.
+Explain the characteristic(s) of radiated energy that need to be altered to achieve electronic scanning? 
+Discuss the significance of this Statement with reference to target motion off the lobe axis? 
+Distinguish the difference between a mono static and bi static radar system.
+Discuss the parameters on which maximum detectable range of a radar system depends. 
+Write the simplifier version of radar range equation and explain how this equation does not adequately describe the performance of practical radar? 
+Obtain the SNR at the output of IF amplifier of radar receiver for a specified probability of detection without exceeding a specified probability of false alarm.
+Explain system losses will effect on the radar range? 
+Discuss about the factors that influence the prediction of radar range.
+Explain the relation between un-ambiguous range estimation and multiple-time-around echoes.
+Discuss the results  of  multiple  frequency  usage  for  operating  FM- CW radar while mentioning the limitations of multiple frequency usage in CW radars. 
+Why the step error and quantization errors which occur in cycle counter are used for frequency measurement in FMCW Radar? 
+How to select the difference between two transmitted signals of CW radar? 
+Discuss the factors limiting the performance of an MTI system.
+What are blind speeds? Suggest a method to reduce the effect of blind  speeds  for unambiguous detection of a moving target.
+Explore the possibility of broadening the clutter rejection null using a second delay line canceller in the MTI radar system.
+Discuss the laminations of non-coherent MTI Radar systems.
+Discuss the effect of surface quality and reaction characteristics of a target on the angular tracking accuracy of tracking radar. 
+discuss the Sequential lobbing type of tracking technique in a tracking radar system.
+Why does tracking radar have poor accuracy at low elevation angles? 
+Explain the block diagram of amplitude comparison mono pulse for extracting error signals in both elevation and azimuth. 
+Draw and explain the following with respect to Tracking in range.
+Draw and explain block diagram of Conical-scan tracking radar.
+Describe the operation of branch and balanced type duplexers with necessary diagrams. 
+Discuss in detail about Matched-filter Receiver with necessary expressions.
+Explain how a threshold level is selected in threshold detection?
+Why most of the radar receivers are considered as envelop detectors while calculating the SNR? 
+Discuss the relation between the matched filter characteristics and correlation detection .
+List out the general characteristics and bring out requirements for a radar receiver .
+Explain how a circulator can be utilized for a radar receiver protection .
+List out the applications of phased array antennas and discuss.
+List the advantages and limitations of phased array antennas. 
+Compute the maximum detectable range of a radar system specified below.
+Use the radar range equation to determine the required transmit power for the TRACS radar given.
+If  Li(40) is 3.5 dB and Li(10 ) is 1.7 dB, find out the collapsing loss. 
+Determine f2 and f when f1=4.2 kHz.
+Determine the acceleration of a target if the received signal bandwidth is 40 Hz and the operating wavelength is 9 cm.
+Determine the operating wavelength  if the target is moving with acceleration as same as acceleration of gravity and the received signal bandwidth is 50 Hz.
+With a transmit (CW) frequency of 5GHz, calculate the Doppler frequency seen by stationary Radar when the target radial velocity is 100km/hr.
+The minimum receivable signal in a radar receiver whos IF bandwidth is1.5 MHz and which has a noise figure 9 dB will be.
+A target is moving with a velocity of 360km/hour radically towards the transmitting frequency generator of 3 GHz will be.
+What is the highest frequency that a radar can be operated if it is?
+Explain how you will design application to create a Smart Card in detail.
+Analyze and design application for Adaptive Cruise Control System in Car in detail.
+Explain how will you design a application for Automatic Chocolate Vending Machine in detail. 
+What is the purpose of laminating the core in a transformer?
+Describe the construction details of transformer.
+Explain the principle of operation of transformer.
+Explain the ON load condition of a transformer.
+find the following: (a) Secondary volt ampere (b) Primary current (c) Primary volt ampere. 
+Find the number of turns in the low voltage winding.
+Explain the real life example of a leader and what is the role played in an organization.
+Write the difference between RISC and CISC processors?
+Write the difference between PLD and ASIC?
+Write the difference between masked ROM and OTP? 
+Write is the difference between I2C and SPI communication interface.
+What are the different types of memories used in embedded systems design? 
+Explain the role of each? 
+What are the different types of memories used for program storage in embedded systems design? 
+Define inline assembly?
+Give the limitations of the high level language based development.
+Explain the role of RESET circuit in embedded system? 
+Explain the role of Real Time Clock in embedded system? 
+Analyze how accurate time management is achieved in real time kernel?
+Give the comparison between multitasking, multiprogramming, multi processing?
+What is the difference between a general purpose kernel and real time kernel? 
+Give an example for both? 
+Explain thread context switch and the various activities performed in thread context switching for user level and kernel level threads? 
+Explain the different multitasking models in the operating system context? 
+What is the difference between Hard and Soft real time systems? 
+Give an example for Hard and Soft real time kernels? 
+Give the difference between buffer over run and buffer under run?
+Analyze the critical section problem?
+Explain the various process interaction models in detail? 
+Explain The message passing technique for IPC. What are the merits and demerits of message based IPC? 
+Explain the interlocked functions for locked based mutual under windows OS .
+Explain the critical section object for process synchronization? Why critical section object is based synchronization fast?  
+Write a short note on Macro Economics.
+Define Managerial Economics. 
+Write its scope.
+Identify the factors which are influencing Elasticity of Demand. 
+Write about the Demand Function.
+Write a note on opportunity cost.
+Write Differences between explicit and implicit costs.
+Write the assumptions of BEA.
+Identify the market skimming.
+Write short notes on Monopoly Competition.
+Write short note on Price Maker. 
+Write short note on Price Taker.
+Write short note Cost plus pricing.
+Write a short note on Common Seal.
+Write any two differences between Public Company and Private company. 
+Write a short note on Public Limited Company.
+Write a short note on Private company.
+Write a short note on Active Partner.
+Write a short note on Minor Partner.
+Write a short note on Partner by Estoppel.
+Write different types of shares. 
+Write a formula for Pay- back period.
+Write a formula for Average Rate of Return.
+Write a formula for Net Present Value.
+Write a formula for Profitability Index.
+Write a formula for Internal Rate of Return .
+Write a note on profitability index. 
+Write the advantages and Disadvantages of IRR Method. 
+Write a note on provisions for doubtful debts.
+Write the meaning of Earnings per share.
+Write the significance of Trial Balance.
+Prepare Trading and Profit & Loss A/c and Balance Sheet of Mr. Mukharjee as at 31-12-1998 from the following Trial Balance .
+Briefly discuss about grassland ecosystem .
+Differentiate between grazing food chain detritus food chain. 
+Discuss the structure and function of desert ecosystem.
+Sustainable management of natural resources is essential to provid.
+What is the function of? 
+Whats fact? 
+Opinion?
+What assumptions? 
+What statement is relevant? 
+What motive is there? 
+What conclusions?
+What does the author believe? 
+What does the author assume? 
+State the point of view of. 
+What ideas apply?
+What ideas justify the conclusion?
+Whats the relationship between?
+The least essential statements are.
+Whats the main idea?
+What literary form is used?
+What persuasive technique is used?
+Determine the point of view, bias, values, or intent underlying presented material.
+Which events could not have happened?
+If happened, what might the ending have been?
+How is similar to?
+What do you see as other possible outcomes?
+Why did changes occur? 
+Can you explain what must have happened when? 
+What were some of the motives behind? 
+What was the turning point?
+What are some of the problems of?
+Design a questionnaire to gather information.
+Write a commercial to sell a new product.
+Make a flow chart to show the critical stages. 
+Construct a graph to illustrate selected information.
+Make a family tree showing relationships.
+Devise a play about the study area. 
+Write a biography of a person studied.
+Prepare a report about the area of study.
+Conduct an investigation to produce information to support a view.
+Review a work of art in terms of form, color and texture.
+Can you distinguish between?
+If  happened, what might the ending have been? 
+How was this similar to?
+What was the underlying theme of? 
+What do you see as other possible outcomes? 
+Why did changes occur?
+Can you compare your  with that presented in?
+Can you explain what must have happened when?
+What was the turning point in the game?
+What was the problem with? 
+Which tells?
+If the pattern continues.
+Which could?
+What rule explains,completes this pattern?
+What is/are missing?
+What is the best estimate for?
+Which shows?
+What is the effect of?
+If happened, what might the ending have been? 
+How was this similar to? 
+Can you compare your with that presented in? 
+What are some of the problems of? 
+Can you distinguish between? 
+What was the turning point in the game? 
+Design a questionnaire to gather information. 
+Write a commercial to sell a new product. 
+Conduct an investigation to produce information to support a view. 
+Construct a graph to illustrate selected information. 
+Make a jigsaw puzzle. 
+Make a family tree showing relationships. 
+Put on a play about the study area. 
+Write a biography of the study person. 
+Prepare a report about the area of study. 
+Make all the arrangements and record the steps needed. 
+Analyze whether the following grammar is LR(1) or not. 
+Explain your answer with reasons.
+Prepare a canonical parsing table for the grammar given below. 
+List the various ways of calling the procedures? 
+Explain in detail?
+Write a note on the specification of a simple type checker.
+Define a type expression? Explain the equivalence of type expressions with an appropriate example.
+Analyze the significance of LOCK signal in 8086?
+Analyze how DMA interrupt have priority over the processor interrupt when both interrupts occur simultaneously?
+Show that the average case time complexity of quick sort is O(nlogn).
+Differentiate Breadth first search and depth first search.
+Compare and contrast BFS and DFS.
+Compare the schemas for the multidimensional data models?
+Compare Enterprise warehouse, data mart, virtual warehouse?
+Compare Data cleaning, data transformation?
+Analyze That all nonempty subsets of a frequent itemset must also be frequent. 
+Analyze how can one mine frequent itemsets efficiently considering multiple occurrences of items?
+Analyze and find whether View exists if the table is dropped from the database?
+Analyze why, then, do we have weak entity sets?
+Analyze which of the following concurrency control protocols ensure both conflict serializability and freedom from deadlock? 
+Analyze which one of the schedules is conflict-serializable?
+ Analyze whether a recovery manager required for this system?
+ A clustering index is defined on the fields of which type? 
+ Analyze them.
+ Distinguish a class and an object.
+ Differentiate compositor and composition.
+ Differentiate Alexanders patterns and Design patterns.
+ Analyze the steps for simplification of POS expression? 
+ Write briefly about how hazards can become a disaster.
+ Define  biological hazards.
+   write a note on meteorological hazards. 
+   what is earthquake hazard? 
+   What causes earthquake. 
+   Write a brief note on volcanoes. What are the hazards involved?
+   What are the effects of the volcanoes on the environment?
+   Explain briefly about the effects of earthquakes on the environment.
+   Give an example from a real incident.
+   Write down the different types of atmospheric hazards.
+   Write in short about the structure of cyclone.
+   Discuss the flood-prone regions in India.
+What is mitigation?
+What is meant by human ecology? How it is related to Disasters. 
+Explain sea level rise. 
+What are its causes and effects?
+Write a note on global atmospheric changes.
+What is the difference between natural disaster and man-made disaster? 
+What are floods? 
+What are the harmful effects of floods.
+Write a short note on earthquakes. 
+What are its causes? 
+What is epicenter and focus ? 
+draw with a neat diagram? Based on depth how many types of earthquake are classified.
+What ais endogeneous hazards ? Explain with examples in detail.
+Discuss the various measures that should be taken for disaster.
+Explain the phases of disaster management.
+Why should every village have a disaster management committee? Write a short notes.
+Develop the pin out of CD4511.
+Discriminate I2C data format.
+Explain the terms Nitriding decarbonisation.
+Draw the layout of four wheels automobile and indicate majorcomponents.
+Discuss briefly about Crescent gear pump, Rotor pump andPlunger pump?
+Draw and Explain pressure lubrication system?
+Compare battery ignition system with magneto ignition system?
+Draw and explain different types contact breakers?
+Compare pollutants of solar system with conventional fuels.
+Explain the working of a Horn cutout relay.
+Explain clearly The operation of the turn signal light unit.
+Draw the simplified wiring circuit diagram.
+Discuss the troubles commonly experienced in lighting system.
+Sketch and explain different types of leaf springs.
+Sketch and explain the construction and working of wishbonetype independent front suspension.
+What are the requirements of brake fluid?
+Sketch and explain the construction and working of Ackermannsteering mechanism.
+By using GT what types of benefits are associated in Manufacturing, Production and Quality control functional areas.
+Write the steps involved in production flow analysis. Why doyou carryout such analysis.
+How does the helix angle influence on the efficiency of square threaded screw?
+In the design of power screws, on what factors does the thread bearing pressure depend? Explain.
+On what factors does the thread bearing pressure depend in the design of power screw? Explain.
+Why is a separate nut preferable to an integral nut with the body of a screw jack?
+What do you understand by overhauling of screw?
+Write a short note on multiple threads.
+What are the stresses induced in power screws?
+Write a sort note on differential screw.
+What are the end conditions that have to be taken while designing a screw in a screw jack against buckling load?
+Why the load cup of a screw jack is made separate from the head of the spindle?
+Write a sort note on compound screw.
+What are power screws?
+What are the types of screw threads used for power screws?
+Show that theengine may be balanced for primary forces. If the engineDifferentiate closed and open system.
+Differentiate closed and open system.
+Differentiate the system, surroundings and boundary Explain in detail.
+Differentiate thermal equilibrium and thermodynamic equilibrium, explain.
+Enumerate the Isobaric process from thermodynamic point of view?
+Enumerate the Isochoric process from thermodynamic point of view? 
+Enumerate the Isothermal process from thermodynamic point of view? 
+Enumerate the Isentropic process from thermodynamic point of view? 
+Enumerate the polytrophic process from thermodynamic point of view? 
+Explain displacement work with neat diagram? 
+State Zeroth law and explain with a good example? 
+Explain the Joules experiment with a neat sketch? 
+Compare the first law of thermodynamics with its corollaries? 
+Complete the following table showing the method for each item and.
+Compute the rate of shaft work input to the air in KW.
+Compare the first law and second law of thermodynamics with suitable examples?
+State PMM1 and PMM2, in which manner both are different?
+Compare the relation with process and cycle? Explain.
+Explain the influence of entropy on various parameters?
+Define Gibbs and Helmholtzs functions? Compare the importance of them?
+Compare the exhaust temperature of second and third Carnot engines?
+Distinguish which of the following heat rejection represent a reversible, irreversible or impossible result.
+Compare calculation for the heat flowing out of the high temperature reservoir?
+Compare isobar on Mollier diagram diverse from one another?
+Analyze the properties at Triple point and state properties?
+Analyze the procedure adopted in Steam calorimetry ?
+Compare the enthalpy, entropy and volume of steam at 1.4MPa, 3800C.
+Compute the characteristic gas constant and the molecular weight of the gas mixture?
+Compare the Volumetric and Gravimetric Analysis of mixtures?
+Compare dry bulb temperature and wet bulb temperature with a sketch?
+Differentiate the Relation between specific humidity and relative humidity?
+Compare degree of saturation and adiabatic saturation.
+determine partial pressure of the constituent and gas constant of mixture.
+Compute degree of saturation, dew point temperature and enthalpy of the mixture?
+Compute partial pressure of the water vapor, specific humidity, dew point temperature and relative humidity?
+Determine the relative humidity and humidity ratio of the inlet mixture.
+Classify the assumptions to be made for the analysis of all air standard cycles?
+Compare Otto cycle with Diesel cycle?
+Differentiate cycle and power cycle. Explain in detail with diagram.
+Compare the thermal efficiency and mean effective pressure of Otto and diesel cycles?
+Compare the thermal efficiency and mean effective pressure of dual and diesel cycles?
+Compare the thermal efficiency and mean effective pressure of Otto and dual cycles?
+Determine efficiency and mean effective pressure?
+Determine air standard efficiency, mean effective pressure and power of the engine if the working cycles per minute are 300?
+Determine the Compression ratio, if efficiency of an Otto cycle is 60% and  = 1.5?
+Is his claim possible?
+Determine the efficiency of the engine.
+Determine air standard efficiency of cycle? Take  of air is 1.4.
+Give an examples of both a Unilateral and bilateral tolerance.
+With the help of neat sketches sate the essential conditions for Clearance fit and Interference fit.
+With the help of neat sketches sate the essential conditions for transition fit.
+In manufacturing system Hole basis or Shaft basis systems which process is preferable explain why.
+Explain briefly the difference between the interchangeable manufacturing and selective assembly.
+Find the values of allowance, and tolerance for hole and shaft.
+Name the various types of interferometers.
+Explain the method of checking the height of component with the help of optical flat.
+Explain the working and construction of auto-collimator.
+What are the Factors Affecting Surface Roughness?
+What are the reasons for controlling surface texture?
+Explain what are the symbols used to indicate the direction of lay along with neat sketch.
+Explain the working of Talysurf surface roughness instrument.
+Explain the working of Pofilograph surface roughness instrument.
+Explain the construction and working of a sigma comparator.
+Describe the method of measurement of minor diameter of internal threads.
+Describe the method of measuring the pitch of the screw by using the pitch measuring machine.
+what are the measuring equipments used for alignment test explain briefly?
+What are the various manufacturing errors in gear?
+Give the elements for specifying the gear and give formulae fori) circular pitch ii) module iii) addendum iv) base diameter.
+determine the following:.
+determine the deflections at mid spans given E=2X105N/mm2, and I=5X106 mm4.
+formulate the finite element equations for contant strain triangle as shown in fig 1.1.
+calculate the element stress for the element shown in fig1.2.
+Explain Iso-parametric, sub-parametric and superparametric elements.
+Advantages of iso-parametric elements.
+Write short notes on Gaussian quadrature integration technique.
+For the configuration shown in figure, determine the deflection at the point load application.
+ Suggest suitable wild life conservation practices. 
+Identify and explain the present day major threats to the biodiversity of India? 
+Discuss the various strategies of conservation of biodiversity? 
+Write the direct and indirect values of biodiversity?
+Explain the necessity for viewing the biodiversity as a global resource.
+Describe with examples the steps that are being taken towards this  purpose. 
+Evaluate cattle grazing on private and public .
+What are the problems encountered in the disposal of solid waste from various .
+What are the problems encountered in the disposal of solid waste from .
+Mention the objectives of environmental protection act. 
+What are the principles of sustainable cities.
+Explain the concept of sustainable development .
+Briefly explain the Municipal Solid Waste management.
+Distinguish between static and dynamic characteristics? 
+Distinguish between square and pulse wave generators?
+Distinguish between the oscillator and function generator?
+Classify and explain various types of errors in measurement. 
+Differentiate between wave analyzer and harmonic distortion analyzer? 
+Distinguish between wave analyzer and Harmonic distortion analyzer. 
+Distinguish between wave Analyzer and Spectrum analyzer. 
+Distinguish between thermocouple and thermistor.
+Distinguish between  magnetic flow meter with turbine flow meter .
+Distinguish between ionization gauge and Pirani gauge.
+With reference to Z-transform, state the initial and final value theorems? 
+Examine the relation between DFT & Z-transform.
+Analyze about periodic convolution .
+Find the convolution sum of x(n) =1 n = -2 0 1 = 2 n= -1  = 0 elsewhere  and h(n) =  (n)   (n-1) + ( n-2) -  (n-3).
+Draw the butterfly line diagram for 8 - point FFT calculation and briefly explain.
+Compute IDFT of sequence X(K)={7 -.707-j.707 j 0.707-j0.707 1 0.707+j0.707 j - .707+j.707} .
+Distinguish IIR and FIR filters.
+Distinguish analog and digital filters .
+Write the expression for the order of chebyshev filter and Butterworth filter.
+For the given specifications find the order of chebyshev-I p=1.5dB, s=10dB, p =2rad/sec, s =30 rad/sec.
+What is the principle of designing FIR filter using frequency sampling method? 
+Give the equation specifying Kaiser window. 
+Compare IIR and FIR filters .
+What are the categories of multirate?
+What do you understand by a fixed-point number? 
+How would you relate the steady-state noise power due to quantization and the b bits representing the binary sequence?
+Derive the expression for interpolation by factor .
+State Continuity Equation and also represent the equation.
+State Momentum Equation and also represent the equation.
+Define irrotational flow condition.
+Define incompressible flow condition.
+State stream and potential functions for doublet flow .
+Discuss the role of viscosity in fluid flow.
+Difference between laminar and turbulent boundary layer velocity profile.
+Explain the formation of trailing vortices.
+What is downwash?
+What is source panel method? 
+What is vortex panel method?
+List out lift augmentation methods.
+Explain how flaps augment the lift production?
+Explain the working of vortex generators.
+Derive the differential form of continuity equation.
+Derive the differential form of momentum equation.
+Derive the Navier stokes equation.
+Discuss the importance of aerodynamics. Give historical examples.
+ List out and explain all the fundamental variables of aerodynamics.
+ Derive the stream function and potential functions for the combination of
+uniform and doublet flow.
+Obtain the expression velocity potential and stream for an uniform flow in
+terms of Cartesian and polar co-ordinatesz.
+Explain the boundary layer growth along a flat surface.
+Discuss in detail laminar, transition and turbulent flows.
+ Obtain an expression for the velocity induced at the center of the loop in terms of  and R.
+ Obtain an expression for the velocity at distance A on the line, as induced by the vortex filament.
+  Calculate the lift and induced drag
+coefficients for this wing at a geometric angle of attack = 70.
+Explain in brief Lanchesters experiment.
+Explain in detail Prandtls lifting line theory.
+Why the propeller is twisted by blade element analysis blade angle?
+Explain.
+Compare the role of winglets and slats in lift augmentation.
+Derive the integral form and differential form of continuity equation.
+Calculate the drag oefficient for the wedge. 
+ Show that the two flows are dynamically similar..
+ Calculate the drag coefficient for the cylinder, based on projected frontal area of the cylinder.
+ Derive expressions to estimate lift and drag coefficients.
+  Calculate the drag coefficient for the cylinder, based on projected frontal area of the cylinder.
+  Derive expressions to estimate lift and drag coefficients.
+  Explain with sketch the thin aerofoil theory.
+  Explain in detail, resolution of thin airfoil problem into lifting cases and
+their solutions.
+Explain in detail all the elementary flows and their combinations.
+Discuss in detail the aerodynamics of spinning tennis ball.
+Explain boundary layer separation and the factors that influence boundary
+layer separation.
+Derive the Prandtls boundary layer equations and derive the blassius solution.for the flat plate problem.
+Compare the two results.
+Explain elliptic loading & wings of elliptic platforms. 
+Derive the expression for minimum induced drag for Elliptic platform.
+Demonstrate the verification of the statement.
+Compare the formulation in (a) above with that in the classical lifting line.
+What are vortex generators and slats? Explain how they are employed to augment the lift production.
+Derive the  Rankines  semi empirical formula for columns .
+Evaluate secant formula for column subjected to eccentric load. 
+Show that stress function  = Ax2+Bx2y+Cy3+D(5x2y3-y5) is valid for the beam and evaluate the constants A,B,C and D. 
+ Find out maximum slope and deflection.
+ Derive deflection f cantilever beam subjected to concentrated load at the centre. 
+ Find the expressions for maximum deflection and bending moment of beam under concentrated load. 
+ Find the deflection of the cantilever beam at the point of application of 1000 N load.
+ Derive deflection f simply supported beam subjected to concentrated load entre using Macaulays method.
+ Calculate the vertical deflection of the joint B and the horizontal movement of the support D in the truss shown in Figure.
+ Use the principle of virtual work to calculate the vertical displacements at the quarter- and mid-span points in the beam shown in figure.
+ Determine the shearing stress in each wall of a rectangular cross-section of closed tube    subjected to torque of 2700 N-m. 
+ Determine the variation of shear flow throughout the tube of a rectangular cross section whose outer width and height are 100 mm and 200 mm respectively.
+ Determine the shearing stress in the each of the four walls of such tubing when it is subjected to a torque of 2700 N-m? 
+ 
+  
+
+Determine the element stresses.
+Determine the nodal displacements and element stresses for the two dimensional loaded plate as shown in fig.
+Determine the nodal temparatures in a composite wall shown in fig.
+Determine the temperature at the nodal interfaces for the two layered wall shown in fig.
+Determine the nodal temparatures and rate of heat transfer through a composite wall shown in fig.
+Determine the temperature distribution through the composite wall shown in figure.
+Determine the temperature distribution at five nodes (include two sides of the walls) in equal distances through the wall thickness.
+Determine the distribution and amount of heat transferred from the fin to air at 200c with h= 9W/m20c take width of the fin is 1000 mm.
+Analyze whether the following grammar is LR(1) or not. Explain your answer with reasons.

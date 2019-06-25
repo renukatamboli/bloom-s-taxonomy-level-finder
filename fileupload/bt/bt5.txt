@@ -1,0 +1,306 @@
+Explain the equations for resistors in equivalent delta. 
+State Ohms law?
+Explain the equations for resistors in equivalent star. 
+Explain two capacitors are connected in series then Ceq=C1C2/C1+C2?
+Explain derivation of star-delta conversion equations?
+Explain derivation of delta-star conversion equations? 
+Derive the condition for maximum power transfer theorem?
+Obtain the condition for maximum efficiency of a transformer?
+Obtain the equivalent circuit of a single phase transformer?
+Derive the approximate equivalent circuit of a 1 phase transformer.
+Derive an emf equation of a single phase transformer.
+Derive the equation for induced EMF of a DC generator? 
+Evaluate 5 3 Derive the torque equation of DC motor? 
+Derive the expression for rotor frequency?
+Derive the expression for the armature torque and shaft torque of a DC motor.
+Estimate link power budget equation and explain about the downlink and uplink rain fade margin.
+Compare similarities and differences.
+Compare and contrast the situations with a power amplifier and a power oscillator in the transmitter of an MTI system .
+Compare and contrast conical scan and sequential lobbing type tracking techniques.
+Find the unambiguous range for a radar working with a pulse repetition frequency fP  of 1000 K Hz.
+Compute the maximum detectable range of a radar system specified below.
+compute the power received at 50 Km distance from the radar antenna.
+If  Li(40) is 3.5 dB and Li(10 ) is 1.7 dB, find out the collapsing loss.
+Find out the Doppler frequency shift caused by a space borne .
+Determine the operating wavelength  if the target is moving with acceleration as same as acceleration of gravity and the received signal bandwidth is 50 Hz.
+The minimum receivable signal in a radar receiver whos IF bandwidth is1.5 MHz and which has a noise figure 9 dB will be.
+A target is moving with a velocity of 360km/hour radically towards the transmitting frequency generator of 3 GHz will be.
+Estimate the system noise figure if the antenna is at 300deg Kelvin and the transmission line loss is 1.5 dB and the receiver noise figure is  2.6 dB ? 
+Mention the difference between core and shell type transformers.
+Define voltage regulation of a transformer.
+What are the applications of step-up & step-down transformer? 
+How transformers are classified according to their construction?
+Define transformation ratio. 
+Explain mutual induction principle.
+What is meant by step response of circuit? 
+Evaluate What is meant by driven circuit and un-driven circuit? 
+Define time constant?
+Explain time constant significance in Series RL circuit?   
+Define h parameters and draw equivalent ckt same. 
+What the significance of h parameters? 
+What the use of parameters?
+Derive condition of symmetry for y parameters. 
+Explain the principle of operation of single phase 2-winding transformer.
+Derive condition of symmetry for h parameters.
+Explain the losses in a Transformer .
+Explain the NO load condition of a transforme.
+Design a high pass filter having a cut-off frequency of 1 khz with a load of 600 ohms .
+calculate: i) The full load primary and secondary currents. 
+Calculate the value of Maximum flux density on core and the emf induced in the secondary.
+Calculate (i) the maximum flux density in the core (ii) induced emf in the secondary winding.
+Determine the equivalent circuit referred to primary side. 
+Explain evolution of management thought or theory of management which is universally applicable? 
+What is the contribution of Henry Fayol to the management process? 
+Are his administrative principles strictly enforceable in the current? 
+According to Taylors scientific management approach bring to the process of management? 
+Did it change the value of time? 
+If so, in what way?
+Discuss about sustainability of an organization and how runs in the society.
+Write the merits and limitations of the RS232 interface?
+Explain the components of typical embedded systems in detail.
+What is digital signal processing (DSP)? 
+Explain the role of DSP in embedded system design?
+What is processor architecture?
+What is the different processor architectures available processor/controller design?   
+Give an example? 
+What is sensor?
+Explain its role in embedded system design?
+Illustrate with an example? 
+What is actuator? 
+Explain its role in embedded system design? Illustrate with an example?
+Explain the sequence of operation for communicating with 1 wire slave device.
+Explain the role of Watch dog Timer in embedded system?
+Explain the role of Brown out protection circuit in embedded system?
+Explain the various steps involved in the assembling of an assembly language program?
+Explain the advantages of Assembly level language based on embedded firmware development?
+Explain about library file creation and usage in the assembly language based development? 
+Discuss all activates are involved in the context switching? 
+Explain the different queues are associated with process scheduling?
+Explain the memory architecture of a process? Explain various activities involved in the creation of process and threads?
+Explain how Threads and process are related? What are the common to process and threads? 
+Give the difference between mutex and semaphores?
+What is inter process communication (IPC)?
+Give an overview of different IPC mechanisms adopted by various operating systems? 
+Explain the different task communication synchronization issues encountered in inter process communication? 
+What is critical section?  
+What are the different techniques for controlling access to critical section? 
+Explain the architecture of Device drivers.
+What is unlimited Liability?
+Identify the meaning of trial balance.
+Identify the formulas for liquidity ratios.
+Define Double Entry System. Describe the advantages and Disadvantages of Double Entry System.
+Prepare Trading and Profit & Loss A/c of Mr. Rama Raju for the year ending 31-3-2007 from the following Trial Balance.
+which is more important ,moral,better,logical,valid,appropriate?
+find the errors.
+is there better solution to?
+judge the value of.
+what do you think about?
+can you defend your position about?
+do you think good or bad thing?
+how would you have handeled?
+what changes to would you recommend?
+do you believe?
+how would you feel if?
+how effective are?
+what are the consequenses of?
+what influence will have?
+what are the pros and cons of?
+what is the value ?
+what are the alternatives?
+who will gain and who will lose?
+Prepare a list of criteria to judge. 
+Conduct a debate about an issue of special interest.
+Make a booklet about five rules you see as important. 
+Convince others. 
+Form a panel to discuss views.
+Write a letter to. 
+advising on changes needed.
+Write a half-yearly report. 
+Prepare a case to present your view about.
+Is there a better solution to?
+Judge the value of.
+Can you defend your position about?
+Do you think  is a good or a bad thing?
+How would you have handled? 
+What changes to would you recommend?
+Do you believe? 
+Are you a person?
+How would you feel if? 
+How effective are? 
+What do you think about? 
+What number does stand for?
+What is the probability?
+What are the chances?
+What effect?
+How many different?
+What happens to when?
+What is the significance of?
+How many different combinations?
+Find the number of and in the figure below.
+Is there a better solution to? 
+Judge the value of. 
+Can you defend your position about? 
+Do you think  is a good or a bad thing? 
+What changes to  would you recommend? 
+Do you believe?  
+Prepare a list of criteria to judge a show. 
+Indicate priority and ratings. 
+Conduct a debate about an issue of special interest. 
+Make a booklet about 5 rules you see as important. 
+Form a panel to discuss views, e.g. "Learning at School." 
+Write a letter to advising changes needed at.
+Write a half yearly report. 
+Compare inheritance verses parameterized types.
+Memorize the useful techniques for implementing the abstract factory pattern. 
+What is sedimentation? What are the different aspects in this process?
+What are  the various sedimentation problems created in the environment.
+Suggest the best management practices of soil erosion and sedimentation.
+Write an account on the impact of disasters to life and environment.
+Discuss the role of technology in disaster management.
+Write the methods to predict natural disasters.
+Comment on the distribution of earthquakes across the globe.
+Explain how the magnitude of earthquake is determined. 
+Identify the earthquake hazards in india and explain.
+Write an account on the genetic disorders caused by radiation pollution.
+Explain briefly the pattern of global population growth in recent years which is causing alarm to environmental experts. 
+How does the community of a village play the most important role in times of disaster as first responder.
+Explain the equations for resistors in equivalent delta. If the resistors Ra, Rb and Rc are connected electrically in star?
+Explain the equations for resistors in equivalent star. If the resistors Ra, Rb and Rc are connected electrically in delta?
+Explain two capacitors are connected in series then Ceq=C1C2/C1+C2? 
+Explain derivation of star-delta conversion equations? 
+Explain derivation of delta-star conversion equations?
+Calculate i) Current in the coil ii) Potential difference across each element?
+Obtain the condition for maximum efficiency of a transformer? 
+Obtain the equivalent circuit of a single phase transformer? 
+Derive the torque equation of DC motor? 
+Enumerate advantages of GT.
+Enumerate the advantages of Computer Assisted Part Programming when compared to Manual Part Programming.
+Under what force, the big and end bolts and caps are designed?
+What is self locking property of threads and where it is necessary?
+Distinguish between macroscopic and microscopic point of view?
+Distinguish between different types of systems with examples.
+numerate the Perfect Gas Laws and analyze from thermodynamics point of view?
+Evaluate the performance of refrigeration cycle?
+Support diesel car have a better fuel efficiency than a gasoline car?
+Examine the performance of vapor compression cycle?
+Examine the performance of Bell-Coleman cycle?
+With the help of suitable diagram explain minimum and maximum metal shaft and hole.
+Explain the manufacturing process, calibration , and uses of slip gauges.
+Difference between comparator and a gauge.
+Evaluate the stresses in each element.
+Evaluate the integral I ( )dx dy in the limits of -1 to +1 using gauss quadrature numerical integration.
+Verify with exact solution.
+Evaluate the element stiffness matrix for the triangular element shown in fig.
+State Ohs law? 
+Derive the torque equation of DC motor?
+How  do  different  developmental  activities,  including  construction  of dams, affect the biodiversity and action need to be taken to conserve them. 
+What  are  environmental  hot  spots  of  your  city?  Explain  the  possible factors observed by you for degradation of quality of hot spot. Suggest suitable engineering measure to restore their quality. 
+Identify examples of habitat destructuction or degradation in your local community that had harmfull effects on the populations of various wild .
+Explain Ozone depletion and Ozone depleting substances (ODS).
+List  out  the  Sewage  treatment  plants,  effluent  treatment  plants  and.
+Compare weather strom drains and sanitary sewers combines or separate .
+Compare From available air quality data determine weather outdoor air .
+Explain Ozone depletion and Ozone depleting substances (ODS).
+List  out  the  Sewage  treatment  plants,  effluent  treatment  plants.
+Disscuss the major provisions in Forest Conservation Act 1980 .
+What are the major municipal solid waste management and handling rules.
+What are the biomedical wastes? 
+What are the rules to manage and handle ?
+What are the earth centric and human centric world views .
+Draw the circuit and determine the value of R.
+Determine the Multiplier resistance on the 50V range of a DC voltmeter.
+Calculate the % of error due to loading effect . 
+Calculate the values of the individual resistors.
+Determine the frequency of oscillations. 
+Find the frequency of oscillations. 
+Determine the dynamic range of a spectrum analyser with a .
+What is the minimum detectable signal of a spectrum analyzer.
+Determine the secondary emission ratio `S' of a digital storage .
+calculate the change in resistance. 
+Calculate the change in resistance R, of the strain-gage element due to the applied stress. 
+.Determine the Values of an unknown Lx in the fourth arm.
+Determine the current through the detector galvonometer.
+ Find the series equivalent of the unknown impedance? 
+  Identify a causal system.
+  What are the different methods of evaluating inverse Z-transform.
+  What is the difference between bilateral and unilateral Z-transform.
+  What is the Z-transform of the signal x(n)=Cos(won) u(n).
+  What is advantage of cascade realization?
+  Determine the impulse response and step response of the causal system given below and discuss on stability?
+ Test the following systems for linearity, time invariance, causality and stability. 
+ Define stable and unstable system test the condition for stability of the first- order system governed by the  equation y(n)=x(n)+bx(n-1). 
+  determine the system output y(n) if the input x(n) is given by  x(n) =   2 (n)-(n-1).  
+  Determine whether the following system is.
+ Justify your answer.
+  Determine the response of the system if input is  x(n)={1 2 31}.
+  Determine the stability of the system Y(n)-(5/2)y(n-1)+y(n-2)=x(n)-x(n-1).
+  Determine the transfer function and impulse response of the system .
+  Find the direct form I cascade and parallel form for  H(Z) = z -1 -1 / 1  0.5 z-1+0.06 z-2 .
+  Determine N=2048, the number of multiplications required using DFT is.
+  Determine N=2048, the number of multiplications required using FFT is.
+  Determine, the number of additions required using DFT is .
+  Determine N=2048, the number of additions required using FFT .
+  Explain the inverse FFT algorithm to compute inverse DFT of N=8 sequence.
+   Draw the flow graph for the same.
+   Find the 8-pont DFT of sequence x(n)={1  1 1 1  1 0 0 0} .
+   Compute the eight-point DFT of the sequence X(n)=     1  0n7       0 otherwise by using   DIF algorithms .
+   Compute 4-point DFT of a sequence x(n)={0  1 2 3} using DIT DIF algorithms.
+   Find the IDFT of sequence X(k)={1 1+j 2 1-2j 0 1+2j 0 1-j} using DIF algorithm .
+   Find the IDFT of sequence X(k)={8 1+j2 1-j 0 1 0 1+j  1-j2}.
+  Draw the signal flow graph for 16-point DFT using   a) DIT algorithm    b) DIF algorithm .
+  How can design digital filters from analog filters.
+  Write the various frequency transformations in analog domain? 
+   Write a note on pre warping.  
+   What are the specifications of a practical digital filter.
+   Design Butter worth filler using impulse invariant transformation. 
+   For the given specifications find the order of butter worth filter p=3dB, s=18dB, fp=1KHz, fs=2KHz. 
+   Obtain an analog cheby shev filter transfer function that satisfies the constraints 0H(j)1 for 02.  
+Determine the order and the poles of type 1 low pass cheby shev filter that has a 1 dB ripple in the passband and passband frequency p =1000 and a stopband of frequency of 2000 and an attenuation of 40dB or more.
+ Determine H(z) using bilinear method Assume T=1sec .
+  What was the value of T? is this value unique? 
+  If not, find another value of T consistent with the .
+  Under What conditions a finite duration sequence h(n) will yield constant group delay in its frequency response characteristics and not the phase delay?
+  Compare  Hamming  window  with Kaiser window. Evaluate 8 9 Draw impulse response of an ideal lowpass filter. 
+  What are the disadvantage of Fourier series method ?
+  Draw the frequency response of N point Hanning window.
+  What is the necessary and sufficient condition for linear phase characteristics in FIR filter.
+  Design a high pass filter using hamming window with a  cut-off  frequency of 1.2radians/second and N=9 .
+  Find the values of h(n) for N=11.Find H(z).plot magnitude response. 
+  Determine the filter coefficients for N=7.
+  Explain the principle and procedure for designing FIR filter using rectangular window .
+  Design an ideal Hilbert transformer having frequency response H (e j) = j   -    0 -j 0     for N=11 using rectangular window .
+  Find the spectrum of exponential signal interpolated by factor 2 .
+  What does multirate mean?
+  Why should I do multirate DSP? 
+  Which signals can be down sampled?
+  How do I implement decimation ?
+  Write expression for variance of round-off quantization noise. Evaluate 4 23 Define limit cycle Oscillations, and list out the types.
+   When zero limit cycle oscillation and Over flow limit cycle oscillation has occur? 
+   What are the differences between Fixed and Binary floating point number representation?  
+What is the error range for Truncation and round-off process? 
+What do you understand by input quantization error? 
+What is the relationship between truncation error e and the bits b for representing a decimal into binary? 
+What is meant rounding? 
+Discuss its effect on all types of number representation? 
+What is the effect of quantization on pole location? 
+Evaluate  What is meant by quantization step size?
+Find the normal and axial forces.
+Find the moment on.
+the airfoil at the leading edge of the airfoil.
+Derive the integral form of continuity equation.
+Derive Euler equation .
+Derive coefficient of force, Reynolds number and mach number using Buckingham pi theorem.
+Derive the stream function and potential functions for the combination of
+uniform, doublet and vortex flows.
+ Derive the stream function and potential functions for doublet flow.
+ Define and derive irrotational and incompressible flow condition.
+ Derive the expression for induced drag and minimum induced drag for elliptic platform.
+ Derive the streamfunction and velocity potential for source and sink pair.
+ Derive the streamfunction and velocity potential for source.
+  calculate the geometric angle of attack of the wing.
+   Calculate the induced drag for the airplane in the above problem.
+   Explain starting, bound and trailing vortices of wings and explain the formation of the.
+   Explain the concept of slip stream with only axial velocity and Explain in
+detail how to read propeller chart.'
+Explain in detail the actuator disk theory due to Rankine & Froude power
+& thrust.

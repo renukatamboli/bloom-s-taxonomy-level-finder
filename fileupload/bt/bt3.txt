@@ -1,0 +1,1769 @@
+What are the principles of material handling systems .
+Write a short note on jib crane.
+Write a short note on gantry crane. 
+What are the specification of fork lift truck.
+Limitations and applications of material handling.
+Explain how material handling is important for storage area.  
+Apply 14 Explain the advantages of belt conveyors.
+Explain the limitations of belt conveyors.
+Define and explain flow bins Apply. 
+Differentiate between mass flow bins and funnel flow bins. 
+Construct job sequences using the Critical ratio rule, and Slack Time Remaining rule and Compute the average flow time. 
+Use the Shortest Processing Time rule to sequence the five jobs Compute average flow  time and average tardiness per job using this sequenc.
+Construct job sequences using the Shortest Processing Time rule, Earliest DueDate rule and Compute the average flow time. 
+What is the theoretical number of workstations required to minimize the balance the delay?
+find the practical number of work centers using the Ranked positional method.
+Find the equivalent resistance for the following circuit? 
+Determine the current through 800 ohm resistor in the network shown in figure.
+Find the inductance value? 
+By using Thevinins theorem Determine the current through 5 ohm resistor? 
+Find current I  in the above circuit? 
+Find the power consumed by each resistor? 
+Find the current in each resistor ? 
+Calculate how to combine four 100 ohm resistors to obtain an equivalent resistance of a. 25 ohm, b. 60 ohm, c. 40 ohms? 
+Calculate the current I shown in figure using super position theorem? 
+Calculate the effective capacitance? 
+A piece of certain wire length of 40m length and 0.07cm in radius has a resistance of 15ohm, Calculate the specific resistance of the material? 
+If 3 inductors of values 4mH, 6mH, 8mH are connected in series,Calculate the effective inductance? 
+If 3 inductors of values 4mH, 6mH, 8mH are connected in parallel,Calculate the effective inductance? 
+What will be the power consumed by each bulb? 
+Will such a combination work? 
+Calculate i) Current in the coil ii) Potential difference across each element? 
+Solve the following parallel circuit and find out current in each branch and total current  as shown in figure.
+Calculate the RMS, and average values of an alternating quantity.
+Find form factor and peak factor? 
+Determine the average and effective values of saw-tooth waveform as shown in below figure.
+Find the value of x which will produce resonance? 
+Convert from rectangular to polar i) z=30+j60? 
+Convert from rectangular to polar i) z=45+j50? 
+Find the voltage across R, L, phase angle in series R-L circuit, with R = 100 ohms and L = 50mH and input voltage 10V, 100Hz?
+Find the voltage across R, C phase angle in series R-C circuit, with R = 100 ohms and C = 50F and input voltage 10V, 100Hz?
+Find the power, current in series R-C circuit, with R = 120 ohms and C =10F and input voltage 100V, 50Hz?
+Find the voltage across R, L, phase angle in series R-L circuit, with R = 100 ohms and L = 100mH and input voltage 10V, 100Hz?
+calculate (i) The capacitance required (ii) the power factor .
+Calculate the active and reactive powers and also the power factor? 
+calculate: i) The full load primary and secondary currents,ii) The no-load secondary induced emf ,iii) Maximum flux in the core.
+Determine the equivalent circuit referred to primary side? 
+find the following:    (a) Secondary volt ampere (b) Primary current    (c) Primary volt ampere. Neglect losses and magnetizing current.
+Calculate the value of Maximum flux density on core and the emf induced in the secondary?
+Find the number of turns in the low voltage winding. Open circuit and short circuit tests on a 5 KVA, 220/400V, 50 Hz, single phase transformer gave the following results:  Obtain the equivalent circuit? 
+Calculate suitable value of primary and secondary turns?
+Calculate (i) the maximum flux density in the core (ii) induced emf in the secondary winding. The net cross sectional area of the core can be taken 200cm2? 
+Determine The turns ratio.
+Calculate i) The number of primary and secondary turns.
+Determine the secondary current at which maximum efficiency will occur and the value of this maximum efficiency at a unity power factor load? 
+Calculate the number of turns of primary and secondary?
+Find the peak value of flux in the core and the secondary Voltage. 
+Calculate i) The net cross-sectional area of core for a maximum flux density of 1.5 T. 
+Calculate the e.m.f  by 4 pole wave wound generator having 65 slots with 12 conductors per slot when driven at 1200 rpm the flux per pole is 0.02 wb.
+Calculate the value of the shunt to be connected in parallel with the meter to enable it to be used as an ammeter for measuring currents up to 50 A.?
+Calculate the value of the multiplier to be connected in series with the instrument .so that it can be used as a voltmeter for measuring full scale deflection up to 100 V?
+Show the importance of 6/4 GHz system.
+Illustrate the advantages of digital satellite communication over its analog.
+calculate the semi-major axis. 
+Calculate slant range.
+Calculate the dimension of each side of a square aperture horn antenna having power gain 60? 
+Calculate the satellite required.
+Sketch the equivalent noise temperature of LNA assuming that the noise contribution.
+Calculate the number of channels?
+Calculate the approximate gain of the antennas. 
+Calculate the response time of a queue? 
+Caluculate the throughput of the channel?
+Caluculate what is the maximum value of N? 
+What type of target bearing is referenced to a war ship.
+What type of radar detects range, bearing, and height?
+List out some important applications of a radar system. 
+Draw the functional block diagram of simple pulse radar and explain the purpose and functioning of each block in it.
+List major applications of radar in civil and military systems.
+Write the applications of CW Radar. 
+Use the radar range equation to determine the required transmit power for the TRACS radar given.
+Derive condition of symmetry for Z parameters.
+Draw a circuit of a band stop filter and explain its working with neat reactance curves? 
+For band stop filter show that resonant frequency is the geometric mean of two cut-off frequencies? 
+What are disadvantages of proto type filters? 
+Explain in brief m-derived filter section overcome limitations of proto type filter section? Write notes on termination with m-derived half section?
+Categorize filters and explain.
+Describe a proto type t section band stop filter. 
+Determine the formula for designing band pass filter?
+Derive expression for symmetrical t-attenuator. 
+Derive the torque equation of DC motor.
+Explain the principle of operation of DC Motor. 
+Give the classification of DC Motor and explain .
+Give the significance of back emf in a DC motor.
+Explain about Swinburnes test of Dc shunt machine .
+Explain the speed control techniques of DC shunt motor Differentiate between self-excited and separately excited d.c. machines.
+Derive the EMF equation of a transformer.
+Find the values of i,di/dt,d2i/dt2 at t=0+,for elements .
+Find values of  i,di/dt,d2i/dt2.
+find an expression for the current in the inductor,i2(t). 
+Find out the Laplace transform of f(t)=e-at for t0.
+Find the Laplace transform of damped sine and cosine functions.
+Find the transient current, Voltage across the resistor. 
+obtain the expression for current for a series RLC circuit having R=20 Ohms=0.05 H and C=20F.
+Obtain the expression for the current for a series RL .
+Find the expression for the current in both the conditions .
+Find the z-parameters for the network shown in figure .
+Using definitions, find y-parameters of the two port network shown in figure. 
+Find the transmission parameters for the network shown in figure.
+Find the Hybrid parameters for the given network.
+Find Image parameters of the given network.
+find y-parameters of the two port network shown in figure.
+Find transmission parameters and then obtain image parameters for the given network.
+Compute the parameters if 2 Two-port networks are connected in series and parallel .
+Compute the parameters if 2 Two-port networks are connected in Cascade.
+Design a constant k low pass filter having a cut off frequency 0f 3000hz and nominal impedance of 600 ohms?  
+Design a constant k high pass filter with a cut-off frequency of 1khz and a nominal impedance of 500 ohms .
+Design a band pass filter having a design impedance of 400 ohms and cut off frequencies of 2khz and 8khz. 
+Design a band elimination filter having a design impedance of 500 ohms and cut off frequencies of f1=1khz and f2=6khz. 
+Design a low pass filter having cut-off frequencies 2khz to perate with a terminated with load resistance of 500 ohms .
+Design a high pass filter with a cut off frequency of 1 khz with a terminated impedance of 800 ohms .
+Calculate the e.m.f by 4 pole wave wound generator having 65 slots with 12 conductors per slot when driven at 1200 rpm the flux .
+A dynamo has a rated armature current at 250 amps what is the current per path of the armature if the armature winding is lap .
+calculate the number of conductors per slot. 
+calculate the flux per pole is required to generate an e.mf of 288 slots.
+determined the generated e.m.f and power developed?
+Calculate the total power developed by the armature when it is delivered full load o/p.
+Determine the generated e.m.f when machine is connected in long shunt .
+Calculate the terminal voltage when running at 900 rpm if the armature current is 50 amps.
+calculate i) iron losses and full load copper losses.
+Write about the leader ship styles.
+Give two examples of modern organization? 
+Discuss about the responsibilities of management?
+Give the structure of organization?
+Explain the concepts related to organization?
+Discuss about the centralization in an organization? 
+Write about autocratic leadership style.
+Discuss the different types of RAM used for embedded system design.
+Explain the different factors that needs to be consider in the selection of memory for embedded system? 
+Explain the on different onboard communication interface in brief? b. Explain the on different external communication interface in brief?
+Explain the sequence of operation for communicating with an I2C slave device? 
+Explain the RS 232 serial interface in detail?
+Draw the interfacing diagram for connecting an LED to the port pin of a microcontroller.
+Write a C program to interface 7 segment LED display to microcontroller 8051 .
+Explain the high level language based on embedded firmware development technique? 
+Explain about source file to object file translation in the assembly language based development? 
+Explain about mixing assembly with high level language (assembly language with C)? 
+Explain about mixing high level language with assembly (C with assembly language)? 
+Give the examples for situations demanding mixing of C with assembly? 
+Explain the techniques for mixing of C with assembly? 
+Give the examples for situations demanding mixing of assembly with C? 
+Explain the techniques for mixing assembly with C? 
+Explain how accurate time management is achieved in real time kernel?
+Explain the TASK and Process in the operating system context?
+Explain how Threads and process are related? 
+What are the common to process and threads? 
+Explain how multithreading can improve the performance of an application with an illustrative example?
+Explain the various factors to be considered for the selection of scheduling criteria.
+Explain Round Robin (RR) process scheduling with interrupts? 
+Apply 10 19 Explain starvation in the process scheduling context? 
+Explain how it can be effectively tackled?
+What is IDLEPROCESS? 
+What is the significance of it in the process scheduling context? 
+Discuss about the different methods of handling deadlocks.
+Discuss about the sleep and wakeup mechanism for mutual exclusion. 
+Explain the synchronous and asynchronous messaging mechanisms for IPC under windows kernel? 
+Explain the different functional and non-functional requirements that needs to be evaluated in the selection of RTOS .
+Illustrate different types of Price Elasticity of Demand.
+Write different types of Income Elasticity of Demand .
+Write different types of Cross Elasticity of Demand.
+Write any two  methods of Demand Forecasting.
+Define Production function. 
+How can a producer find it usefulness Illustrate.
+You are required to Determine .
+Illustrate perfect competition.
+Illustrate Price Discrimination.
+How to determine price under Perfect Competition? 
+Illustrate. 
+Write differences between Perfect competition and Monopoly.
+ Write differences between perfect and imperfect market. 
+Explain different types of Pricing.
+How to determine price- output in case of Monopolistic Competition? 
+Discuss.
+Define Joint Stock Company. 
+Illustrate the features, merits and demerits of Joint Stock Company. 
+Distinguish between public company and private company. 
+Write differences between perfect and imperfect market. 
+Explain different types of Pricing. 
+How to determine price- output in case of Monopolistic Competition?
+Illustrate the features, merits and demerits of Joint Stock Company.
+Sketch the significance of capital.
+Sketch working capital cycle. 
+Illustrate the advantages and Disadvantages of NPV Method.
+Define Capital Budgeting. 
+Illustrate the significance and limitations of Capital Budgeting. 
+Illustrate the limitations of Capital Budgeting. 
+Predict  Accounting Rate of Return on (i) Average Capital (ii) Original Capital Employed.
+Compute (i) IRR with the help of 31% and 32% D.f.
+Illustrate the meaning of ledger account. 
+Identify the formula for Operating ratio.
+Illustrate different types and principles of Accounts (Rules of Debit and Credit).State the advantages of the Journal.
+Illustrate the importance of the Ledger.
+Sketch different methods of preparing Trial Balance.
+Illustrate the significance of Profit & Loss Account.
+Write formulas for of Liquidity Ratios.
+State the formulas for Activity Ratios.
+Explain the formulas for Capital Structure Ratios.
+Write the formulas for Profitability Ratios.
+Prepare Trial Balance of Mr.Rajaram as on 31.12.2005 from the following balances.
+Prepare Trading, Profit &Loss A/c of Mr. Sukumar for the year ending 313-2007 and Balance Sheet as on that date from the following Trial Balance .
+Explain ideal voltage and current source?
+Discuss the applications of both series and parallel combination? Discuss resistor, capacitor, and inductor with relevant expression?
+Explain difference between series and parallel resistive circuit?
+Explain the equations for resistors in equivalent star. 
+If the resistors Ra, Rb and Rc are connected electrically in delta?
+Explain in detail the volt-ampere relationship of R, L and C elements with neat diagrams? 
+Explain about series and parallel networks of resistor?
+Explain about series and parallel networks of inductor?
+Explain classification of network elements? 
+Write differences between ideal and practical voltage sources? 
+Write differences between ideal and practical current sources?
+Write a notes on dependent sources?
+Write down KVL and KCL and explain? 
+Write the characteristics of series and parallel circuits?
+State advantages of alternating quantities?
+Explain significance of J factor? 
+Explain polar form and rectangular form? 
+Differentiate ac and dc quantities?
+Write about series RC circuit? 
+Explain the purpose of laminating the core in a transformer?
+Explain does transformer draw any current when secondary is open? Why?
+Explain mutual induction principle?
+Explain why the transformer measured in KVA? 
+Discuss what are the parts are in parts in transformer?
+Explain the equivalent circuit diagram of transformer?
+Define voltage regulation of a transformer? 
+Explain difference between core and shell type transformers?
+Explain core type transformers? 
+Explain shell type transformers?
+Explain iron losses of the transformers?
+Explain core losses of the transformers?
+Describe the construction details of transformer? 
+Explain the principle of operation of transformer?
+Explain the OC test of a single phase transformer?
+Explain the losses in a Transformer?
+Explain the SC test of a single phase transformer? 
+Explain the determination of deducing equivalent circuit parameters?
+Explain the ON load condition of a transformer? 
+Explain What are the differences between an Ideal transformer and Practical Transformer?
+Explain self induction and mutual induction in detail. 
+Also derive the  expression for dynamically induced emf.
+Explain in detail the difference between a core type and a shell type transformer.
+Write down the emf equation of a dc generator?
+Write down the torque equation of a D.C motor? 
+What is principle operation of 3-phase induction motor?
+Explain the slip-torque characteristics of 3-phase induction motor?
+State two types of induction motors?
+State Flemings right Hand Rule? 
+What is principle operation of dc generator?     
+State the function of commutator? 
+State the function of slots? 
+State the function of slip rings?
+Explain the classification of DC generator? 
+Explain the principle and construction of a 3 phase induction motor?
+Explain why does an induction motor never runs at Synchronous speed?
+Obtain the condition for maximum running torque of an induction motor?
+Explain the classification of DC Motor and explain? 
+Explain the significance of back emf in a DC motor? 
+Explain the load characteristics of shunt, series and compound generators?
+Explain  the reasons for the following.
+Explain How may the direction of rotation of dc shunt motor be reversed? 
+What is the effect of reversing the line terminals?  
+Explain:  Slip speed ,Slip ,Synchronous Speed and Torque.
+Explain Why an induction motor is called a rotating transformer?
+What are the types of measuring instruments? 
+Write short notes on moving iron instruments?
+Write short notes on moving iron instruments with attraction type?
+Write short notes on moving iron instruments with repulsion type?
+Write short notes on spring control mechanism? Write short notes on gravity control?
+What is mean by instrument? 
+Write different types of torques?
+Write short notes on controlling torque?
+What are Different types of instrument?
+Write short notes on moving coil instruments? 
+What are the differences between moving iron and coil instruments?
+Explain working principle of permanent magnet moving coil instrument? 
+Understand 4 2 Explain working principle of moving iron repulsion type instrument? 
+Understand 4 3 Explain working principle of moving iron attraction type instrument? 
+Understand 4 4 Explain working of different types of torques produced in indicating instruments?
+Explain  i)   Deflecting torque   ii)   Controlling torque   iii) Damping torque? 
+Understand 4 6 Mention advantages and disadvantages of MIinstruments? 
+Explain the essential requirements of instruments?
+Classify of electrical instruments?
+Discuss advantages and disadvantages of MI instruments?
+Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments?
+Explain With neat sketch, explain the process of eddy current damping.
+Explain Why is the scale of a MI instrument non uniform? 
+Discuss the classification of electrical instruments.
+Explain the significance of controlling torque and damping torque relevant to the operation of indicating instruments.
+Explain with neat sketch the construction and working of a MI ammeter and MC Ammeter.   
+Distinguish direct and retrograde orbits?
+Explain how a satellite is located with respect to earth?
+Discuss the advantages and disadvantages of satellite communications? 
+Explain What is meant by apogee and perigee heights?
+Explain the frequency allocation for satellite with respect to International Telecommunication Union (ITU)? 
+Classify two segments of basic satellite communication? 
+Explain a brief account of. 
+Discuss the elements of satellite communication systems?
+Explain each with a suitable block diagram?
+Explain the basic differences between an active and passive satellite. 
+Whether a passive satellite can be used for communication? 
+Explain the historical background on satellite communication? 
+Describe different frequency bands which are allocated for satellite communication and explain the uses of these frequencies? 
+Illustrate the effect of eclipse on orbital motion of satellite in brief.
+Describe in brief about Azimuth and Elevation angles in satellite communication? 
+Explain the coverage angle and slant range of satellite communication? 
+Discuss the orbital aspects, which are of importance in synchronous satellite communications. 
+Explain these aspects in brief? 
+Summarize the maximum and minimum range in kilometer.
+A satellite is in 322-km high circular orbit Estimate.  
+Explain how Keplers and Newtons laws are useful to describe the orbit. 
+Explain the interpretation of keplers laws.
+Explain different method for stabilizing a satellite? 
+Explain the meaning of term frequency reuse and payload of the satellite?
+Describe the spin stabilized satellites? 
+Discuss in detail the factors that affect the link design of a satellite.
+Discuss the affect of C/N and G/T ratios?
+Explain what is meant by noise factor for what source temperature is noise factor defined? 
+Explain the different types of noise to be considered in the design of satellite communication system.
+Explain the calculation of combined uplink and downlink C/N ratio?
+Discuss with a neat diagram the Anik-E C band transponder. 
+Explain the attitude control of a satellite with necessary diagrams.
+State how does the system noise.
+Discuss the attitude and orbit control subsystems? 
+Explain how they perform their functions?
+Discuss reliability and redundancy?  
+Explain satellite stabilization? 
+Discuss about near geostationary orbits.
+Explain the following: input back off, output back off, earth station HPA and combined uplink and downlink,C/N ratio.
+Explain Boltzmanns concept for performance of earth space links?
+Discuss the effects of propagation in atmosphere?
+Explain what is guard time? Mention its role in TDMA efficiency?
+Distinguish the drawback of SDMA/FDMA technique? 
+Explain the function of various controls in DAMA system?
+Classify the difference between the pre-assignment and demand assignment multiple access systems.
+Explain pre assigned and demand assigned TDMA systems.
+Explain the principle behind spectrum spreading.
+Explain the concept of Ionosphere Scintillation.
+Explain transionospheric propagation predictions and corrections.
+Describe attenuation?
+Discuss in detail about direct sequence spread spectrum.
+Explain What is intermodulation noise? 
+Explain What are the components of GIS?
+Explain the applications of satellite navigation system?
+Summarize the advantages and disadvantages of forward error correction.
+Differentiate How MATV differs from CATV system?
+Explain with a block diagram the working of receiver part of earth station?
+Explain the objectives, principles and applications of. 
+Discuss in detail about global positioning satellite system antenna can be optimized?
+Explain with the neat diagram the indoor and outdoor units of DBS home receiver and Discuss the satellite mobile services?
+Explain the power test methods. 
+Explain the concept of GPS receiver and GPS C/A code Accuracy?
+Explain all the types of INTELSAT satellite with respect to basic space.
+Discuss in detail about MPEG compression standards? 
+Discuss briefly on DAB system.
+Explain FDMA and TDMA concepts?
+Explain the algorithm used in satellite packet switching? 
+Explain packet reservation?
+Describe the probability of M/M/I queue.
+Explain the delay analysis of TDMA?
+Explain frequency division multiple access in FDMA?
+Differentiate pure ALOHA satellite packet switching with slotted ALOHA packet switching? 
+Discuss in brief the message transmission by FDMA by using MI G/I Queue? 
+Describe in detail about the message transmission by using TDMA ?
+Discuss in brief about packet reservation multiple access with the help of traffic load? 
+Discuss the Stability analysis for communication of voice terminals with packet reservation multiple access protocol?
+Discuss the preliminaries in packet communications?
+Estimate How many terrestrial channels can the satellite transponder accommodate? 
+Describe what is meant by Slant Range?
+Explain the importance of Radar Pulse in determining the minimum range of a radar set? Explain the relation between Pulse Repetition period .
+Describe the important function of the high voltage pulse from the modulator. 
+Explain the usage of a Duplexer in the Radar system. 
+Write simple Radar Equation.
+Describe the meaning of Antenna effective area. 
+Describe the relation between peak power of radar and the duty cycle of the pulses.
+Explain the difference between the simple radar equation and modified radar equation. 
+Explain what is meant by false alarm.
+Explain the difference between peak power and average power.
+Describe the Doppler effect? 
+Explain how the Doppler effect is used to determine velocity of targets in Radar systems? 
+What is Doppler frequency shift?
+Establish a relation between Doppler frequency shift and radial velocity of a moving target. 
+Why is amplitude comparison mono pulse more likely to be preferred over the phase comparison mono pulse and conical scan tracker over  sequential lobbing, or lobe switching, tracker? 
+How to select the difference between two transmitted signals of CW radar? 
+What are the effects which limit the amount of transmitter leakage power which can be tolerated at the receiver.
+What is a delay line canceller? 
+Compare and contrast the situations with a power amplifier and a power oscillator in the transmitter of an MTI system.
+Write the description of Range gate Doppler filters. 
+Describe the single lobe scanning?
+List out and describe the basic methods of scanning? 
+Define scan and its importance in a Radar system. 
+explain Split-range-gate tracking Limitation of automatic detection and tracking.
+Explain the Echo pulse with respect to Tracking in.
+Explain the Early-late range gates with respect to Tracking in range .
+Explain the ground clutter in radar systems.
+Explain the function of time domain filter with an example.
+Explain how a threshold level is selected in threshold detection?
+Describe the function of an Envelop detector  in Radar receivers .
+List out and explain the three fundamental quantities involved in radar displays?
+Explain a Radar Display system.
+What are the specific bands assigned by the ITU for the radar? 
+What the corresponding frequencies? 
+What are the different range frequencies that radar can operate and  give their applications? 
+What are the basic functions of radar? 
+In indicating the position of a target, what is the difference between azimuth and elevation?
+With the help of a suitable block diagram explain the operation of a pulse radar. 
+Explain how the Radar is used to measure the range of a target?
+Describe how threshold level for detection is decided in the presence of receiver noise for a specified probability of occurrence of false alarms?
+Describe the e effect of pulse repetition frequency on the estimated unambiguous range of radar.
+Describe the effect of (in terms of wavelength of operation) size of a .
+What are multiple-time-around echoes?
+Justify the requirement of integration of radar pulses to improve target detection process.
+List all the possible losses in a radar system and discuss the possible causes of each of them.
+With the help of a suitable block diagram, explain the operation of CW Doppler radar in a sideband super heterodyne receiver.
+Explain how isolation between transmitter and receiver of a radar system can be achieved if single antenna is used for transmission and reception. 
+Discuss the effect of receiver bandwidth on the efficiency of detection and performance of a CW Doppler radar. 
+With the help of a suitable block diagram, explain the operation of a CW  tracking illuminator application of a CW radar. 
+explain the operation of a CW radar with non- zero IF in the receiver. 
+explain the operation of a FM- CW altimeter. 
+Describe Range and Doppler measurement of a target using a FM-CW radar. 
+What are the various unwanted signals which cause errors in FM altimeter? 
+Explain Mono pulse tracking in two angle coordinates.
+Illustrate the concept of blind speeds based on the frequency response of a single delay line canceller.
+Describe automatic tracking of a target through range gating technique for unambiguous detection of a moving target. 
+Describe the method of staggering pulse repetition frequency to reduce the effect of blind speeds in an MTI system.
+Explain the following limitations of MTI radar.
+Explain the operation of MTI radar with 2 pulse repetition frequencies.
+Describe the phase comparison mono pulse tracking technique in a radar system with the help of necessary block diagram. 
+Describe the process of acquiring a moving target prior to tracking it along with the patterns used for acquisition. 
+Describe automatic tracking of a target through range gating technique.
+Describe sequential lobbing type of error signal generation to track a target automatically.     
+With diagrams explain Split-range-gate tracking.
+Explain the principle behind the operation of duplexers and receiver protectors.
+Explain how a circulator can be utilized for a radar receiver protection.
+Describe the principle behind the operation of a phased array antenna in a radar system.
+Describe any of two types duplexers used in radar receivers.
+What is the difference between matched filter and non-matched filter.
+Define noise figure and noise temperature of a receiver system.
+Explain about any two mixers.
+What is low noise front end? 
+What are its applications?
+Describe briefly various visual displays to view radar echo signals in radar systems.
+Describe the principle behind the operation of a phased array antenna in a radar system. 
+Explain its radiation pattern. 
+Briefly explain the concept of beam steering phased array antennas.
+Explain how beam width of a phased array antenna will vary with steering angle.
+Explain initial conditions of basic passive elements?
+What is the significance of initial conditions in a step response of r-l and r-?
+What is meant by step response of circuit? 
+What is meant by driven circuit and un-driven circuit?
+Define time constant?
+Define 1) Rise time 2) Peak time. 
+What is composite filter? 
+What is m-derived half section? 
+Does transformer draw any current when secondary is open? Why? 
+Derive condition of symmetry for transmission parameters.
+Derive condition of reciprocity for z parameters.
+Explain the principle of operation of DC generator.
+Explain the losses in a Transformer .
+Obtain the condition for maximum efficiency of a transformer .
+Explain the OC test of a single phase transformer.
+Obtain the equivalent circuit of a single phase transformer.
+Determine i, The turns ratio.
+Discuss the importance of management? 
+Write the advantages of departmentation?
+Explain about types of organization? 
+Discuss about the importance of approaches of management? 
+Explain about the concept of theory X?
+Explain about the lower  level of management? 
+Explain Hertzberg two factor theory of motivation- leadership styles social responsibilities of management?
+Distinguish between centralization and decentralization? 
+Discuss briefly about the systems approach to management? 
+Explain types and evaluation of mechanistic and organic structures of organization and suitability design? 
+Describe briefly about the different approaches carried in an organization with suitable examples? 
+Describe the components used as the core of an embedded system?
+Give the difference between microprocessor and microcontroller?
+What are the different types of relays are available?
+Define is PPI device?  
+Write the merits and limitations of the IEEE1394 interface over USB?
+Which are the components used as the core of an embedded systems? 
+Explain the merits and drawbacks? 
+What is the difference between microprocessor and microcontroller? 
+explain the role of micro processors and micro controllers in .
+What is programmable logic device? 
+What are different types of PLDs? Explain the role of PLDs in embedded system design? 
+What are the advantages of FLASH over other program storage memory in Embedded system design? 
+What are differences between general purpose processor and application specific instruction set processors with an example? 
+What is absolute object file? 
+Write the difference between compiler and cross compiler?
+Write short notes on Linker and Locater? 
+Discuss about the object to hex file converter?
+What is embedded firmware? 
+What are the different approaches available for embedded firmware development?  
+Write the advantages and drawbacks of assembly language based development? 
+Write the advantages and limitations of high language based development.
+Discuss about kernel space and user space? 
+Analyze how threads and process are related?
+Give the difference between threads and process in detail?
+What are the different functions handled by a general purpose kernel? 
+Explain the difference between memory management of general purpose kernel and real time kernel? 
+What is process control block (PCB)? 
+Explain the structure of the PCB? 
+What is task control block (TCB)? 
+Explain the structure of the TCB? 
+What all activities are involved in context switching? 
+Explain the different types of non-preemptive scheduling algorithms? 
+State the merits and demerits of each? 
+Explain the different types of preemptive scheduling algorithms? 
+Discuss about Coffman conditions?
+What is priority inversion? 
+What are the different techniques adopted for handling priority inversion? 
+What is mutual exclusion in the process synchronization context? 
+Explain the different mechanisms for mutual exclusion? 
+Explain the different types of semaphores. 
+Where it is used?
+Explain the semaphore based process synchronization under windows OS.
+Explain the event and event object based synchronization mechanism for IPC Windows OS.
+Explain Investment Decision.
+Write short note on perfectly Price Inelastic Demand.
+Discuss about the Giffens Paradox.
+Describe a short note on Relatively Price elastic Demand.
+Write short notes on Unit Price Elasticity of Demand Understand 2 14 Write short note on perfectly price elastic Demand.
+Write short note on cross elasticity of demand.
+State Negative Income Elasticity.
+State Unit Income Elasticity. 
+State Income Elasticity is greater than unity.  
+Discuss about Elastic Demand .
+Discuss about Inelastic Demand.   
+Briefly explain the exceptions of Law of Demand.  
+Describe the determinants of Law of Demand.
+Consider different methods of Cross Elasticity of Demand.
+Discuss the factors governing Demand Forecasting.
+State different types of Income Elasticity.
+State different types of Price Elasticity.
+State different types of Cross Elasticity.
+Discuss about Iso- Cost.
+Write short notes on Contribution. 
+Write short note on Profit and Volume Ratio.
+Write short note on Angle of  Incidence .
+Write the formula for Contribution. 
+Write the formula for Margin of Safety .
+Write the formula for P/V Ratio. Write the formula for Break-Even Point ( in value) .
+Write the formula for Break-Even Point ( in units) 
+Write the formula for Margin of Safety Ratio .
+Write the formula for estimated sales at a desired profit. 
+Describe different types of Internal Economies. 
+Discuss the significance of Break-Even Analysis. 
+Briefly Explain about the Cobb-Douglas Production Function. 
+Briefly Explain the classification of costs .
+Describe different types of External Economies.
+You are required to i) Compute the P/V Ratio, Break-Even Point.
+Explain about product differentiation.
+Describe the Block Pricing.
+What is promotional pricing?
+Discuss the Promotional Pricing .
+Discuss Marginal cost pricing.
+Explain the Group Equilibrium. 
+Discuss the features of Monopoly?
+Discuss price-output determination in case of Monopoly. 
+Define Sole Trading. 
+Describe the features, merits and demerits of Sole Trading? 
+Explain different types of Partners.
+Discuss the components of working capital.
+Explain Debt Factoring.
+Discuss the factors which are influenced on working capital requirement. 
+Describe the advantages and Disadvantages of Pay-back Period. 
+Prepare a statement of profitability showing the pay-back period from the following information.
+Using 10% as the cost of capital determine  (i) Pay-back Period .
+Compute (i) Fake Pay-back period and( ii)  IRR with the help of 25% and 26% D.f.
+Compute i) Pay- back period.
+Discuss the meaning of Journal Proper. 
+Explain the meaning of Double Entry System.
+Describe the Meaning of Errors of Omission .
+Explain the meaning of Contra Entry. 
+Explain the meaning of Capital Expenditure.
+Explain a short note on current ratio.
+Discuss the  Return on Capital Employed.
+Indicate the formula for debt collection period? 
+Describe two types of capital structure ratios. 
+Explain the meaning and computing procedure of Return on Capital Employed.
+What is the formula for Interest Coverage Ratio?
+List out different types of Accounting Concepts.
+List out different types of Accounting Conventions.
+Explain the importance of Trading Account.
+Discuss the importance of Balance Sheet.
+Discuss different types of Liquidity Ratios.
+Explain different types of Capital Structure Ratios. 
+Prepare Trial Balance as on 31.3.2002 under balances method from the following information .
+From the following Trial Balance and Adjustments, show Trading and Profit& Loss Account for the year ending 31-12-2003 and Balance Sheet as on that date in the books of Mr. Vijay.
+Differentiate between food chain and food web.
+Explain few important characteristics of a forest ecosystem.
+Define ecological pyramids.
+What are biogeochemical cycles? Explain nitrogen cycle with help of a diagram.
+Describe five ecosystems goods and services that human benefits from.
+Explain phosphate and sulphate cycles.
+Explain briefly about indicators of the quality of ecosystem.
+What is meant by biomagnifications? Explain.
+Explain how different development activities, including construction of dams, affect  the  various  ecosystems  and  what  action  need  to  be  taken to conserve them. 
+Explain  the  impacts  of  pesticide  and  other  agro  chemicals  on  any ecosystem you have visited.
+predict what would happen if.
+choose the best statements that apply.
+judge the effects of.
+what would result.
+tell what would happen if.
+tell how,when ,where,why.
+tell how change there would be if.
+identify the results of.
+write in your own words.
+how would you explain?
+write a brief outline.
+what do you think could have happened next?
+what do you think ?
+what was the main idea?
+clarify why?
+illustrate the.
+does everyone act in way that does?
+draw a story map.
+explain why a character acted in the way that he did.
+do you know of another instance where?
+can you group by charectrics such as?
+which factors would you change if?
+what questions would you ask of?
+from the information given,can ypou develop a set of instructions about?
+Construct a model to demonstrate how it works .
+Make a diorama to illustrate an event Make a scrapbook about the areas of study.
+Make a papier-mache map / clay model to include relevant information about an event.
+Take a collection of photographs to demonstrate a particular point.
+Make up a puzzle or a game about the topic.
+Write a textbook about this topic for others.
+Dress a doll in national costume. 
+Make a clay model.
+Paint a mural using the same materials.
+Design a marketing strategy for your product using a known strategy as a model.
+Do you know another instance where? Could this have happened in?
+Can you group by characteristics such as?
+What factors would you change if?
+Can you apply the method used to some experience of your own?
+What questions would you ask of?
+From the information given, can you develop a set of instructions about?
+Would this information be useful if you had.
+ Can you group by characteristics such as?
+ What factors would you change if?
+ Can you apply the method used to some experience of your own?
+ What questions would you ask of?
+ From the information given, can you develop a set of instructions about?
+ Would this information be useful if you had.
+ What was the total?
+What is the value of?
+How many would be needed for?
+Solve.
+Add.
+subtract.
+Find.
+Evaluate.
+Estimate.
+Graph.
+Do you know another instance where? 
+Could this have happened in? 
+Can you group by characteristics such as? 
+What factors would you change if? 
+Can you apply the method used to some experience of your own? 
+What questions would you ask of? 
+From the information given, can you develop a set of instructions about? 
+Would this information be useful if you had? 
+Construct a model to demonstrate how it will work. 
+Make a diorama to illustrate an important event.
+Make a scrapbook about the areas of study. 
+Make a paper-mache map to include relevant information about an event. 
+Take a collection of photographs to demonstrate a particular point. 
+Make up a puzzle game using the ideas from the study area. 
+Make a clay model of an item in the material. 
+Design a market strategy for your product using a known strategy as a model. 
+Paint a mural using the same materials. 
+Write a textbook about for others.
+Sketch the Aneka architecture.
+Draw  a neat diagram for Open Nebula high level architecture.
+Sketch a neat diagram for hosting of applications on servers. 
+Draw a flow chart of the SLA management in cloud.
+Draw a neat sketch of perception of quality.
+Draw a neat a of autonomic cloud bridging. 
+Draw a neat sketch for architectural overview.
+Draw a neat sketch for automated policy based management with brief explanation. 
+Draw a neat graph for hype cycle for emerging technologies.
+Sketch a  three cloud service models in a cloud landscape of major providers. 
+Sketch a neat diagram for a deployment scenario network with.
+Sketch a neat diagram for reservoir.
+Explain an ambiguous grammar with an example?
+When will you call a grammar as the left recursive one?
+Define syntax tree? 
+Draw the syntax tree for the assignment statement. 
+Explain the usage of syntax directed definition?
+Show the DAG for a: =b *-c + b * -c?
+Translate a or b and not c into three address code?
+Write in detail the issues in the design of code generator.
+Show the code sequence generated by the simple code generation Algorithm u := a  c  v := t + u d := v + u//d live at the end. 
+Mention the properties that a code generator should possess.
+Explain the various phases of a compiler in detail. 
+Also Write down the output for the following expression after each phase   a: =b*c-d. 
+For the following expression Position:=initial+ rate*60 Write down the output after each phase.
+Construct the predictive parser the following grammar: S->(L)|a L->L,S|S.                                                                  
+Construct the behavior of the parser on the sentence (a, a) using the grammar specified above. 
+Prepare the predictive parser for the following grammar: S->a|b|(T) T ->T, S|S. 
+Write down the necessary algorithms and define FIRST and FOLLOW. 
+Show the behavior of the parser in the sentences, i. 
+Consider the grammar E   E + E|E *E|(E)| id. 
+Show the sequence of moves made by the shift-reduce parser on the input id1+id2*id3 and determine whether the given string is accepted by the parser or not. 
+Analyze whether the following grammar is SLR(1) or not. 
+Explain your answer with reasons.
+Consider the grammar given below.
+Prepare LR parsing table for the above grammar.
+Give the moves of LR parser on id * id + id.
+Briefly explain error recovery in LR parsing.
+Explain with an example to generate the intermediate code for the flow of control statements?
+Explain 3addresscodes and mention its types. 
+How would you implement the three address statements? 
+Explain with suitable examples? 
+Explain how declaration is done in a procedure using syntax directed translation?
+Explain Intermediate code generation for Basic block, Control Flow and Boolean Expressions? 
+Write about Quadruple and Triple with its structure?
+Write the advantages and disadvantages of heap storage allocation strategies? 
+Generate target code for the given program segments
+Demonstrate the simple code generator with a suitable example?
+Explain the concept of object code forms? 
+Generate optimal machine code for the following C program
+Consider the following basic block of 3-address instructions:
+Write the next-use information for each line of the basic block?
+Write the output at all phases of the compiler for above C code.
+Explain with one example how LEX program perform lexical analysis for the following PASCAL patterns Identifiers, Comments, Numerical constants, Keywords, Arithmetic operators? 
+Check whether the following grammar is a LL(1)grammar S iEtS|iEtSeS|a E.
+define the FIRST and Followers.
+Consider the grammar below   E->E+E|E-E|E*E|E/E|a|b .
+Obtain left most and right most derivation for the string a+b*a+b.
+Test whether the following grammar is ambiguous or not.
+Convert the following grammar into LL(1)grammar.
+Write a recursive descent parser for the grammar.
+Explain the common conflicts that can be encountered in a shift- reduce parser?
+Explain briefly, precedence functions. 
+Construct the precedence graph using the following precedence tables.
+Analyze whether the following grammar is CLR(1) or not. 
+Write an S-attributed grammar to connect the following with prefix rotator.
+Construct triples of an expression: a *- (b + c). 
+Define self-organizing lists? 
+How can this be used to organize a symbol table? 
+Explain with an example?
+Justify your answer with respect to static allocation.
+Explain how loop invariant computation can be eliminated?
+Describe the procedure to compute in and out values using data flow equations for reaching definition in structured programs?
+Construct the DAG for the following basic block.
+print count end ii. 
+Propagate out copy statements wherever possible.
+Is loop jamming possible?
+Eliminate the induction variables wherever possible.
+Write an algorithm to eliminate induction variable?
+Explain how the following expression can be converting in a DAG. 
+Explain how the instruction forms effect the computation time?
+Explain how the nature of the object code is highly dependent on the machine and the operating system? 
+Explain why Next-use information is required for generating object code?
+Generate optimal machine code for the following wing c program.
+Illustrate in what way the MAC protocol of FDDI differs from that of token ring ?  
+Illustrate What is vulnerable period? How it affects the performance in MAC protocols?
+Illustrate shortest path? 
+Illustrate the routing strategies?
+Illustrate the use of MIME Extension?
+Illustrate some of the factors that determine whether a communication system is a LAN or WAN? 
+Illustrate data units at different layers of the TCP / IP protocol suite? 
+Distinguish between memory mapped I/O and I/O mapped I/O.
+Distinguish between a synchronous and an asynchronous data transfer mechanisms? 
+Distinguish between the write-through and write-back policies pointing out their merits and demerits?
+Classify the usage of SI and DI registers?
+Illustrate the function of the BHE and ALE signals in 8086.
+Classify the functions of bus interface unit (BIU) in 8086?
+Classify various operating modes does 8086 with examples?
+Differentiate the relation between 8086 processor frequency & crystal frequency?
+Distinguish between inter segment and intra segment jump instructions in 8086?
+Differentiate between near CALL and far CALL instructions?
+Explain about DOS function call?
+State the difference between machine language and assembly language?
+Differentiate   ENDS and ENDP directives?
+Explain the operation performed by the 8086 when it executes the XLAT instruction. What is the use of XLAT?
+Explain the function of the assembler directives BYTE PTR and WORD PTR. 
+Differentiate between RET and IRET instruction? 
+Illustrate one-address and zero-address instruction formats, With Examples?
+Explain difference between 8086 and 8088?
+Classify flag register in 8086 and explain flag instruction set?
+Distinguish between min mode and max mode of 8086?
+Differentiate between physical address, effective address and offset address?
+Describe and explain the minimum mode configuration of 8086 with read and write cycles of timing diagram? 
+Describe pin diagram of 8086 and explain each pin?
+Differentiate jump & loop instructions?
+Calculate how many one-address instructions can be formulated when A Computer has 32-bit instructions and 12-bit address with 250 two-address instructions? 
+Calculate the number of times control unit refer to memory when it fetches and executes an indirect addressing mode instruction if the instruction is a computational type requiring an operand from memory? 
+Calculate the address field of an indexed addressing mode instruction to make it the same as a register indirect mode instruction? 
+Determine the instruction format and the number of bits in each field if the instruction is in one memory word?
+Calculate the values of Status bits C (borrow) and Z? 
+Formulate a read and write timing diagrams using a READ strobe and a WRITE strobe, Include the address in the timing diagram.
+Calculate the minimum number of bits that a frame must have in the bit-oriented protocol?
+Calculate the number of characters per second can be transmitted over 1200baud line in each of the following modes?
+Calculate how much the CPU be slowed down because of the DMA transfer?
+Calculate the number of 2  4 decoders with enable line needed to construct a 16K  16 RAM 
+Calculate The amount of ROM needed to implement a 4 bit multiplier?
+Calculate the number of bits in the tag field of an address?
+Calculate The number of bits for the TAG field? 
+Calculate The main memory block numbered j must be mapped to any one of the cache lines from.
+Calculate The value of h1? 
+Calculate number of bits in the main memory address? 
+Calculate number of bits in the TAG, SET and WORD fields
+Calculate numbers of 128 x 8 RAM chips are needed to provide a memory capacity of 2048 bytes?
+Explain how will you calculate time Tb to access a block of data in serial access memory?
+Calculate the number of page faults using First In First out (FIFO) Page Replacement Algorithm for the following CPU References.
+Calculate the number of page faults using Least Recently used (LRU) Page Replacement Algorithm for the following CPU References.
+Describe program sequences that will perform the followingoperations ontwodigit packed BCD number.
+Describe a program to read ASCII code after a strobe signal is sent from a Keyboard? 
+Describe a program to add a profit factor to each element in a cost array and puts the result in a prices array? 
+If f(n)=5n2 + 6n + 4, then prove that f(n) is O(n2).
+Compute the average case time complexity of quick sort.
+Use step count method and analyze the time complexity when two nn matrices are added.
+Explain quick sort algorithm and simulate it for the following data 20, 35, 10, 16, 54, 21, 25. 
+Illustrate merge sort  algorithm and discuss time complexity.
+Sort the list of numbers using merge sort.
+Solve the following recurrence relation.
+Solve the recurrence relation. 
+Explain quick sort algorithm and simulate it for following data sequence:
+Sort the list of numbers using merge sort
+Apply merge sort on letters  H, K, P,C,S,K,R,A,B,
+Apply strassens matrix multiplication on following matrices.
+Write and solve recurrence relation for strassens matrix multiplication.
+Apply  DFS and BFS traversals of  following graph.
+Illustrate  DFS traversal of  following graph. 
+Apply  BFS traversal of  following graph.
+Solve  BFS traversal of  following graph.
+Illustrate  BFS and DFS traversals of  following graph. 
+Apply  DFS traversal of  following graph. 
+Distinguish  greedy method and dynamic programming.
+Explain in detail job sequencing with deadlines problem with an example.
+Discuss  single source shortest path problem with example.
+ Write an algorithm knapsack problem .Give example.
+ Explain the concept multistage graphs with example.
+ Write  an algorithm for optimal binary search tree.
+ Give example.
+ Compute the optimal solution for job sequencing with deadlines using greedy method.
+Compute the optimal solution for  knapsack problem using greedy method.
+Construct  minimum cost spanning tree using.
+Apply single source shortest path algorithm for the following graph. 
+Use optimal binary search tree algorithm and compute.
+Construct  optimal binary search for .
+Solve the solution for 0/1 knapsack problem using dynamic programming.
+Find the shortest tour of traveling sales person for the following cost matrix using dynamic  Programming.
+Calculate shortest distances using all pairs shortest path algorithm .
+Write control abstraction for backtracking.
+Write an algorithm for N-queens problem using backtracking.
+Explain subset-sum problem and discuss the possible solution strategies using backtracking. 
+Write an algorithm for Hamiltonian cycle with an example.
+Explain the properties of LC search.
+Explain the  principle of FIFO branch and bound. 
+Discuss  principle of LIFO branch and bound.
+Explain  the method of reduction to solve travelling sales person problem using branch and bound.
+Solve TSP using branch and bound method with example .
+Apply the backtracking algorithm to solve the following instance of the sum of subsets problem S={5,10,12,13,15,18} and  d=30. 
+Sketch  the state space tree generated all possible  3-color,4-node graph. 
+Solve the following instance of travelling sales person problem using Least Cost Branch Bound.
+Apply the backtracking algorithm to color the following graph.
+State and prove cooks theorem. 
+Explain deterministic and non-deterministic algorithms.
+Discuss about   non-deterministic knapsack algorithm. 
+Explain decision problem with an example.
+What is chromatic number decision problem and clique decision problem. 
+Explain the strategy to prove that a problem is NP-hard.
+Prove Hamiltonian cycle is in NP.
+Prove circuit-SAT is in NP.
+Compute the number of cuboids. 
+Draw a snowflake schema diagram for the data warehouse. 
+Starting with the base cuboid [student, course, semester, instructor], what specific  OLAP  operations.
+ how many cuboids will this cube contain(including the base and apex cuboids)?
+ Draw a star schema diagram for the data warehouse. 
+ Starting with the base cuboid [ date,spectator,location,game], what specific OLAP operations should one perform in order to list the  total charge paid by student spectators at GM_Place in 2004? 
+Taking this cube as an example,briefly discuss advantages and problems of using a bitmap index structure.
+Apply  the two methods below to normalize the following group of data
+Compute the following: (a) Mean of the data? Median? (b) mode of the data? 
+Comment on the datas modality( i.e.,bimodal,trimodal,etc.). 
+Compute the following: 
+Can you find (roughly) the first quartile  and the third quartile (Q3) of the data?
+Give the five-number summary of the data. 
+Show a boxplot of the data. 
+How is a quantile-quantile plot different from a quantile plot?
+Use smoothing by bin means to smooth the above data, using a bin depth of 3. 
+Illustrate your steps. 
+Comment on the effect of this technique for the given data .
+How might you determine outliers in the data? 
+What other methods are there for data smoothing?
+Write an example where data mining is crucial to the success of a business. 
+What data mining functions does this business need? 
+Can they be performed alternatively by data query processing or simple statistical analysis?
+Write two methods that can be used to detect outliers and discuss which one is more reliable.
+Apply the following rules on a  database has five transactions.
+Find all frequent itemsets using Apriori.
+List all of the strong association rules (with support s and confidence) matching the following metarule.
+Write a short example to show that items in a strong association rule may actually be  negatively correlated. 
+Construct an efficient algorithm to mine global association rules (without considering multilevel associations). 
+Illustrate how to efficiently mine the (global) association rules under the same minimum support threshold if a set of new transactions, denoted as DB, is  (incrementally) added in?
+Illustrate division operation?
+Demonstrate how to add a NOT NULL column to a table? 
+Illustrate functional dependency with example? 
+Illustrate fully functional dependency with example?
+Demonstrate transitive dependency? 
+Demonstrate the implementation of Isolation?
+Demonstrate Conflict Serializability?
+Compare and Contrast file Systems with database systems?
+Distinguish strong entity set with weak entity set? 
+Draw an ER diagram to illustrate weak entity set?
+Illustrate outer joins with example?
+Illustrate different set operations in Relational algebra with an example?
+Illustrate Group by and Having clauses with examples?
+Illustrate redundancy and the problems that it can cause?
+Compare and contrast BCNF with 3NF?
+Illustrate Multivalued dependencies and Fourth normal form with example?
+Illustrate Inclusion dependencies with example?
+Illustrate Concurrent execution of transaction with examples? 
+Write in detail about Remote Backup systems?
+Write in detail about Hash based Indexing and Tree based Indexing?
+Illustrate insertion and deletion of an element in B+ trees with example?
+Write in detail about Static Hashing?
+Compare and Contrast Extendible Hashing with Linear Hashing?
+Calculate the minimum number of tables required to represent this situation  in the relational model?
+Write the following queries in relational algebra.
+Find the names of employees who have borrowed a book Published by McGraw-Hill?
+Find the names of employees who have borrowed all books Published by        McGraw-Hill?  
+Find the names of employees who have borrowed more than five different books published by McGraw-Hill? 
+For each publisher, find the names of employees who have borrowed?
+For (Student Name, Student Age) to be the key for this instance, analyze and find value of X  not be equal to?
+Solve  which  query  cannot  be  expressed  using  the  basic  relational  algebra  Operations(U, -,x , ,p)?
+Write SQL Query to find second highest salary of Employee from Employee table?
+Write  the candidate keys of R? 
+ Apply the  appropriate normal form for Book and Cancellation?
+ Solve and find whether the decomposition of R into R1 (A, B) and R2(C, D) belongs to which one or both (dependency preserving and loss less join)?  
+ Show that: if    and    then   .
+ Solve and find any non-serial interleaving of T1 and T2 for concurrent execution leads to a serializable schedule or non serializable schedule.
+ Calculate the minimum number of keys in any non-root node?
+ In the index allocation scheme of blocks to a file, Calculate on what maximum possible size of the file depends?
+ Calculate the minimum space utilization for a B+ tree index?
+ Show the tree that would result from inserting a data entry with key 9 into this tree.
+ Show the B+ tree that would result from deleting the data entry with key 8 from the original tree, assuming that the left sibling is checked for possible redistribution.
+ Write the different sections of design patterns.
+ Write the meaning of a document.
+ Write the intentions of mediator pattern.
+ Write the intent of memento pattern.
+ Name the patterns along with their intents that are included in the catalog of design patterns.
+ Write about the two ways of grouping the patterns according to Christopher Alexander.
+ Write about (i) documentation and learning aid.
+ Solve the function of fig with AND-OR INVRET implementations?
+  Solve the following using NAND gates?
+  Sketch the following equation using k-map and realize it using NAND gate?
+  Solve Y=ABI+CD+(AIB+CIDI) using NAND gate?
+  Show both NAND and NOR gates are called Universal gates?
+  Sketch the following logic function using k-map and implement it using logic gates?
+  Apply various code conversion methods?
+  Design Full adder using a suitable Decoder?
+  Design octal to binary encoder?
+  Differentiate multiplexer and demultiplexer? 
+  Differentiate combinational and sequential logic circuits?
+  Illustrate applications of shift registers?
+  Differentiate the advantages and disadvantages of ripple counters?
+  Construct a latch using universal gates? 
+  Illustrate the features of a ROM cell?
+  Differentiate static and dynamic RAM?
+  Solve the subtraction with the following unsigned binary numbers by taking the 2's complement of the subtrahend.
+  Construct a table for 4 -3 -2 -1 weighted code and write 9154 using this code.
+  Write short notes on binary number systems.
+  Solve arithmetic operation indicated below. 
+ Explain the importance of gray code?
+Solve (3250 - 72532)10 using 10's complement?
+What is the gray code equivalent of the Hex Number 3A7?
+ Find the biquinary number code for the decimal numbers from 0 to 9.
+  Find 9's complement (25.639)10 .
+   Find (72532 - 03250) using 9's complement. 
+   Show the weights of three different 4 bit self complementing codes whose only negative weight is - 4 and write down number system from 0 to 9. 
+   Find out the amount each one of them will get in their  respective currencies: A from planet VENUS possessing 8 fingers B from planet MARS possessing 6 fingers C from planet JUPITER possessing 14 fingers D from planet MOON possessing 16 fingers.
+   Simplify to a sum of 3 terms.
+    Given AB' + AB = C, Show that AC' + A'C = B .
+     Solve (a) Divide 01100100 by 00011001.
+   determine `b' .
+   Apply the representation of +65 and -65 in sign magnitude, Sign 1s complement and sign 2s complement representation?
+   Solve addition and subtraction of (456)8 and (341)8?
+   Illustrate the rules for XS3 addition and subtraction?
+   Illustrate IEEE standard floating formats for 32-bit and 64 bit with following examples.
+  Illustrate the minimum expression for all the outputs? 
+ Construct the logic diagram of a full subtractor using only 2-input NAND gates?
+ Construct the logic diagram of a full subtractor using only 2-input NOR gates?
+ Use a multiplexer having three data select inputs to solve  the logic for the function  F =  (0, 1, 2, 3, 4, 10, 11, 14, 15).
+ Construct a 4 to 16 line decoder using 2 to 4 line decoders? 
+ Design a 4-bit Combinational circuit which generates the output as 2s complement of input binary number. 
+ Show that the circuit can be constructed with EX-OR gates? 
+ Construct half subtractor using NAND gates? 
+ Construct and explain the working of decimal adder?
+ Construct 16:1 multiplexer using 8:1 and 2:1 multiplexer?
+ Construct a full adder using a suitable multiplexer?
+ Illustrate pulse mode asynchronous circuit?
+ Construct the transition table for the following flip-flops i)  SR FF  ii) D FF.
+ Differentiate critical and non critical race conditions? 
+ Construct a logic diagram of memory cell?
+ Constuct the signals of a 32*8 RAM with control input. 
+ Show the external connections necessary to have a 128*8 RAM using decoder and replication of this RAM? 
+ Construct the block diagram of PLA. Which are the teams programmable? 
+ How inverter is useful in PLA construction at the output?
+ Sketch the PLA program table for the four Boolean functions. 
+ Minimize the number of product terms?
+ Sketch a PLA circuit to implement the logic functions.
+ Illustrate why is (0.5252)octal twice of (0.2525)octal when (0.5050)d is twice of (0.2525)d.
+ Use De-morgan theorem to simplify F=A+B+C.D.E.
+ Solve the function using multiplexer F(x,y,z)=(0,2,6,7).
+ Solve the following Boolean functions using decoder and OR gates.
+ Solve the following Boolean function using 4:1 mux .
+ Explain the output frequency of T filp-flop if the input clock frequency is 10khz? 
+ Give its timing waveform?
+ Derive the state table for circuit .
+Draw two state diagrams: One for x=0 and for x=1.
+Solve the following two Boolean functions using a PLA having 3-inputs,4 product terms and 2 outputs?
+Solve 2048*8 memories using 256*8 memory chip .
+Also show the memory address associated with each memory chip? 
+Calculate the utilization factor of tape, if the gap length is 0.5 in, the storage density S=3000 bytes/in and data storage capacity is 6 k bytes?
+Solve the following multi boolean function using 3*4*2 PLA PLD.
+Calculate the average access time of memory for a computer with cache access time of 100ns,a main memory access of 1000ns and a hit ratio is 0.9? 
+Illustrate the causes and distribution of volcanoes.
+Demonstrate the hazardous effects of volcanic erruptions.
+Enumerate the properties of soil.
+Write a brief note on the emergency stage of a disaster.
+What is cyclone? How can people be warned of it beforehand? 
+Give an example from a real incident when warning against a cyclone helped the people.
+Write in brief on the post-disaster stage.
+Write a note on disaster management.
+Write a brief note on psychological and social dimensions of disaster.
+Write a note on Bhopal on gas tragedy.
+Write a short note on pesticide pollution.
+Define urbanization. Give the reasons for large scale migration to urban areas and the consequences of rapid urbanization. 
+How do engineered structures help us to withstand like floods, earthquakes, and cyclones?
+Elaborate on the various organizations which are involved in the research and mitigation of disasters. 
+Enlist the various institutions and national centres involved in natural disaster reduction. 
+Describe the typical characteristics of an embedded system?
+Write the advantages of embedded system?
+Classify functional requirements of embedded system?
+Give two essential units of a processor on an embedded system?
+Analyze the execution unit of a processor in an embedded system do?
+Give the classification of embedded system.
+Give the reactivity in embedded system.
+Give examples for small scale embedded systems. 
+Give examples for medium scale embedded systems.
+Give examples for sophisticated embedded systems.
+Give the size of program memory and data memory in 8051.
+Give the summary of I/O devices used in embedded system.
+Give examples for serial input I/O devices.
+Analyze the steps for accomplishing input output data transfer.
+Give different family series of 8051 microcontroller.
+Sketch the block diagram of microprocessor.
+Give the data types available in C language? 
+Give the data structures available in C language. 
+Classify the different types of addressing modes in 8051.
+Give  example of BCD multi  byte arithmetic.
+Classify  various formations in JUMP instructions.
+Estimate the  basic need of calls.
+Design  the seven segment LED displays and circuit.
+Classify various  modes  in serial communication.
+Construct  the pin out of DAC.
+Classify the various shared data operating system services?
+Discriminate pre-emptive and non-pre-emptive scheduling?
+Classify various scheduling criteria for CPU scheduling?
+Estimate the conditions under which a deadlock situation may arise?
+Name any two important RTOS. 
+Name any two queue related functions for the inter task communications.
+Name any two mailbox related functions.
+Classify task states in MICRO C/OS-II?
+Classify the  types of IPC mechanism.
+Sketch the block diagram of CAN.
+Classify  the ARM development tools.
+Develop and explain about digital camera.
+Sketch  the pin configuration of 8051 explain it.
+Classify the different types of interrupts and explain.
+Design a generic R-2R type D/A converter circuit. 
+Classify the modes used in serial shift register? 
+Expalin any one.
+List and explain the various task service functions in VxWorks/MUCOS-II. 
+Design and explain basic system of an Automatic chocolate vending system.
+Classify the features of  SHARC.
+Discuss CPSR format.
+Discuss Application Specific System processors (ASSPs) used in an embedded system? 
+Sketch the signal that reads external ROM.
+Operate  all the data from RAM memory locations A0h to A3h.
+Analyze decode this message in ASCII: 20h 48h 65h 6ch 5fh 20h.
+ Summarize and synthesis the features of RTOS while buying.
+ Design and discuss priority inversion.
+ Analyze and design data in an RTOS based real time system.
+ Criticize return type   ISR?
+ Analyze and design application for Adaptive Cruise Control System in Car in detail.  
+ Develop and design a application for sending Application Layer Byte Stream on a TCP/IP Network in detail. (Write with design and code.)
+ Develop and explain  about Elevator system.
+ Categories Multi-processing  Program  Model in MIMD.
+ Analyze basic bit encoding in CAN.
+ Construct a DFA to accept even number of 0s.
+ Construct a DFA to accept empty language.
+ Write transition diagram for DFA accepting string ending with 00.
+ Write transition diagram for DFA to accept exactly one a.
+ Write the applications of pumping lemma for regular languages.
+ Write through an intermediate state whose number is not greater than K-1.
+ Write regular expression for denoting language containing empty string.
+ Find the equivalent resistance for the following circuit?
+If current flowing through a coil changes at the rate of 2amps/sec and the voltage induced is 20v. Find the inductance value?
+By using Thevinins theorem Determine the current through 5 ohm resistor?
+Find current I in the above circuit?
+Find the power consumed by each resistor?
+Find the current in each resistor ?
+Calculate how to combine four 100 ohm resistors to obtain an equivalent resistance of a. 25 ohm, b. 60 ohm, c. 40 ohms?
+Calculate the current I shown in figure using super position theorem?
+If 3 capacitors of values 2mF, 4mF, 5mF are connected in parallel. Calculate the effective capacitance?
+11 A piece of certain wire length of 40m length and 0.07cm in radius has a resistance of 15ohm, Calculate the specific resistance of the material?
+If 3 capacitors of values 4mF, 6mF, 8mF are connected in series, Calculate the effective capacitance?
+If 3 inductors of values 4mH, 6mH, 8mH are connected in series, Calculate the effective inductance?
+If 3 inductors of values 4mH, 6mH, 8mH are connected in parallel, Calculate the effective inductance?
+Will such a combination work?
+Solve the following parallel circuit and find out current in each branch and total current as shown in figure.
+Calculate the RMS, and average values of an alternating quantity given by  =20 cos (314t)?
+Find form facto and peak factor?
+Find the value of x which will produce resonance?
+Convert from rectangular to polar i) z=30+j60?
+Convert from rectangular to polar i) z=45+j50?
+A metal filament lamp rated 750w, 110v is to be connected in series with a capacitor across a 220v, 50HZ SUPPLY,calculate.
+Calculate the active and reactive powers and also the power factor?
+calculate: i) The full load primary and secondary currents. ii) The no-load secondary induced emf. iii) Maximum flux in the core.
+Determine the equivalent circuit referred to primary side?
+find the following:
+Obtain the equivalent circuit?
+Calculate (i) the maximum flux density in the core (ii) induced emf in the secondary winding. 
+Determine i. The turns ratio ii. The number of turns in each winding. 
+Determine the secondary current at which maximum efficiency will occur and the value of this maximum efficiency at a unity power factor load?
+determine primary and secondary turns and area of the core.
+Find the peak value of flux in the core and the secondary Voltage.
+Calculate i) The net cross-sectional area of core for a maximum flux density of 1.5 T.
+Calculate the e.m.f by 4 pole wave wound generator having 65 slots withconductors per slot when driven at 1200 rpm the flux per pole is 0.02 wb?
+what is the current per path of the armature if the armature winding is lap or wave wound? 
+Calculate i) The speed at which the generator must be run to generate 300v. ii) What would be the speed if the generated were wave wound?
+Determinei. armature current ii. field current iii. Back emf developed at full load?
+Determine i) Synchronous speed ii) Slip speed per unit slip iii) Percentage slip?
+Calculate the value of torque established by the armature of a 4pole motor.
+Calculate the induced EMF?
+Calculate the induced EMF for a 6 pole DC Shunt generator having an armature and field Resistances of 0.25  and 50  respectively delivers a
+Find the armature Current, the induced emf and flux per pole?
+Calculatei) Percentage slip ii) The frequency of the induced current in the rotor?
+Calculate the induced emf and the load resistance.
+calculate the power absorbed by the load.
+Determine the induced emf in the armature if it is rotating at a speed of 700rpm.
+Find induced emf.
+Calculatei. Torque developed by the armatureii. Shaft torqueiii. Shaft power in KW.
+Calculate the value of the shunt to be connected in parallel with the meter to enable it to be used as an ammeter formeasuring currents up to 50 A.?
+Calculate the value of the multiplier to be connected in series with the instrument so that it can be used as a voltmeter for measuring full scale deflection up to 100 V?
+calculate the approximate value of series resistance needed to enable the instrument to measure up to (a) 20 V.
+Determine the value of shunt resistance required in order that full scale deflection should be (a) 15 mA ?
+Calculate the value of the multiplier to be connected inseries with the instrument so that it can be used as a voltmeter for measuringfull. 
+Scale.
+Calculate the values of resistance required to enable the instrument to be used (a) as a 010 A ammeter and (b) as a 0100 V voltmeter. State the mode of resistance connection in each case?
+Determine the number of turns required to produce an angular deflection of 90degrees when a current of 5mA is flowing through the coil?
+Determine the number of turns required to produce an angular deflection of 90degrees when a current of 3mA is flowing through the coil?
+Calculate the values of resistance required to enable the instrument to be used (a) as a 0100 V voltmeter. 
+State the mode ofresistance connection in each case?
+calculate the approximate value of series resistance needed to enable the instrument to measure up to (a)100V.
+calculate the approximate value of series resistance needed to enable the instrument to measure up to (a)200V.
+Determine the value of shunt resistance required in order that full scale deflection should be (a) 20?
+Determine the value of shunt resistance required in order that full scale deflection should be (a) 100 A?
+Determine the number of turns required to produce an angular deflection of 95degrees when a current of 4mA is flowing through the coil?
+Calculate the value of the shunt to be connected in parallel with the meter to enable it to be used as an ammeter for measuring currents up to 60 A.?
+In what ways CAD can help manufacturing activity? 
+How do you specify a plotter for graphics applying?
+In design, what do you understand by synthesis andengineering analysis.
+Briefly explain the conventional process of the product cyclein the conventional manufacturing environment.
+What do you understand by the CPU & ALU?
+Bring out clearly the difficulties a design engineer has toface at each of the design stages if they are carried outmanually.
+Explain about the types of production.
+Elaborate on the basic requirements that a C.A.D. softwarehas to satisfy.
+Write short notes on the following.
+With the help of a block diagram, explain the computeraided design process.
+What is a digitizer? Explain how it can be used fortransferring paper drawing to CAD system.
+What is engineering analysis? Explain with the example agear and the shaft assembly.
+Determine the necessary transformation matrix for the operation and the new coordinates of the end points.
+What is the need for concatenation of transformations?
+Explain what care should be taken in such cases.
+Explainatleast two display devices in detail.
+What is display file? Explain the stricture of display file?
+What is a projection? Explain different types of projections?
+Write down the different techniques for the hidden surfaceremoval.
+What is the need of the concatenation of transformations?Explain what care should be taken is such cases.
+How do you obtain the orthographic projection of geometric data base?
+Find the equations of the resulting Bezier curve .
+Also find points on the curve for u=0,0.25,0.5,1 respectively.
+Find all the layer-related commands on your system, specifically how to select/deselect layers, assign entities to layers, assign layers to entities, assign colours to layers, modify layer colours and modify layers of existing entities.
+Draw the Manual Part Programming sheet and explain how the entries are made in the sheet with the help of an example.
+With the help of schematic diagram explain the operation of scanning laser beam system. Explain its Applying in CAQC systems.
+Determine the following .
+determine the maximum safe speed.
+find the safe load on the bearing.
+find the amount of artificial cooling required.
+Find the diametral clearance.
+Design a suitable journal bearing for a centrifugal pump from the following available data.
+Calculate the cooling requirements. If any?
+Select a single row deep groove ball bearing for a radial load of 4000 N and an axial load of 5000 N. 
+Find the basic dynamic load rating of the bearing from manufactures catalogue, specified at 90% reliability.
+Design a self-aligning ball bearings for a radial load of 7000 N and a thrust load of 2100 N. 
+Calculate the dynamic load capacity of the bearing.
+Find the power wasted in friction.
+Find, (1)The amount of artificial cooling required. (2)The mass of lubricating oilrequired, if the difference between the outlet and inlet temperature of the oilis 10C. Take specific heat of oil as 1850J/Kg/0C.
+Design a journal bearing for a centrifugal pump from the following data. 
+Calculate also mass of the lubricating oil required for artificial cooling. 
+Design a journal bearing for a centrifugal pump with the following data. 
+What is the viscosity of the oil at the operating temperature?
+Determine mean viscosity of lubricating oil in the film if the minimum film thickness under operating conditions is 0.0125mm.
+Determine the length of the bearing and amount of heat to be removed by the lubricant per minute. 
+Design a journal bearing for a centrifugal pump with the following data.
+Find,(1)The amount of artificial cooling required.
+Design a journal bearing to withstand a load of 5886 N. Speed of the journal is 11 rpm. 
+Calculate:i)Dimensions of the bearing.
+Determine the maximum speed of the journal using McKees equation.
+Calculate power loss due to friction.
+Calculate.i) The permissible minimum film thickness.
+Give a systematic design of the bearing.
+Design a plain carbon steel centre crankshaft for a single acting four stroke single cylinder engine for the following data. 
+Design a connecting rod for an I.C. engine running at 1800 r.p.m and developing a maximum pressure of 3.15 N/mm2. 
+Design a cast iron piston for a single acting four stroke engine for the following data. 
+Design a side or overhung crankshaft for a 250x300mm gas engine. 
+Determine1.Cross section of I-section connecting rod assuming standardproportions.
+Design a centre crank shaft when the crank is at the dead centre for a single acting four stroke single cylinder engine for the following given data.
+Design of the crank pin.
+Design of the left hand crank web.
+Design high speed petrol engine connecting rod, given.
+Determine:a.Dimensions of the crank pin & piston pin.
+Design a piston for a four stroke diesel engine consuming 0.3kg of fuel per kW of power per hour and produces a brake mean effective pressure of the 0.7N/mm2. 
+Design a side or overhung crankshaft for a 500x600mm gas engine. 
+Design a plain carbon steel centre crankshaft for a single acting four stroke single cylinder engine for the following data: Bore = 250 mm. 
+Design a cast iron piston for a single acting four stroke engine for the following data.
+Design a cast iron piston for a single acting four stroke engine for the following data.  
+Design a connecting rod with following particulars refer to a 4 stroke diesel engine given.
+Determine the dimensions of I-Section connecting rod diesel engine with the given particulars.
+Determine the whipping stress.
+Design a trunk piston for an IC engine. The piston is made of cast iron with an allowable stress of 38.5 MPa. 
+Explain the considerations given in the design of pistons for IC engines.
+Design a side or overhung crankshaft for a 500x600mm gas engine.
+Calculate the maximum power that can be transmitted.
+Design a belt pulley for transmitting 10kW at 180 rpm. 
+Determine all the principle dimensions of the pulley.
+Select the chain.
+Determine the chain required using at least 15 teeth in sprockets.
+Determine the sprocket pitch diameters.
+Determine the shortest advisable centre distance.
+Determine the number of links of chain required.
+Determine:a.Diameter of the pulley.
+Determine:a.The number of ropes required.
+Design a belt drive pulley for transmitting 10kW at 180 rpm. 
+Determine:a.Width of the pulley.
+Design a roller chain to transmit power from a 20kW motor to a reciprocating pump.
+Find 1.Number of teeth on each sprocket; 2. Pitch and width of the chain.
+Find minimum number of belts and pulley diameter. 
+Design a belt drive pulley for transmitting 20kW at 150 rpm. 
+Design a roller chain to transmit power from a 25kW motor to a reciprocating pump. 
+Find Number of teeth on each sprocket; Pitch and width of the chain.
+Design a belt pulley for transmitting 15kW at 150 rpm.
+Calculate:i) Diameter of the pulleys.
+Calculate the belt length and the angles of wrap .
+Compute the belt tensions based on a coefficient of friction 0.38.
+Design a belt pulley for transmitting 12kW at 170 rpm. 
+Determine:a. Diameter of the pulley.
+Find minimum number of belts and pulley diameter.
+Design the chain drive by calculating leading dimensions, number of teeth on the sprocket and specify the breaking strength of the chain.
+Design a belt pulley for transmitting 18kW at 190 rpm. 
+Findi.The nearest standard module if no interference is to occur.
+What should be module. Face width and number of teeth on each pair of spur gears. 
+Design a pair of spur gears to transmit 18 KW at 3000 rpm of pinion.  
+Design should be as compact as possible.
+Determine a suitable module and face width from static strength considerations.
+Find the module and number of teeth on each gear from the stand point of strength.
+Determine components of resultant force on the gear teeth. 
+Sketch the free body diagram of the forces acting on mating gear teeth.
+Determine module of the gear from strength point of view. 
+Check design for wear.
+Find module of gear teeth.
+Calculatei.Tangential force acting on the worm.
+Find power transmission capacity of 20:1 worm gear reduction unit that has quadruple to threaded worm and centre distance of 350mm. 
+What should be module, Face width and number of teeth on each pair of spur gears? 
+Design a pair of spur gears to transmit 20 KW at 2800 rpm of pinion. 
+ Design should be as compact as possible.
+Find power transmission capacity of 15:1 worm gear reduction unit that has quadruple to threaded worm and centre distance of 250mm. 
+Design a pair of spur gears to transmit 20 kW of power at a pinion speed of rpm. 
+Determine the module, face width, and pitch circle diameter of the gears based on a service factor is 1.25.
+Design the gear drive and give estimated power input ratings from the stand point of strength, endurance and heat dissipation. 
+Determine the module, number of teeth on the gears and face-width from the stand point of strength, dynamic load and wear.
+Determine module and face width for strength requirements.
+calculate i) Helix angle ii) Normal pitch iii) Transverse pitch iv) Number of teeth for each gear v) Addendum vi) Dedandum vii) Whole depth viii) Clearance ix) Tooth thickness x) Working depth xi) Outside diameters xii) Centre distance xiii) Root circle diameters xiv) Base circle diameters.
+find the following: i) Outside diameter of gears ii) Resultant tooth load tangent to pitch cone, iii) Radial load on the pinion iv) Thrust on the pinion. 
+Determine the induced stress in the weaker gear. Also determine the dynamic load and wear load. Comment on the results.
+Determine the components of the resultant gear tooth force and draw a free body diagram of the forces acting on the pinion and the gear, assuming face width of 40 mm.
+Determine (i) the number of teeth on the worm gear, (ii) The lead angle (iii) face width of the worm gear based on the beam strength of the worm gear.
+Find suitable diameter of the hand wheel.
+Determine i.
+Find i. 
+determine torque required to raise and lower the load and efficiency of screw jack.
+Determine torque required to rotate the screw and stress induced in the screw?
+Determine (i) the power required to drive the screw and (ii) the efficiency of the lead screw. Assume a coefficient of friction of 0.15 for the screw and 0.12 for the collar.
+Find the work done in lifting the load and the efficiency of the screw, when.
+Find the force required at the end of a lever which is 400mm long in order to lift and lower the load. 
+Estimate power of the motor.
+determine the power required to rotate the operating nut when the cutting speed is 6m/min. Also find the efficiency of the screw.
+Determine (i) the power required to drive the screw and (ii) the efficiency of the lead screw. 
+Findi.The torque required to rotate the screw.
+Find the force required at the end of a lever which is 450mm long in order to lift and lower the load. The coefficient of friction for the vertical screw and nut is 0.15 and that for collar bearing is 0.20.
+Determine the angle of heel required if the motor cycle negotiates a curve of radius 100 meters at a speed of 108 km/hr.
+Find the gyroscopic couple on the air craft and stateits effect on the aero-plane.
+Determinethe motion of the disc if its arm remains horizontal.
+Determine the torque required to overcome the inertia forces,neglecting the gravitational effects. 
+Calculate the shaft torque on link2 for static equilibrium of the mechanism along with the constraint forces.
+Determine the net thrust onthe piston.
+determine the requiredinput torque for a force of 5000N acting from left to right onthe slide.
+find the force required at the end of the spanner 0.5 mlong when the load on the bolt is 10k.
+Find the weight of the body and thecoefficient of friction.
+Find the work done in lifting the load and  of thescrew jack when.
+Determine the axial force required to engage a cone clutchtransmitting 20kW of power at 750 rpm. 
+find the width of the friction cone.
+find the operating forcewhen the drum rotates in.
+find the power transmitted when a mass of 20kgis required on the pan including its own mass.
+Find the power of the engine?
+determinei)Power required driving the motor.
+Determine the power developed,the total percentage fluctuation of speed and maximumangular retardation.
+Derive the equation for determining the mass of the flywheelrim involving the linear velocity, density and stress.
+Determine suitable diameter and cross section of theflywheel rim for a limiting value of safe centrifugal stress of7 Mega Pascal. 
+Determine a suitable diameter ofcross section of the flywheel rim for limiting value of theshaft centrifugal stress of 280 X 103 N/ m2. 
+Determine the maximum and minimumspeeds and the range of speed of the governor.
+find i) the equilibrium speed forthe above configuration and the coefficient of insensitivenessif friction is equivalent to a force of 20N at the sleeve
+Determine the loads on the spring atthe lowest and highest equilibrium speeds and the stiffnessof the spring.
+Calculate the minimum speed of a Porter governor , whichhas equal arms each 200mm long and are pivoted on the axisof rotation. 
+Determine the balancing massrequired at a radius of 100 mm. Specify the location of thismass with respect to m1.
+determine the magnitude of the masses and their corresponding angular positions.
+Determinethe magnitude of primary and secondary balancing.
+Determine the magnitude of primary and secondary unbalanced forces.
+Determine the magnitude of thebalancing mass required to be placed opposite to the crank ata radius of 150mm. 
+find the magnitude of theunbalanced force due to the balancing mass.
+Findthe magnitude and direction of the balancing masses.
+Determinei)The mass P and its angular position.
+Find the maximum primary andsecondary forces acting on the frame of the compressorwhen running at 3000 rpm.
+Find the frequency of transversevibrations.
+Determine thefrequency of longitudinal and transverse vibrations of theshaft.
+Determine the dampingfactor, critical damping coefficient and logarithmicdecrement.
+Calculate the whirling speed of a shaft 20 mm diameter and0.6 m long, carrying a mass of 1 kg at its mid point.
+Determine the diameter of the shaft for the portionB so that the node of the torsional vibration of the systemwill be at the center of 500 mm long segment.
+determine the frequency of vibration. 
+find the natural frequency of torsional oscillations.
+Find thefrequency of torsional vibration, if the modulus of rigidityfor the shaft material is 80GN/m2.
+Find the necessary stiffness of the elastic support and theamplitude of vibration at 800 rpm.
+Find the damping factor and logarithmic decrement.
+Calculate the frequency offree vibrations and verify that a viscous damping force of1000N at a speed of 1 m/s is just sufficient to make themotion aperiodic.
+Derive Steady Flow Energy Equation, when the device is an air compressor.
+Sketch the constant volume gas thermometer and explain?
+Determine the change in internal energy of the gas?
+Determine the corresponding temperature of the fluid, express in degrees Kelvin and degrees Rankine?
+Derive the steady flow energy equation. 
+Derive the expression for work done in .
+Determine the work done in each process?
+Determine the net work transfer to the system?
+Solve one T -dS equation by using Maxwells relations? 
+Find the equivalent resistance for the following circuit?
+11 A piece of certain wire length of 40m length and 0.07cm in radius has a.
+resistance of 15ohm, Calculate the specific resistance of the material?
+If 3 capacitors of values 4mF, 6mF, 8mF are connected in series. Calculate the effective capacitance?
+If 3 inductors of values 4mH, 6mH, 8mH are connected in series. Calculate the effective inductance?
+If 3 inductors of values 4mH, 6mH, 8mH are connected in parallel. Calculate the effective inductance?
+What will be the power consumed by each bulb? Will such a combination work?
+A metal filament lamp rated 750w, 110v is to be connected in series with a capacitor across a 220v, 50HZ SUPPLY. calculate.
+find the following:.
+Determine i. The turns ratio ii. The number of turns in each winding iii. 
+Calculate i) The number of primary and secondary turns, and.
+Calculate the induced EMF for a 6 pole DC Shunt generator having an armature and field Resistances of 0.25  and 50  respectively delivers a.
+Calculate the value of the multiplier to be connected inseries with the instrument so that it can be used as a voltmeter for measuringfull. Scale.
+Calculate the values of resistance required to enable the instrument to be used (a) as a 010 A ammeter and (b) as a 0100 V voltmeter. 
+State the mode of resistance connection in each case?
+Calculate the values of resistance required to enable the instrument to be used (a) as a 0100 V voltmeter. State the mode ofresistance connection in each case?
+In what ways CAD can help manufacturing activity? Discuss.
+Write down the different techniques for the hidden surfaceremoval. Explain?
+Find the equations of the resulting Bezier curve .Also find points on the curve for u=0,0.25,0.5,1 respectively.
+Find all the layer-related commands on your system, specifically how to select/deselect layers, s, assigny layers of existing entities.
+Select a single row deep groove ball bearing for a radial load of 4000 N and an axial load of 5000 N.
+Find, (1)The amount of artificial cooling required. (2)The mass of lubricating oilrequired.
+Design a journal bearing for a centrifugal pump from the following data: .
+Calculate also mass of the lubricating oil required for artificial cooling.
+Determine the length of the bearing and amount of heat to be removed by the lubricant per minute. Viscosity of oil at 60oC is 0.021 N/ms.
+Design a plain carbon steel centre crankshaft for a single acting four stroke single cylinder engine for the following data.
+Design a plain carbon steel centre crankshaft for a single acting four stroke single cylinder engine for the following data: Bore = 250 mm.
+Find minimum number of belts and pulley diameter. The coefficient of friction between belt and pulley is 0.25.
+Design the chain drive by calculating leading dimensions, number of teeth on the sprocket and specify the breaking strength of the chain. 
+Design a pair of spur gears to transmit 18 KW at 3000 rpm of pinion. Velocity ratio required is 6:1. Design should be as compact as possible.
+Determine components of resultant force on the gear teeth. Sketch the free body diagram of the forces acting on mating gear teeth.
+Determine module of the gear from strength point of view. Check design for wear.
+What should be module, Face width and number of teeth on each pair of spur gears .
+Design a pair of spur gears to transmit 20 KW at 2800 rpm of pinion. Velocity ratio required is 6:1. Design should be as compact as possible.
+calculate i) Helix angle ii) Normal pitch iii) Transverse pitch iv) Number of teeth for each gear v) Addendum vi) Dedandum vii) Whole depth viii) Clearance ix) Tooth thickness x) Working depth xi) Outside diameters xii) Centre distance xiii) Root circle diameters xiv) Base circle diameters
+find the following: i) Outside diameter of gears ii) Resultant tooth load tangent to pitch cone, iii) Radial load on the pinion iv) Thrust on the pinion. Assume low carbon cast steel 0.2%C heat treated as the material for both the gears.
+Determine.i. The power required to drive the screw.
+Findi. The torque required to rotate the screw.
+Determine.i. The power required to drive the screw; and.
+Find the force required at the end of a lever which is 450mm long in order to lift and lower the load. 
+Determine.i.The power required to drive the screw; and.
+Determine the torque required to overcome the inertia forces,neglecting the gravitational effects. Assume the links to beof uniform cross-section.
+determine the requiredinput torque for a force of 5000N acting from left to right onthe slid.
+find the force required at the end of the spanner 0.5 mlong when the load on the bolt is10k.
+find i) the equilibrium speed forthe above configuration and the coefficient of insensitivenessif friction is equivalent to a force of 20N at the sleeve.
+Determine the magnitude of thebalancing mass required to be placed opposite to the crank ata radius of 150mm .
+Sketch the PV and TS diagrams of Carnot cycle.
+Determine the temperature of sink?
+Determine the entropy increase of Universe.
+determine the rate of heat rejection from the heat pump, if the rate of heat supply to the heat engine is 50kW?
+determine the temperature of the reservoir to which the heat pump rejects heat.
+Determine the final temperature, if the system is brought to an equilibrium state.
+calculate the maximum work which can be obtained from the system?
+Neglecting K.E and P.E changes, determine per kg of air.
+Derive the changes in internal energy during a process with variable specific heats.
+Derive the changes in enthalpy during a process with variable specific heats. 
+Derive the expression for work done in a non-flow process, if the process is adiabatic?
+Discuss briefly the reduced properties?
+Draw the phase diagram on p-v diagrams with water as pure substance?
+Draw the phase equilibrium diagram for a pure substance on T-s plot with relevant constant property line?
+Draw the phase equilibrium diagram for a pure substance on H-s plot with relevant constant property line?
+Derive the Clausius Claperon equation?
+Find the pressure, mass, specific volume, enthalpy, entropy and internal energy?
+Determine the ideal work output of the Turbine per kg of steam?
+Determine the quality of the steam in pipe line?
+Determine the quality of steam in the pipe line?
+Determine the enthalpy and entropy of steam and the pressure is 2MPa and the specific volume is 0.09m3/kg.
+Determine the final pressure steam quality and entropy change in the process?
+Determine the pressure, temperature, specific volume, enthalpy and internal energy?
+Calculate the final temperature and heat transfer, if the fluid is air?
+Calculate the final pressure, work done and change of internal energy per kg of fluid, if the fluid is air?
+Solve that for an ideal gas the slope of the constant volume line on the T-S diagram is more than that of the constant pressure line.
+Show that for an isentropic expansion of gas Tbv(a-b)ekT=constant.
+Find the final specific volume, the final temperature and the heat transfer per kg of fluid, if the fluid is air.
+Find its molecular weight and the gas constant?
+Find the work done, the heat transfer and changes in internal energy, enthalpy and entropy?
+Find the specific volume and the work done per kg of fluid, if the fluid is air?
+Derive an expression for entropy change of an ideal gas from Tds equations?
+Derive the expression for internal energy?
+Locate i) sensible heating ii) sensible cooling iii) heating and humidification iv) heating and dehumidification on psychrometric chart?
+Obtain the expression for enthalpy of gas mixture?
+Determine mole fraction and volume fraction in a gas mixture?
+Determine mole fraction and partial pressure in a gas mixture?
+Determine enthalpy of a gas mixture?
+Determine the entropy of a gas mixture?
+Derive the Carriers equation.
+Calculate per kg of gas, the work done and the heat flow. Take Cp for CO2=1.235kJ/kgK and O2=1.088kJ/kgK and N2 is .172kJ/kgK.
+Calculate the values of Cp,Cv for the mixture.
+Calculate i) Gas constant for air ii)Apparent molecular weight.
+Calculate mass of oxygen required and volume of the container?
+Find the final condition of air?
+Find out i)the temperature of air at the end of the drying process, ii) the relative humidity at the end of the cooling process.
+List the Processes in Otto cycle and represent on P-V and T-S diagrams?
+Draw the Atkinson cycle? How it differs from Otto cycle?
+Derive the air standard efficiency of Diesel cycle?
+Draw the Sketch P-V and T-S diagrams of Bell-Coleman cycle while representing process and hence deduce its COP?
+Draw the PV and TS diagram of Atkinson Cycle?
+Draw the PV and TS diagram of Ericsson Cycle?
+Draw the PV and TS diagram of Lenoir Cycle?
+Draw the PV and TS diagram of Sterling Cycle?
+Draw the PV and TS diagrams of dual combustion cycle?
+Sketch the Otto cycle and explain the processes in the cycle.
+Derive the expression for air standard efficiency of a constant volume cycle?
+Calculate work done per kg of gas and efficiency of the cycle. Take Cp = 0.92 and Cv=0.7.
+Find the air standard efficiency and the mean effective pressure of the cycle?
+Calculate power required to drive the compressor?
+Calculate theoretical C.O.P of the system. Take  of air is 1.4.
+Explain the need of limit system.
+Why it is necessary to give tolerance on Engineering dimensions?
+Explain the relationship between the Cost Vs tolerance.
+Differentiate between Hole basis and Shaft basis systems of the fits.
+Discuss about types of Assemblies used in engineering.
+Explain about Standard limit systems in order to have universal interchangeability.
+Explain the working mechanism of a dial indicator with neat diagram.
+Explain the construction and working of bevel protractor with neat diagram.
+What is wringing and explain the procedure for wringing of slip gauges?
+Explain the principle of sine bar.
+Explain the Taylors principle of gauge design.
+what are the essential consideration in selecting materials for gauges?
+List out some applications of a Tool makers microscope.
+What are interferometers and explain their advantages over optical flats?
+State the advantages and possible sources of errors in CMM.
+Describe the elimination approach, with an example.
+Describe the penalty approach for multipoint constraint with an example.
+Determine the nodal displacements and stresses.
+Determine the nodal displacement, Element stresses for axially loaded bar as shown in the fig. below
+Determine nodal displacement for above bar element.
+Determine the a)nodal displacements, b)element stresses and support reactions.
+Derive element stiffness and load vector Using, Galerkin Approach.
+Using penalty approach for handling boundary condtions, do the following.
+Determine the nodal displacements.
+Determine the stress in each material.
+Determine the reaction forces.
+Determine the displacement field, stress and support reactions in the body.
+Determine the axial stress distribution in the rod, using two quadratic elements.
+determine the forces developed in the legs of the tripod.
+determine the nodal displacements, element stresses and support reactions.
+determine the support reactions also.
+determine the a) displacements and b)stresses in the bars .
+Calculate nodal displacements and element stresses for the members shown in fig.
+Determine Nodal displacements and Element stresses in the truss shown in fig.
+Derive the Stiffness matrix for a 3D truss Element.
+determine the following: a) Slopes at nodes 2 and 3.
+Calculate the deflection under the load and construct the shear force and bending moment diagrams for the beam.
+Derive the Hermite shape functions for a beam element.
+Draw beam element in global and intrinsic co ordinate system.
+Derive element stiffness matrix for a beam element.
+Derive element stiffness matrix for a truss element in global coordinate system.
+determine the stress in each element.
+Derive stiffness matrix and stress equation for a truss element.
+determine the following:a) The vector qb) The stress in the elementc) The K matrix.
+Write down the element stiffness matrix k for each element.
+Determine the deflection and slope under the point load for the beam shown in fig given.
+calculate the deflection under the load and construct shear force and bending moment diagram for the beam.
+Determine the nodal displacements and slopes for the beam shown in fig. 
+find the moment at the mid point of element.
+Determine the nodal displacements and slopes at the position of onefourth distance from the support of shaft.
+Formulate the finite element equations for the element shown in fig2.1.
+Derive the strain displacement matrix for triangular element.
+Determine N1N2 and the ycoordinate of point P.
+Determine (i) the x, y coordinates of a point P whose location at  =0.5,=0.5 (ii) the displacement of point P(u,v) (iii)the jacobian at P.
+Evaluate the Integral I= -11 (32+3) d using Gaussian quadrature method.
+Determine the shape functions for a 8 node quadratic quadrilateral element(boundary noded).
+Derive the a)shape function and b) strain displacement matrices for triangular element of revolving body.
+determine the local co-ordinates of the point P whose Cartesian co=ordinates as.
+Determine the following.
+shape functions of the element N1,N2 &N3.
+Explain the concept of numerical integration and its utility in generating Isoperimetric finite element matrices.
+evaluate the integral I=  ( )dx dy in the limits of -1 to +1 using gauss quadrature numerical integration and verify with exact solution.
+Formulate element equations for the exisymmetric element shown in fig.
+Determine the jacobian for the (x, y)  (, ) transformation for the element shown in fig, also find the area of the triangle.
+Determine the x and y coordinate of p.
+Determine the strain displacement matrix for the TETRAHEDRAL element as shown in fig.
+Derive thermal stiffness matrix for one dimensional heat conduction with lateral surface convection and with internal heat generation.
+Describe heat transfer analysis for composite wall.
+Describe heat transfer analysis for straight fin.
+Derive the Strain displacement Matrix for 2D-Thin plate.
+Describe heat transfer analysis for tapered fin.
+Determine the temperature distribution in a fig of circular goss-section shown in fig. 
+Calculate the nodal temperature using one dimensional analysis of a fin as shown in fig.
+Write down the differential equations of 1D steady state heat conduction problem.
+What are different types of boundary conditions for 1D heat conduction problems?
+Obtain the functional approach of finite element equations for a one dimensional heat conduction problem.
+Derive one dimensional steady state heat conduction equation.
+Compare the finite element formulations of structural problems with heat transfer problems.
+Derive one dimensional steady state heat conduction equation and apply to one dimensional fin problem.
+Explain the methodology for the treatment of all three boundary conditions in a 1-D heat transfer element?
+Derive element equations for a one dimensional heat conduction element by considering the weak form.
+Derive the conductivity matrix and thermal load vector for the one dimensional finite element for the three boundary conditions.
+Give a brief description of steady state problems.
+Determine the nodal temperature in a composite wall shown in fig.
+Determine the temperature distribution in a fin of circular cross section shown in fig1.5.
+Determine the eigen values and the associated Eigen vectors of the matrix [A] given by.
+State the properties of Eigen Values.
+Determine the Natural frequency of the beam shown in the figure.
+Derive the eigen value eigen vector and mode shapes of the given stepped bar element.
+Derive Approximate the first two natural frequencies of a cantilever beam using one element model.
+Determine the approximate first two natural frequeneves of a simply supported beam using on a element.
+Determine the mass matrix for truss element with an example.
+Develop the global stiffness and Determine the nodal displacements.
+Develop the global stiffness and mass matrix and Determine the natural frequencies.
+Derive the elemental mass matrix for 1-D bar element and 1-D plane truss element.
+Determine the natural frequencies and mode shapes of a stepped bar.
+Develop the global stiffness .
+Determine the nodal displacements and stresses using elimination approach.
+develop the global stiffness and mass matrix and determine the natural frequencies.
+Determine the Eigenvalues and Eigenvectors for the stepped bar shown.
+Evaluate the lowest Eigenvalue and the corresponding Eigenmode for the beam shown in Figure below.
+Determine the Eigenvalues and Eigenvectors for the stepped bar shown in Figure below.
+Draw the syntax tree for the assignment statement. a :=b * -c + b * -c.
+Show the code sequence generated by the simple code generation.
+Explain the various phases of a compiler in detail. Also Write down the output for the following expression after each phase a: =b*c-d.
+Write down the output after each phase.
+Construct the predictive parser the following grammar:.
+Construct the behavior of the parser on the sentence (a, a) using the grammar specified above.
+Construct a predictive parsing table for the grammar given above.
+Verify whether the input string id + id * id is accepted by the grammar or not.
+Prepare the predictive parser for the following grammar:.
+calculate the operator precedence relation and the precedence functions E  E + E|E- E|E * E|E / E|E E|(E)|-E|id.
+Find the inductance value?
+Calculate the effective capacitance?
+Calculate the specific resistance of the material?
+Calculate the effective inductance?
+Calculate i) Current in the coil ii) Potential difference across each element?
+Find the voltage across R, L, phase angle in series R-L circuit, with R = 100ohms and L = 50mH and input voltage 10V, 100Hz?
+Find the voltage across R, C phase angle in series R-C circuit, with R = 100ohms and C = 50F and input voltage 10V, 100Hz?
+Find the power, current in series R-C circuit, with R = 120 ohms and C=10F and input voltage 100V, 50Hz?
+Find the voltage across R, L, phase angle in series R-L circuit, with R = 100ohms and L = 100mH and input voltage 10V, 100Hz?
+calculate(i) The capacitance required (ii) the power factor.
+Find the number of turns in the low voltage winding.
+Calculate (i) the maximum flux density in the core (ii)induced emf in the secondary winding.
+Determinei. The turns ratio.
+Calculatei) The number of primary and secondary turns.
+Determine the secondary current at which maximum efficiency will occur.
+Calculate the e.m.f by 4 pole wave wound generator having 65 slots with.
+conductors per slot when driven at 1200 rpm the flux per pole is 0.02 wb?
+what is the current per path of the armature if the armature winding is lap or wave wound?
+Calculate i) The speed at which the generator must be run to generate 300v. 
+What would be the speed if the generated were wave wound?
+Determine i. armature current ii. field current iii. Back emf developed at full load?
+Determine i) Synchronous speed ii) Slip speed per.
+Calculate the value of torque established by the armature of a 4pole motor having 774 conductors,.
+Calculate the induced EMF for a 6 pole DC Shunt generator having an armature .
+Calculate i. Torque developed by the armature.
+Calculate the value of the multiplier to be connected in series with the instrument.
+calculate the approximate value of series resistance needed to enable the instrument.
+Calculate the value of the multiplier to be connected in series with the instrument so that it can be used as a voltmeter.
+Determine the number of turns required to produce an angular deflection.
+Calculate the values of resistance required to enable the instrument to be used.
+Draw a neat diagram for Open Nebula high level architecture.
+Sketch a neat diagram for hosting of applications on servers.
+Draw a neat a of autonomic cloud bridging.
+Draw a neat sketch for automated policy based management with brief explanation.
+Sketch a three cloud service models in a cloud landscape of major providers.
+Sketch a neat diagram for a deployment scenario network with brief explanation.
+Comment upon Indian biodiversity with special reference as a  megadiversity nation.  How do biosphere reserves help in conservation of .
+What are the different services that are contributed in various ways by biodiversity.
+Enumerate five important biosphere reserves, national parks and wild life sanctuaries of India. 
+Identify and explain the present day major threats to the biodiversity of .
+Briefly explain the Municipal Solid Waste management.
+What are the problems encountered in the disposal of solid waste from various sources?
+How e-waste can be effectively managed.
+Discuss the salient features of earth summit.
+Briefly explain the Municipal Solid Waste management.
+Write about environmental protection Act.
+Write a note on Impacts of air, water, biological ?
+Write a note on environmental ethics and explain concept of green Building.
+Illustrate  Ecological Foot Print, Life Cycle assessment .
+Write a note on climate change and impacts on human environment.
+Write a note on environmental ethics .
+explain concept of green .
+Disscuss the role of IT in environmen.
+What is the role assigned to central pollution control board .
+Discuss about  basic principle of  AF wave analyzer  with neat sketch. 
+Explain the working of  Basic Spectrum Analyzer  with neat  schematic block diagram.
+Draw the block diagram of general purpose CRO and explain its working.
+Draw  the block diagram of  Sampling oscilloscope and explain its working.
+Draw and explain the Maxwell Bridge with neat diagram and derive the expression for unknown inductance. 
+Model  the Applications of DSP?  Develop the relationship between system function .
+Sketch the discrete time signal x(n) =4  (n+4) + (n)+ 2  (n-1) +  (n-2) .
+Identify the energy and power of x(n) = Aejn u(n). 
+ Illustrate the aliasing effect? How can it be avoided? 
+  Identify a time-variant system.
+  Find the frequency response H(ejw ), magnitude response and phase response.
+Find the impulse response for the causal system y(n)-y(n-1) = x(n)+x(n-1) .
+ determine it s unit sample response h(n).
+ Determine the impulse response and the unit step response of the systems described by the difference equation y(n) = 0.6y(n-1)-0.08 y(n-2) + x(n). 
+ Determine impulse response for cascade of two LTI systems havimg Impulse responses of .
+ Find the Discrete convolution for the following sequence u(n)*u(n-3).
+ Find the response of the following difference equation .
+ Obtain the cascade and parallel form realizations for the following systems .
+ . Determine the output ya(t) of the system. If the input is xa(t) =3 cos 100t + 2 sin 250t ( t in seconds) .
+ Determine the range of a  and bfor which the system is stable with impulse response .
+ Use the one-sided Z-transform to determine y(n) n  0 in the following cases.
+ Demonstrate the overlap-save method.
+ Illustrate the sectioned convolution.
+ Demonstrate the overlap-add  method.
+ Compute the values of WNk ,When N=8, k=2 and also for k=3.
+ Compute the DTFT of the sequence x(n)=an  u(n) for a<1.
+  Show the circular convolution is obtained using concentric circle method? 
+  Draw the 4-point radix-2 DIF-FFT butterfly structure for DFT.
+  Draw the Radix-N FFT diagram for N=6.
+  State and prove the circular time shifting and frequency shifting properties of the DFT.
+  If x(n) denotes a finite length sequence of length N, show that  x((n))N      = x((N  n))N .
+  Define DFT of a sequence. Compute the N - point DFT of the sequence.
+  compute DFT of a sequence (-1)n  for N=4.
+  Determine the circular convolution of the two sequences x1(n)={1 2 3 4} x2(n)={1 1 1 1}  and prove that it is equal to the linear convolution of the same.
+  Find the output y(n) of a filter whose impulse response is h(n) = {1 11} and input signal x(n) = {3 -1 0 1 3 2  0 1 2 1}. Using Overlap add  method.
+  Determine the impulse response for the cascade of two LTI systems having impulse responses h1(n)=(1/2)^n* u(n) h2(n)=(1/4)^n*u(n).
+  Find the output sequence y(n)if h(n)={1 1 1 1} and x(n)={1 2 3 1} using circular convolution .
+  Evaluate the 8-point DFT for the following sequences using DIT-FFT algorithm. x1(n) = 1 for 3  n  3 and 0 otherwise. 
+  Compute the eight-point DFT of the sequence x(n)={0.5 0.5 0.5 0.5 0 0 0 0} using Radix DIT algorithm .
+  Compute the eight-point DFT of the sequence x(n)={0.5 0.5 0.5 0.5 0 0 0 0} using radix DIF algorithm .
+  Given x(n)=2n and N=8 find X(k) using DIT-FFT algorithm.
+  What is the smallest number of DFT and IDFT needed to compute the linear convolution using overlap-add method.
+   What is the smallest number of DFT and IDFT needed to compute the linear convolution using overlap-save method.
+   Evaluate and compare the 8-point for the following sequences using DIT-FFT algorithm.
+   What are "decimation" and "downsampling"?
+   State Buckingham pi theorem.
+   Discuss the patching of inviscid external flow and viscous boundary layer
+flow.
+Write the expression for induced drag.
+What is meant by drag divergence?
+Explain how to read propeller chart.
+Derive the expression to estimate the lift coefficient.
+Explain the uniform flow and source flows with complete derivations.
+Define and explain Kelvin circulation theorem.
+Discuss in detail the flow separation phenomena .
+Derive the integral and differential form of momentum equation. 
+Explain in detail how combination of a uniform flow and doublet flow produces non lifting flow over a cylinder.
+Explain the Kutta Joukowsky theorem and Kelvin circulation theorem.
+Explain in detail variation of drag coefficient with Reynolds number for Circular cylinder.
+ Estimate the corresponding values for the prototype.
+ Explain in brief Lanchesters experiment and Prandtls lifting line theory.
+ Develop the expressions used for.
+determining Velocity potential.
+Why the propeller is twisted by blade element analysis blade angle?
+Explain the concept of slip stream with.
+Derive Rocket equation. Explain the concept  of Aerospace plane .
+ Explain the necessity of LVS criteria in space technology. 
+ Calculate final velocity of rocket.    
+ Write a detail note on space and upper atmospheric environment.
+ What is Re-entry vehicle and explain different types.
+ Derive an expression for Double-dip Re-entry. 
+ Explain the concept of Two body motion.
+ Show that for any two body trajectory V=  ((2/r) -/a) .
+ Show that for any two body trajectory V=  (2/r) +/a .
+ Show that for any two body trajectory V= (2/r) .
+ Show that for any two body trajectory V= (/r) .
+ Derive an equation in terms of velocity at any point on a Circular orbit under two body motions? 
+ Derive an equation in terms of velocity at any point on a hyperbolic orbit under two body motions. 
+What is the velocity of the space shuttle in a 250-n mile circular orbit?(For earth R0=6378.14km,=398,600km3/s2).  
+Design a Hohmann transfer from a circular mars orbit of radius  8000km to a circular mars orbit of a radius  15000 ?
+Write the equations of motion for performance.
+What are the drag reduction methods ?
+ Explain briefly.
+explain aerodynamic relationships for a parabolic drag polar .
+Compare range and endurance obtained for all cruise techniques.
+ Derive range equation for cruise method I .
+ Define Maneuver and Turning performance.  
+ Explain in detail, with relevant formulae specific excess power apply?
+  What is EOM(Equation of Motion)?  
+ Write notes on Military aircraft maneuver performance .
+ Explain the following term :  Aerodynamic forces during climbing Flight ( with neat diagram ).
+ Define climb gradient and climb rate. 
+ Show graphically, the effect of minimum drag speed of flight path control.
+  What are the phases of descending flight?
+  Give two reasons which limit the aircraft maneuver performance. 
+  What are the different types of maneuver?
+ What is range of load factor for military and civil transport aircraft?
+ Define load factor and indicate its significance.
+ Elaborate Cruise Technique - 1 and explain the disadvantages .
+ Elaborate Cruise Technique - 3  9.
+  Explain the effect of alternative fuel flow laws  10 Derive the endurance formula for a piston engine aircraft apply .
+ 11 11 Derive the range expression for a jet powered aircraft. 
+  Derive the range expression for a jet powered aircraft .
+  Describe the pull-up maneuvers with neat sketches and also explain the importance of V-n diagram .
+  Discuss on the aspects of take-off performance safety factors .
+  Explain the need of 'trip fuel' and 'the diversion fuel' .
+  Explain on the engine failure speed and refusal speed .
+Explain the determination of failed length available for take-off for the case of all engines operating and one engine operating .
+Draw the take-off WAT limit chart for a turboprop and explain.
+ Describe the en-route climb and descent performance summary with relevant graphs.
+Explain payload-range diagram and disposable load.
+Describe the constant altitude, constant mach number cruise method  Explain the constant angle of attack, constant altitude cruise method.
+With relevant graphs explain the thrust variation with Mach number and bypass ratio .
+Explain the constant angle of attack, constant Mach no cruise method.
+Obtain the expression for minimum drag speed and explain with relevant graphs .
+Discuss the effect of Mach number on lift and drag coefficient with relevant graphs.
+Draw the V-n diagram and explain.
+Explain the climb gradient and rate of climb with relevant graphs for a jet aircraft .
+Discuss on the effect of wind on climb and descent performance.
+Explain in detail, with relevant formulae, a)Climb rate b)Climb gradient c)Thrust producing engines d)Minimum fuel climmbs.
+Explain about Limit load factor and ultimate load factor with relevant diagrams.
+Derive the ground run and airborne distances for the takeoff performance .
+Discuss briefly the space available and space required for take-off of an aircraft.
+Discuss briefly the space available and space required for landing of an aircraft.
+Explain the four phases of the flight planning briefly .
+What did you understand about aircraft performance? Explain the aircraft performance requirements. 
+Explain Payload-range diagrams.
+ Also, explain the definitions of various limits on range, payload and weight of an aircraft .

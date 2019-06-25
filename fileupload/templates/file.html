@@ -1,0 +1,72 @@
+<!--<html><body>
+<h1>Question    BTlevel</h1>
+<ul>
+    {% for a,b in list %}
+    <li>{{ a }}    {{ b }}</li>
+    {% endfor %}
+</ul>
+{{ data }}
+</body></html>-->
+{% load static %}
+<html>
+    <head>
+        <title>Bloom's Taxonomy levels</title>
+        <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+        <link rel="stylesheet" href="http://bloomtaxo.pythonanywhere.com/media/static/style.css">
+    </head>
+<body>
+<script src="http://bloomtaxo.pythonanywhere.com/media/static/jquery.js"></script>
+<center><div id="overlay">
+     <img src="http://bloomtaxo.pythonanywhere.com/media/static/icon.gif"  alt="" />
+
+</div>
+</center>
+
+<!--<table style="border:1px solid black">
+    <tr>
+        <th >Question</th>
+        <th>Bloom's taxonomy level</th>
+    </tr>
+    {% for a,b in list %}
+    <tr>
+        <td>{{ a }}</td>
+        <td>{{ b }}</td>
+    </tr>
+    {% endfor %}
+</ul>
+</table>
+<style>
+td, th {
+    border: 1px solid black;
+}
+</style>-->
+<div class="table-title">
+<h4>bt-1:Remembering,bt-2:Understanding,bt-3:Applying,bt-4:Analysing,bt-5:Evaluating,bt-6:Creating</h4>
+</div>
+<table class="table-fill">
+<thead>
+<tr>
+<th class="text-left">Question</th>
+<th class="text-left">Bloom's Taxonomy Level</th>
+</tr>
+</thead>
+<tbody class="table-hover">
+    {% for a,b in list %}
+<tr>
+
+<td class="text-left">{{ a }}</td>
+<td class="text-left">{{ b }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+
+<script>
+
+$(window).on('load', function() {
+    $('#overlay').fadeOut();
+});
+</script>
+</body>
+</html>
